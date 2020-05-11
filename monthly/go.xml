@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Go Monthly Trending</title>
+    <description>Monthly Trending of Go in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:38:03 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pion/webrtc</title>
+      <link>https://github.com/pion/webrtc</link>
+      <description>Pure Go implementation of the WebRTC API</description>
+    </item>
+    
+    <item>
+      <title>sundowndev/PhoneInfoga</title>
+      <link>https://github.com/sundowndev/PhoneInfoga</link>
+      <description>Advanced information gathering &amp; OSINT framework for phone numbers</description>
+    </item>
+    
+    <item>
+      <title>iikira/BaiduPCS-Go</title>
+      <link>https://github.com/iikira/BaiduPCS-Go</link>
+      <description>百度网盘客户端 - Go语言编写</description>
+    </item>
+    
+    <item>
+      <title>caddyserver/caddy</title>
+      <link>https://github.com/caddyserver/caddy</link>
+      <description>Fast, multi-platform web server with automatic HTTPS</description>
+    </item>
+    
+    <item>
+      <title>gofiber/fiber</title>
+      <link>https://github.com/gofiber/fiber</link>
+      <description>⚡️ Fiber is an Express inspired web framework written in Go with ☕️</description>
+    </item>
+    
+    <item>
+      <title>gin-gonic/gin</title>
+      <link>https://github.com/gin-gonic/gin</link>
+      <description>Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</description>
+    </item>
+    
+    <item>
+      <title>cloudreve/Cloudreve</title>
+      <link>https://github.com/cloudreve/Cloudreve</link>
+      <description>🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)</description>
+    </item>
+    
+    <item>
+      <title>keybase/client</title>
+      <link>https://github.com/keybase/client</link>
+      <description>Keybase Go Library, Client, Service, OS X, iOS, Android, Electron</description>
+    </item>
+    
+    <item>
+      <title>flipped-aurora/gin-vue-admin</title>
+      <link>https://github.com/flipped-aurora/gin-vue-admin</link>
+      <description>基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~</description>
+    </item>
+    
+    <item>
+      <title>kubernetes/kubernetes</title>
+      <link>https://github.com/kubernetes/kubernetes</link>
+      <description>Production-Grade Container Scheduling and Management</description>
+    </item>
+    
+    <item>
+      <title>evanw/esbuild</title>
+      <link>https://github.com/evanw/esbuild</link>
+      <description>An extremely fast JavaScript bundler and minifier</description>
+    </item>
+    
+    <item>
+      <title>ffuf/ffuf</title>
+      <link>https://github.com/ffuf/ffuf</link>
+      <description>Fast web fuzzer written in Go</description>
+    </item>
+    
+    <item>
+      <title>minio/minio</title>
+      <link>https://github.com/minio/minio</link>
+      <description>MinIO is a high performance object storage server compatible with Amazon S3 APIs</description>
+    </item>
+    
+    <item>
+      <title>chromedp/chromedp</title>
+      <link>https://github.com/chromedp/chromedp</link>
+      <description>A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.</description>
+    </item>
+    
+    <item>
+      <title>cortexlabs/cortex</title>
+      <link>https://github.com/cortexlabs/cortex</link>
+      <description>Machine learning model serving infrastructure</description>
+    </item>
+    
+    <item>
+      <title>ethereum/go-ethereum</title>
+      <link>https://github.com/ethereum/go-ethereum</link>
+      <description>Official Go implementation of the Ethereum protocol</description>
+    </item>
+    
+    <item>
+      <title>junegunn/fzf</title>
+      <link>https://github.com/junegunn/fzf</link>
+      <description>🌸 A command-line fuzzy finder</description>
+    </item>
+    
+    <item>
+      <title>grafana/loki</title>
+      <link>https://github.com/grafana/loki</link>
+      <description>Like Prometheus, but for logs.</description>
+    </item>
+    
+    <item>
+      <title>golang/protobuf</title>
+      <link>https://github.com/golang/protobuf</link>
+      <description>Go support for Google&#39;s protocol buffers</description>
+    </item>
+    
+    <item>
+      <title>jackc/pgx</title>
+      <link>https://github.com/jackc/pgx</link>
+      <description>PostgreSQL driver and toolkit for Go</description>
+    </item>
+    
+    <item>
+      <title>swaggo/swag</title>
+      <link>https://github.com/swaggo/swag</link>
+      <description>Automatically generate RESTful API documentation with Swagger 2.0 for Go.</description>
+    </item>
+    
+    <item>
+      <title>golang/go</title>
+      <link>https://github.com/golang/go</link>
+      <description>The Go programming language</description>
+    </item>
+    
+    <item>
+      <title>hoanhan101/ultimate-go</title>
+      <link>https://github.com/hoanhan101/ultimate-go</link>
+      <description>Ultimate Go study guide</description>
+    </item>
+    
+    <item>
+      <title>wenjianzhang/go-admin</title>
+      <link>https://github.com/wenjianzhang/go-admin</link>
+      <description>基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RABC资源控制，表单构建等）</description>
+    </item>
+    
+    <item>
+      <title>stretchr/testify</title>
+      <link>https://github.com/stretchr/testify</link>
+      <description>A toolkit with common assertions and mocks that plays nicely with the standard library</description>
+    </item>
+    
+  </channel>
+</rss>

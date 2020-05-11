@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Reason Daily Trending</title>
+    <description>Daily Trending of Reason in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:14:15 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>onivim/oni2</title>
+      <link>https://github.com/onivim/oni2</link>
+      <description>Native, lightweight modal code editor</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Common Lisp Weekly Trending</title>
+    <description>Weekly Trending of Common Lisp in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:20:45 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>dimitri/pgloader</title>
+      <link>https://github.com/dimitri/pgloader</link>
+      <description>Migrate to PostgreSQL in a single command!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Emacs Lisp Monthly Trending</title>
+    <description>Monthly Trending of Emacs Lisp in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:36:59 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>org-roam/org-roam</title>
+      <link>https://github.com/org-roam/org-roam</link>
+      <description>Rudimentary Roam replica with Org-mode</description>
+    </item>
+    
+    <item>
+      <title>emacs-helm/helm</title>
+      <link>https://github.com/emacs-helm/helm</link>
+      <description>Emacs incremental completion and selection narrowing framework</description>
+    </item>
+    
+    <item>
+      <title>emacs-lsp/lsp-mode</title>
+      <link>https://github.com/emacs-lsp/lsp-mode</link>
+      <description>Emacs client/library for the Language Server Protocol</description>
+    </item>
+    
+    <item>
+      <title>magit/magit</title>
+      <link>https://github.com/magit/magit</link>
+      <description>It&#39;s Magit! A Git porcelain inside Emacs.</description>
+    </item>
+    
+    <item>
+      <title>emacs-mirror/emacs</title>
+      <link>https://github.com/emacs-mirror/emacs</link>
+      <description>Mirror of GNU Emacs</description>
+    </item>
+    
+    <item>
+      <title>company-mode/company-mode</title>
+      <link>https://github.com/company-mode/company-mode</link>
+      <description>Modular in-buffer completion framework for Emacs</description>
+    </item>
+    
+    <item>
+      <title>abo-abo/swiper</title>
+      <link>https://github.com/abo-abo/swiper</link>
+      <description>Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!</description>
+    </item>
+    
+    <item>
+      <title>syl20bnr/spacemacs</title>
+      <link>https://github.com/syl20bnr/spacemacs</link>
+      <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#39;s Emacs *and* Vim!</description>
+    </item>
+    
+    <item>
+      <title>practicalli/spacemacs.d</title>
+      <link>https://github.com/practicalli/spacemacs.d</link>
+      <description>My configuration for spacemacs</description>
+    </item>
+    
+    <item>
+      <title>Alexander-Miller/treemacs</title>
+      <link>https://github.com/Alexander-Miller/treemacs</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jwiegley/use-package</title>
+      <link>https://github.com/jwiegley/use-package</link>
+      <description>A use-package declaration for simplifying your .emacs</description>
+    </item>
+    
+    <item>
+      <title>joaotavora/yasnippet</title>
+      <link>https://github.com/joaotavora/yasnippet</link>
+      <description>A template system for Emacs</description>
+    </item>
+    
+    <item>
+      <title>hlissner/emacs-doom-themes</title>
+      <link>https://github.com/hlissner/emacs-doom-themes</link>
+      <description>An opinionated pack of modern color-themes</description>
+    </item>
+    
+    <item>
+      <title>hlissner/doom-emacs</title>
+      <link>https://github.com/hlissner/doom-emacs</link>
+      <description>An Emacs framework for the stubborn martian hacker</description>
+    </item>
+    
+    <item>
+      <title>remacs/remacs</title>
+      <link>https://github.com/remacs/remacs</link>
+      <description>Rust ❤️ Emacs</description>
+    </item>
+    
+  </channel>
+</rss>

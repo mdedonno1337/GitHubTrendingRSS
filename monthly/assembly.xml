@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Assembly Monthly Trending</title>
+    <description>Monthly Trending of Assembly in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:34:25 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pret/pokered</title>
+      <link>https://github.com/pret/pokered</link>
+      <description>disassembly of Pokémon Red/Blue</description>
+    </item>
+    
+    <item>
+      <title>leachim6/hello-world</title>
+      <link>https://github.com/leachim6/hello-world</link>
+      <description>Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!</description>
+    </item>
+    
+    <item>
+      <title>pret/pokecrystal</title>
+      <link>https://github.com/pret/pokecrystal</link>
+      <description>disassembly of Pokémon Crystal</description>
+    </item>
+    
+    <item>
+      <title>microsoft/MS-DOS</title>
+      <link>https://github.com/microsoft/MS-DOS</link>
+      <description>The original sources of MS-DOS 1.25 and 2.0, for reference purposes</description>
+    </item>
+    
+  </channel>
+</rss>

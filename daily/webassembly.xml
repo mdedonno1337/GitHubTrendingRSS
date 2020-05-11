@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub WebAssembly Daily Trending</title>
+    <description>Daily Trending of WebAssembly in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:17:24 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>WebAssembly/spec</title>
+      <link>https://github.com/WebAssembly/spec</link>
+      <description>WebAssembly specification, reference interpreter, and test suite.</description>
+    </item>
+    
+  </channel>
+</rss>

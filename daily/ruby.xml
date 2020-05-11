@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Ruby Daily Trending</title>
+    <description>Daily Trending of Ruby in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:14:47 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>jekyll/jekyll</title>
+      <link>https://github.com/jekyll/jekyll</link>
+      <description>🌐 Jekyll is a blog-aware static site generator in Ruby</description>
+    </item>
+    
+    <item>
+      <title>TideSec/Mars</title>
+      <link>https://github.com/TideSec/Mars</link>
+      <description>Mars(战神)——资产发现、子域名枚举、C段扫描、资产变更监测、端口变更监测、域名解析变更监测、Awvs扫描、POC检测、web指纹探测、端口指纹探测、CDN探测、操作系统指纹探测、泛解析探测、WAF探测、敏感信息检测等等</description>
+    </item>
+    
+    <item>
+      <title>rapid7/metasploit-framework</title>
+      <link>https://github.com/rapid7/metasploit-framework</link>
+      <description>Metasploit Framework</description>
+    </item>
+    
+    <item>
+      <title>discourse/discourse</title>
+      <link>https://github.com/discourse/discourse</link>
+      <description>A platform for community discussion. Free, open, simple.</description>
+    </item>
+    
+    <item>
+      <title>opf/openproject</title>
+      <link>https://github.com/opf/openproject</link>
+      <description>OpenProject is the leading open source project management software.</description>
+    </item>
+    
+    <item>
+      <title>CocoaPods/CocoaPods</title>
+      <link>https://github.com/CocoaPods/CocoaPods</link>
+      <description>The Cocoa Dependency Manager.</description>
+    </item>
+    
+    <item>
+      <title>rmosolgo/graphql-ruby</title>
+      <link>https://github.com/rmosolgo/graphql-ruby</link>
+      <description>Ruby implementation of GraphQL</description>
+    </item>
+    
+    <item>
+      <title>Homebrew/homebrew-cask</title>
+      <link>https://github.com/Homebrew/homebrew-cask</link>
+      <description>🍻 A CLI workflow for the administration of macOS applications distributed as binaries</description>
+    </item>
+    
+    <item>
+      <title>thepracticaldev/dev.to</title>
+      <link>https://github.com/thepracticaldev/dev.to</link>
+      <description>Where programmers share ideas and help each other grow</description>
+    </item>
+    
+    <item>
+      <title>tootsuite/mastodon</title>
+      <link>https://github.com/tootsuite/mastodon</link>
+      <description>Your self-hosted, globally interconnected microblogging community</description>
+    </item>
+    
+    <item>
+      <title>ruby/ruby</title>
+      <link>https://github.com/ruby/ruby</link>
+      <description>The Ruby Programming Language [mirror]</description>
+    </item>
+    
+    <item>
+      <title>asciidoctor/asciidoctor</title>
+      <link>https://github.com/asciidoctor/asciidoctor</link>
+      <description>💎 A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.</description>
+    </item>
+    
+    <item>
+      <title>wpscanteam/wpscan</title>
+      <link>https://github.com/wpscanteam/wpscan</link>
+      <description>WPScan is a free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.</description>
+    </item>
+    
+    <item>
+      <title>zammad/zammad</title>
+      <link>https://github.com/zammad/zammad</link>
+      <description>Zammad is a web based open source helpdesk/customer support system</description>
+    </item>
+    
+    <item>
+      <title>puppetlabs/puppet</title>
+      <link>https://github.com/puppetlabs/puppet</link>
+      <description>Server automation framework and application</description>
+    </item>
+    
+    <item>
+      <title>citation-style-language/styles</title>
+      <link>https://github.com/citation-style-language/styles</link>
+      <description>Official repository for Citation Style Language (CSL) citation styles.</description>
+    </item>
+    
+    <item>
+      <title>hartator/wayback-machine-downloader</title>
+      <link>https://github.com/hartator/wayback-machine-downloader</link>
+      <description>Download an entire website from the Wayback Machine.</description>
+    </item>
+    
+    <item>
+      <title>jeremyevans/rodauth</title>
+      <link>https://github.com/jeremyevans/rodauth</link>
+      <description>Ruby&#39;s Most Advanced Authentication Framework</description>
+    </item>
+    
+    <item>
+      <title>freeCodeCamp/devdocs</title>
+      <link>https://github.com/freeCodeCamp/devdocs</link>
+      <description>API Documentation Browser</description>
+    </item>
+    
+    <item>
+      <title>chatwoot/chatwoot</title>
+      <link>https://github.com/chatwoot/chatwoot</link>
+      <description>Simple and elegant live chat software 🔥💬</description>
+    </item>
+    
+    <item>
+      <title>fluent/fluentd</title>
+      <link>https://github.com/fluent/fluentd</link>
+      <description>Fluentd: Unified Logging Layer (project under CNCF)</description>
+    </item>
+    
+    <item>
+      <title>huginn/huginn</title>
+      <link>https://github.com/huginn/huginn</link>
+      <description>Create agents that monitor and act on your behalf. Your agents are standing by!</description>
+    </item>
+    
+    <item>
+      <title>github/explore</title>
+      <link>https://github.com/github/explore</link>
+      <description>Community-curated topic and collection pages on GitHub</description>
+    </item>
+    
+    <item>
+      <title>rubocop-hq/rubocop</title>
+      <link>https://github.com/rubocop-hq/rubocop</link>
+      <description>A Ruby static code analyzer and formatter, based on the community Ruby style guide.</description>
+    </item>
+    
+    <item>
+      <title>hashicorp/vagrant</title>
+      <link>https://github.com/hashicorp/vagrant</link>
+      <description>Vagrant is a tool for building and distributing development environments.</description>
+    </item>
+    
+  </channel>
+</rss>

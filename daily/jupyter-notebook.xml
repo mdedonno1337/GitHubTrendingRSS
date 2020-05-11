@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Jupyter Notebook Daily Trending</title>
+    <description>Daily Trending of Jupyter Notebook in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:09:51 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tensorflow/examples</title>
+      <link>https://github.com/tensorflow/examples</link>
+      <description>TensorFlow examples</description>
+    </item>
+    
+    <item>
+      <title>Pierian-Data/Complete-Python-3-Bootcamp</title>
+      <link>https://github.com/Pierian-Data/Complete-Python-3-Bootcamp</link>
+      <description>Course Files for Complete Python 3 Bootcamp Course on Udemy</description>
+    </item>
+    
+    <item>
+      <title>LingCoder/OnJava8</title>
+      <link>https://github.com/LingCoder/OnJava8</link>
+      <description>《On Java 8》中文版，又名《Java编程思想》 第5版</description>
+    </item>
+    
+    <item>
+      <title>jackfrued/Python-100-Days</title>
+      <link>https://github.com/jackfrued/Python-100-Days</link>
+      <description>Python - 100天从新手到大师</description>
+    </item>
+    
+    <item>
+      <title>pycaret/pycaret</title>
+      <link>https://github.com/pycaret/pycaret</link>
+      <description>An open source, low-code machine learning library in Python</description>
+    </item>
+    
+    <item>
+      <title>lmoroney/dlaicourse</title>
+      <link>https://github.com/lmoroney/dlaicourse</link>
+      <description>Notebooks for learning deep learning</description>
+    </item>
+    
+    <item>
+      <title>lexfridman/mit-deep-learning</title>
+      <link>https://github.com/lexfridman/mit-deep-learning</link>
+      <description>Tutorials, assignments, and competitions for MIT Deep Learning related courses.</description>
+    </item>
+    
+    <item>
+      <title>fastai/numerical-linear-algebra</title>
+      <link>https://github.com/fastai/numerical-linear-algebra</link>
+      <description>Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course</description>
+    </item>
+    
+    <item>
+      <title>CoreyMSchafer/code_snippets</title>
+      <link>https://github.com/CoreyMSchafer/code_snippets</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microsoft/QuantumKatas</title>
+      <link>https://github.com/microsoft/QuantumKatas</link>
+      <description>Tutorials and programming exercises for learning Q# and quantum computing</description>
+    </item>
+    
+    <item>
+      <title>ageron/handson-ml2</title>
+      <link>https://github.com/ageron/handson-ml2</link>
+      <description>A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.</description>
+    </item>
+    
+    <item>
+      <title>enesoriginal/ML-crash-course-notes</title>
+      <link>https://github.com/enesoriginal/ML-crash-course-notes</link>
+      <description>Google&#39;s Machine Learning Crash Course Notes</description>
+    </item>
+    
+    <item>
+      <title>pytorch/vision</title>
+      <link>https://github.com/pytorch/vision</link>
+      <description>Datasets, Transforms and Models specific to Computer Vision</description>
+    </item>
+    
+    <item>
+      <title>mml-book/mml-book.github.io</title>
+      <link>https://github.com/mml-book/mml-book.github.io</link>
+      <description>Companion webpage to the book &quot;Mathematics For Machine Learning&quot;</description>
+    </item>
+    
+    <item>
+      <title>fastai/fastai</title>
+      <link>https://github.com/fastai/fastai</link>
+      <description>The fastai deep learning library, plus lessons and tutorials</description>
+    </item>
+    
+    <item>
+      <title>Kulbear/deep-learning-coursera</title>
+      <link>https://github.com/Kulbear/deep-learning-coursera</link>
+      <description>Deep Learning Specialization by Andrew Ng on Coursera.</description>
+    </item>
+    
+    <item>
+      <title>krittikaiitb/tutorials</title>
+      <link>https://github.com/krittikaiitb/tutorials</link>
+      <description>Set of Jupyter Notebooks, along with datafiles, to get started with Scientific Computing in Astronomy</description>
+    </item>
+    
+    <item>
+      <title>ultralytics/yolov3</title>
+      <link>https://github.com/ultralytics/yolov3</link>
+      <description>YOLOv3 in PyTorch &gt; ONNX &gt; CoreML &gt; iOS</description>
+    </item>
+    
+    <item>
+      <title>guipsamora/pandas_exercises</title>
+      <link>https://github.com/guipsamora/pandas_exercises</link>
+      <description>Practice your pandas skills!</description>
+    </item>
+    
+    <item>
+      <title>sykrn/py-dts</title>
+      <link>https://github.com/sykrn/py-dts</link>
+      <description>Digital Talent Scholarship</description>
+    </item>
+    
+    <item>
+      <title>richzhang/colorization</title>
+      <link>https://github.com/richzhang/colorization</link>
+      <description>Automatic colorization using deep neural networks. &quot;Colorful Image Colorization.&quot; In ECCV, 2016.</description>
+    </item>
+    
+    <item>
+      <title>jantic/DeOldify</title>
+      <link>https://github.com/jantic/DeOldify</link>
+      <description>A Deep Learning based project for colorizing and restoring old images (and video!)</description>
+    </item>
+    
+    <item>
+      <title>DmitryUlyanov/deep-image-prior</title>
+      <link>https://github.com/DmitryUlyanov/deep-image-prior</link>
+      <description>Image restoration with neural networks but without learning.</description>
+    </item>
+    
+    <item>
+      <title>ImperialCollegeLondon/covid19model</title>
+      <link>https://github.com/ImperialCollegeLondon/covid19model</link>
+      <description>Code for modelling estimated deaths and cases for COVID19.</description>
+    </item>
+    
+    <item>
+      <title>codebasics/py</title>
+      <link>https://github.com/codebasics/py</link>
+      <description>Repository to store sample python programs for python learning</description>
+    </item>
+    
+  </channel>
+</rss>

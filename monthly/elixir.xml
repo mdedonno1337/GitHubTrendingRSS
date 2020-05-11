@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Elixir Monthly Trending</title>
+    <description>Monthly Trending of Elixir in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:36:53 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>phoenixframework/phoenix_live_view</title>
+      <link>https://github.com/phoenixframework/phoenix_live_view</link>
+      <description>Rich, real-time user experiences with server-rendered HTML</description>
+    </item>
+    
+    <item>
+      <title>phoenixframework/phoenix</title>
+      <link>https://github.com/phoenixframework/phoenix</link>
+      <description>Peace-of-mind from prototype to production</description>
+    </item>
+    
+    <item>
+      <title>elixir-lang/elixir</title>
+      <link>https://github.com/elixir-lang/elixir</link>
+      <description>Elixir is a dynamic, functional language designed for building scalable and maintainable applications</description>
+    </item>
+    
+    <item>
+      <title>phoenixframework/phoenix_live_dashboard</title>
+      <link>https://github.com/phoenixframework/phoenix_live_dashboard</link>
+      <description>Realtime dashboard with metrics, OS and VM insights</description>
+    </item>
+    
+    <item>
+      <title>elixir-ecto/ecto</title>
+      <link>https://github.com/elixir-ecto/ecto</link>
+      <description>A toolkit for data mapping and language integrated query</description>
+    </item>
+    
+    <item>
+      <title>adriankumpf/teslamate</title>
+      <link>https://github.com/adriankumpf/teslamate</link>
+      <description>A self-hosted data logger for your Tesla 🚘</description>
+    </item>
+    
+    <item>
+      <title>dashbitco/mix_phx_gen_auth_demo</title>
+      <link>https://github.com/dashbitco/mix_phx_gen_auth_demo</link>
+      <description>Example repository for mix phx.gen.auth</description>
+    </item>
+    
+  </channel>
+</rss>

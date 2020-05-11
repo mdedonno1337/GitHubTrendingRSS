@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PHP Weekly Trending</title>
+    <description>Weekly Trending of PHP in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:27:57 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>jqhph/dcat-admin</title>
+      <link>https://github.com/jqhph/dcat-admin</link>
+      <description>🔥 使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码。</description>
+    </item>
+    
+    <item>
+      <title>Ignitetch/AdvPhishing</title>
+      <link>https://github.com/Ignitetch/AdvPhishing</link>
+      <description>This is Advance Phishing Tool ! OTP PHISHING</description>
+    </item>
+    
+    <item>
+      <title>jianyan74/rageframe2</title>
+      <link>https://github.com/jianyan74/rageframe2</link>
+      <description>一个基于Yii2高级框架的快速开发应用引擎</description>
+    </item>
+    
+    <item>
+      <title>tastyigniter/TastyIgniter</title>
+      <link>https://github.com/tastyigniter/TastyIgniter</link>
+      <description>🔥 Powerful, yet easy to use, open source restaurant online ordering, table reservation and restaurant management system</description>
+    </item>
+    
+    <item>
+      <title>PHPMailer/PHPMailer</title>
+      <link>https://github.com/PHPMailer/PHPMailer</link>
+      <description>The classic email sending library for PHP</description>
+    </item>
+    
+    <item>
+      <title>symfony/symfony</title>
+      <link>https://github.com/symfony/symfony</link>
+      <description>The Symfony PHP framework</description>
+    </item>
+    
+    <item>
+      <title>alextselegidis/easyappointments</title>
+      <link>https://github.com/alextselegidis/easyappointments</link>
+      <description>📅 Easy!Appointments - Open Source Appointment Scheduler</description>
+    </item>
+    
+    <item>
+      <title>PHPOffice/PhpSpreadsheet</title>
+      <link>https://github.com/PHPOffice/PhpSpreadsheet</link>
+      <description>A pure PHP library for reading and writing spreadsheet files</description>
+    </item>
+    
+    <item>
+      <title>opencart/opencart</title>
+      <link>https://github.com/opencart/opencart</link>
+      <description>A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.</description>
+    </item>
+    
+    <item>
+      <title>fzaninotto/Faker</title>
+      <link>https://github.com/fzaninotto/Faker</link>
+      <description>Faker is a PHP library that generates fake data for you</description>
+    </item>
+    
+    <item>
+      <title>WordPress/WordPress</title>
+      <link>https://github.com/WordPress/WordPress</link>
+      <description>WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to https://core.trac.wordpress.org/ instead.</description>
+    </item>
+    
+    <item>
+      <title>spatie/laravel-dashboard</title>
+      <link>https://github.com/spatie/laravel-dashboard</link>
+      <description>A beautiful dashboard for Laravel</description>
+    </item>
+    
+    <item>
+      <title>laravel/framework</title>
+      <link>https://github.com/laravel/framework</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monicahq/monica</title>
+      <link>https://github.com/monicahq/monica</link>
+      <description>Personal CRM. Remember everything about your friends, family and business relationships.</description>
+    </item>
+    
+    <item>
+      <title>yiisoft/yii2</title>
+      <link>https://github.com/yiisoft/yii2</link>
+      <description>Yii 2: The Fast, Secure and Professional PHP Framework</description>
+    </item>
+    
+    <item>
+      <title>woocommerce/woocommerce</title>
+      <link>https://github.com/woocommerce/woocommerce</link>
+      <description>An open source eCommerce plugin for WordPress.</description>
+    </item>
+    
+    <item>
+      <title>postaddictme/instagram-php-scraper</title>
+      <link>https://github.com/postaddictme/instagram-php-scraper</link>
+      <description>Get account information, photos, videos, stories and comments.</description>
+    </item>
+    
+    <item>
+      <title>livewire/livewire</title>
+      <link>https://github.com/livewire/livewire</link>
+      <description>A full-stack framework for Laravel that takes the pain out of building dynamic UIs.</description>
+    </item>
+    
+    <item>
+      <title>dompdf/dompdf</title>
+      <link>https://github.com/dompdf/dompdf</link>
+      <description>HTML to PDF converter for PHP</description>
+    </item>
+    
+    <item>
+      <title>librenms/librenms</title>
+      <link>https://github.com/librenms/librenms</link>
+      <description>Community-based GPL-licensed network monitoring system</description>
+    </item>
+    
+    <item>
+      <title>api-platform/core</title>
+      <link>https://github.com/api-platform/core</link>
+      <description>The server component of API Platform: hypermedia and GraphQL APIs in minutes</description>
+    </item>
+    
+    <item>
+      <title>PrestaShop/PrestaShop</title>
+      <link>https://github.com/PrestaShop/PrestaShop</link>
+      <description>PrestaShop offers a fully scalable open source ecommerce solution.</description>
+    </item>
+    
+    <item>
+      <title>Crinsane/LaravelShoppingcart</title>
+      <link>https://github.com/Crinsane/LaravelShoppingcart</link>
+      <description>A simple shopping cart implementation for Laravel</description>
+    </item>
+    
+    <item>
+      <title>danielmiessler/SecLists</title>
+      <link>https://github.com/danielmiessler/SecLists</link>
+      <description>SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.</description>
+    </item>
+    
+    <item>
+      <title>EasyCorp/EasyAdminBundle</title>
+      <link>https://github.com/EasyCorp/EasyAdminBundle</link>
+      <description>The new (and simple) admin generator for Symfony applications.</description>
+    </item>
+    
+  </channel>
+</rss>

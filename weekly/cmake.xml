@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CMake Weekly Trending</title>
+    <description>Weekly Trending of CMake in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:20:32 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft/vcpkg</title>
+      <link>https://github.com/microsoft/vcpkg</link>
+      <description>C++ Library Manager for Windows, Linux, and MacOS</description>
+    </item>
+    
+    <item>
+      <title>Akagi201/learning-cmake</title>
+      <link>https://github.com/Akagi201/learning-cmake</link>
+      <description>learning cmake</description>
+    </item>
+    
+    <item>
+      <title>vrsys/programmiersprachen-helloworld</title>
+      <link>https://github.com/vrsys/programmiersprachen-helloworld</link>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

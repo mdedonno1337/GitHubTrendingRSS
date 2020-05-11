@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Scala Monthly Trending</title>
+    <description>Monthly Trending of Scala in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:44:44 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>apache/spark</title>
+      <link>https://github.com/apache/spark</link>
+      <description>Apache Spark - A unified analytics engine for large-scale data processing</description>
+    </item>
+    
+    <item>
+      <title>lampepfl/dotty</title>
+      <link>https://github.com/lampepfl/dotty</link>
+      <description>Research compiler that will become Scala 3</description>
+    </item>
+    
+    <item>
+      <title>delta-io/delta</title>
+      <link>https://github.com/delta-io/delta</link>
+      <description>An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.</description>
+    </item>
+    
+    <item>
+      <title>ornicar/lila</title>
+      <link>https://github.com/ornicar/lila</link>
+      <description>♞ lichess.org: the forever free, adless and open source chess server ♞</description>
+    </item>
+    
+    <item>
+      <title>scala/scala</title>
+      <link>https://github.com/scala/scala</link>
+      <description>Scala 2 compiler and standard library. For bugs, see scala/bug</description>
+    </item>
+    
+    <item>
+      <title>scalameta/metals</title>
+      <link>https://github.com/scalameta/metals</link>
+      <description>Scala language server with rich IDE features 🚀</description>
+    </item>
+    
+    <item>
+      <title>ghostdogpr/caliban</title>
+      <link>https://github.com/ghostdogpr/caliban</link>
+      <description>Functional GraphQL library for Scala</description>
+    </item>
+    
+    <item>
+      <title>freechipsproject/chisel3</title>
+      <link>https://github.com/freechipsproject/chisel3</link>
+      <description>Chisel 3: A Modern Hardware Design Language</description>
+    </item>
+    
+    <item>
+      <title>snowplow/snowplow</title>
+      <link>https://github.com/snowplow/snowplow</link>
+      <description>Cloud-native web, mobile and event analytics, running on AWS and GCP</description>
+    </item>
+    
+    <item>
+      <title>gatling/gatling</title>
+      <link>https://github.com/gatling/gatling</link>
+      <description>Async Scala-Akka-Netty based Load Test Tool</description>
+    </item>
+    
+    <item>
+      <title>JohnSnowLabs/spark-nlp</title>
+      <link>https://github.com/JohnSnowLabs/spark-nlp</link>
+      <description>State of the Art Natural Language Processing</description>
+    </item>
+    
+    <item>
+      <title>zio/zio</title>
+      <link>https://github.com/zio/zio</link>
+      <description>ZIO — A type-safe, composable library for async and concurrent programming in Scala</description>
+    </item>
+    
+    <item>
+      <title>aditya-grover/node2vec</title>
+      <link>https://github.com/aditya-grover/node2vec</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WeBankFinTech/Linkis</title>
+      <link>https://github.com/WeBankFinTech/Linkis</link>
+      <description>Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.</description>
+    </item>
+    
+    <item>
+      <title>chipsalliance/rocket-chip</title>
+      <link>https://github.com/chipsalliance/rocket-chip</link>
+      <description>Rocket Chip Generator</description>
+    </item>
+    
+    <item>
+      <title>yahoo/CMAK</title>
+      <link>https://github.com/yahoo/CMAK</link>
+      <description>CMAK is a tool for managing Apache Kafka clusters</description>
+    </item>
+    
+    <item>
+      <title>twitter-archive/snowflake</title>
+      <link>https://github.com/twitter-archive/snowflake</link>
+      <description>Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.</description>
+    </item>
+    
+  </channel>
+</rss>

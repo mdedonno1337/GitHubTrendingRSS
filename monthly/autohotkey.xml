@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub AutoHotkey Monthly Trending</title>
+    <description>Monthly Trending of AutoHotkey in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:34:27 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>TaranVH/2nd-keyboard</title>
+      <link>https://github.com/TaranVH/2nd-keyboard</link>
+      <description>ALL of Taran&#39;s scripts - not just for the 2nd keyboard.</description>
+    </item>
+    
+    <item>
+      <title>fuhsjr00/bug.n</title>
+      <link>https://github.com/fuhsjr00/bug.n</link>
+      <description>Tiling Window Manager for Windows</description>
+    </item>
+    
+  </channel>
+</rss>

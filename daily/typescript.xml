@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TypeScript Daily Trending</title>
+    <description>Daily Trending of TypeScript in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:16:50 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>umijs/qiankun</title>
+      <link>https://github.com/umijs/qiankun</link>
+      <description>📦🚀Blazing fast, simple and completed solution for micro frontends.</description>
+    </item>
+    
+    <item>
+      <title>udacity/cloud-developer</title>
+      <link>https://github.com/udacity/cloud-developer</link>
+      <description>content for Udacity&#39;s cloud developer nanodegree</description>
+    </item>
+    
+    <item>
+      <title>microsoft/vscode</title>
+      <link>https://github.com/microsoft/vscode</link>
+      <description>Visual Studio Code</description>
+    </item>
+    
+    <item>
+      <title>denoland/deno</title>
+      <link>https://github.com/denoland/deno</link>
+      <description>A secure JavaScript and TypeScript runtime</description>
+    </item>
+    
+    <item>
+      <title>antvis/G2</title>
+      <link>https://github.com/antvis/G2</link>
+      <description>📊 A highly interactive data-driven visualization grammar for statistical charts.</description>
+    </item>
+    
+    <item>
+      <title>umijs/hooks</title>
+      <link>https://github.com/umijs/hooks</link>
+      <description>React Hooks Library</description>
+    </item>
+    
+    <item>
+      <title>88250/liandi</title>
+      <link>https://github.com/88250/liandi</link>
+      <description>📕 A desktop Markdown note-taking application, supports Windows, Mac and Linux. 一款桌面端的 Markdown 笔记应用，支持 Windows、Mac 和 Linux。</description>
+    </item>
+    
+    <item>
+      <title>homebridge/homebridge</title>
+      <link>https://github.com/homebridge/homebridge</link>
+      <description>HomeKit support for the impatient</description>
+    </item>
+    
+    <item>
+      <title>wechaty/wechaty</title>
+      <link>https://github.com/wechaty/wechaty</link>
+      <description>Conversational RPA SDK for WeChat Individual Account, Powered by TypeScript, Docker, and 💖</description>
+    </item>
+    
+    <item>
+      <title>microsoft/TypeScript</title>
+      <link>https://github.com/microsoft/TypeScript</link>
+      <description>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</description>
+    </item>
+    
+    <item>
+      <title>nestjs/nest</title>
+      <link>https://github.com/nestjs/nest</link>
+      <description>A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript &amp; JavaScript (ES6, ES7, ES8) 🚀</description>
+    </item>
+    
+    <item>
+      <title>antvis/G6</title>
+      <link>https://github.com/antvis/G6</link>
+      <description>♾ A Graph Visualization Framework in JavaScript</description>
+    </item>
+    
+    <item>
+      <title>vuejs/vue-router-next</title>
+      <link>https://github.com/vuejs/vue-router-next</link>
+      <description>The Vue 3 official router (WIP)</description>
+    </item>
+    
+    <item>
+      <title>nikersify/pico</title>
+      <link>https://github.com/nikersify/pico</link>
+      <description>Take browser screenshots in Javascript 📸</description>
+    </item>
+    
+    <item>
+      <title>ant-design/ant-design-pro</title>
+      <link>https://github.com/ant-design/ant-design-pro</link>
+      <description>👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!</description>
+    </item>
+    
+    <item>
+      <title>cdr/code-server</title>
+      <link>https://github.com/cdr/code-server</link>
+      <description>Run VS Code on a remote server.</description>
+    </item>
+    
+    <item>
+      <title>denoland/deno_website2</title>
+      <link>https://github.com/denoland/deno_website2</link>
+      <description>deno.land website</description>
+    </item>
+    
+    <item>
+      <title>lensapp/lens</title>
+      <link>https://github.com/lensapp/lens</link>
+      <description>Lens - The Kubernetes IDE</description>
+    </item>
+    
+    <item>
+      <title>wechat-miniprogram/weui-miniprogram</title>
+      <link>https://github.com/wechat-miniprogram/weui-miniprogram</link>
+      <description>小程序WeUI组件库</description>
+    </item>
+    
+    <item>
+      <title>angular/components</title>
+      <link>https://github.com/angular/components</link>
+      <description>Component infrastructure and Material Design components for Angular</description>
+    </item>
+    
+    <item>
+      <title>storybookjs/storybook</title>
+      <link>https://github.com/storybookjs/storybook</link>
+      <description>📓 UI component dev &amp; test: React, Vue, Angular, React Native, Ember, Web Components &amp; more!</description>
+    </item>
+    
+    <item>
+      <title>umijs/dumi</title>
+      <link>https://github.com/umijs/dumi</link>
+      <description>Documentation generator for React component</description>
+    </item>
+    
+    <item>
+      <title>zeit/now</title>
+      <link>https://github.com/zeit/now</link>
+      <description>Develop. Preview. Ship.</description>
+    </item>
+    
+    <item>
+      <title>wenyan-lang/wenyan</title>
+      <link>https://github.com/wenyan-lang/wenyan</link>
+      <description>文言文編程語言 A programming language for the ancient Chinese.</description>
+    </item>
+    
+    <item>
+      <title>ant-design/ant-design</title>
+      <link>https://github.com/ant-design/ant-design</link>
+      <description>🌈 A UI Design Language and React UI library</description>
+    </item>
+    
+  </channel>
+</rss>

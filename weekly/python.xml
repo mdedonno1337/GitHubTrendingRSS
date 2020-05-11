@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Python Weekly Trending</title>
+    <description>Weekly Trending of Python in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:28:41 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>alexgand/springer_free_books</title>
+      <link>https://github.com/alexgand/springer_free_books</link>
+      <description>Python script to download all Springer books released for free during the 2020 COVID-19 quarantine</description>
+    </item>
+    
+    <item>
+      <title>openai/jukebox</title>
+      <link>https://github.com/openai/jukebox</link>
+      <description>Code for &quot;Jukebox: A Generative Model for Music&quot;</description>
+    </item>
+    
+    <item>
+      <title>entynetproject/ghost</title>
+      <link>https://github.com/entynetproject/ghost</link>
+      <description>Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration.</description>
+    </item>
+    
+    <item>
+      <title>facebookresearch/ParlAI</title>
+      <link>https://github.com/facebookresearch/ParlAI</link>
+      <description>A framework for training and evaluating AI models on a variety of openly available dialogue datasets.</description>
+    </item>
+    
+    <item>
+      <title>frappe/erpnext</title>
+      <link>https://github.com/frappe/erpnext</link>
+      <description>Open Source Alternative to SAP</description>
+    </item>
+    
+    <item>
+      <title>shmilylty/OneForAll</title>
+      <link>https://github.com/shmilylty/OneForAll</link>
+      <description>OneForAll是一款功能强大的子域收集工具</description>
+    </item>
+    
+    <item>
+      <title>saltstack/salt</title>
+      <link>https://github.com/saltstack/salt</link>
+      <description>Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:</description>
+    </item>
+    
+    <item>
+      <title>Tianxiaomo/pytorch-YOLOv4</title>
+      <link>https://github.com/Tianxiaomo/pytorch-YOLOv4</link>
+      <description>Minimal PyTorch implementation of YOLOv4</description>
+    </item>
+    
+    <item>
+      <title>Avik-Jain/100-Days-Of-ML-Code</title>
+      <link>https://github.com/Avik-Jain/100-Days-Of-ML-Code</link>
+      <description>100 Days of ML Coding</description>
+    </item>
+    
+    <item>
+      <title>timgrossmann/InstaPy</title>
+      <link>https://github.com/timgrossmann/InstaPy</link>
+      <description>📷 Instagram Bot - Tool for automated Instagram interactions</description>
+    </item>
+    
+    <item>
+      <title>Neo23x0/sigma</title>
+      <link>https://github.com/Neo23x0/sigma</link>
+      <description>Generic Signature Format for SIEM Systems</description>
+    </item>
+    
+    <item>
+      <title>microsoft/nni</title>
+      <link>https://github.com/microsoft/nni</link>
+      <description>An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.</description>
+    </item>
+    
+    <item>
+      <title>mkocabas/VIBE</title>
+      <link>https://github.com/mkocabas/VIBE</link>
+      <description>Official implementation of CVPR2020 paper &quot;VIBE: Video Inference for Human Body Pose and Shape Estimation&quot;</description>
+    </item>
+    
+    <item>
+      <title>openai/gym</title>
+      <link>https://github.com/openai/gym</link>
+      <description>A toolkit for developing and comparing reinforcement learning algorithms.</description>
+    </item>
+    
+    <item>
+      <title>TheAlgorithms/Python</title>
+      <link>https://github.com/TheAlgorithms/Python</link>
+      <description>All Algorithms implemented in Python</description>
+    </item>
+    
+    <item>
+      <title>NVlabs/stylegan2</title>
+      <link>https://github.com/NVlabs/stylegan2</link>
+      <description>StyleGAN2 - Official TensorFlow Implementation</description>
+    </item>
+    
+    <item>
+      <title>soimort/you-get</title>
+      <link>https://github.com/soimort/you-get</link>
+      <description>⏬ Dumb downloader that scrapes the web</description>
+    </item>
+    
+    <item>
+      <title>freqtrade/freqtrade</title>
+      <link>https://github.com/freqtrade/freqtrade</link>
+      <description>Free, open source crypto trading bot</description>
+    </item>
+    
+    <item>
+      <title>deezer/spleeter</title>
+      <link>https://github.com/deezer/spleeter</link>
+      <description>Deezer source separation library including pretrained models.</description>
+    </item>
+    
+    <item>
+      <title>injetlee/Python</title>
+      <link>https://github.com/injetlee/Python</link>
+      <description>Python脚本。模拟登录知乎， 爬虫，操作excel，微信公众号，远程开机</description>
+    </item>
+    
+    <item>
+      <title>huggingface/transformers</title>
+      <link>https://github.com/huggingface/transformers</link>
+      <description>🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.</description>
+    </item>
+    
+    <item>
+      <title>raspberrypi/documentation</title>
+      <link>https://github.com/raspberrypi/documentation</link>
+      <description>Official documentation for the Raspberry Pi</description>
+    </item>
+    
+    <item>
+      <title>yoshiko2/AV_Data_Capture</title>
+      <link>https://github.com/yoshiko2/AV_Data_Capture</link>
+      <description>本地电影刮削与整理一体化解决方案</description>
+    </item>
+    
+    <item>
+      <title>django/django</title>
+      <link>https://github.com/django/django</link>
+      <description>The Web framework for perfectionists with deadlines.</description>
+    </item>
+    
+    <item>
+      <title>facebookresearch/detectron2</title>
+      <link>https://github.com/facebookresearch/detectron2</link>
+      <description>Detectron2 is FAIR&#39;s next-generation platform for object detection and segmentation.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub All Languages Monthly Trending</title>
+    <description>Monthly Trending of All Languages in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:33:13 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>vt-vl-lab/3d-photo-inpainting</title>
+      <link>https://github.com/vt-vl-lab/3d-photo-inpainting</link>
+      <description>[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting</description>
+    </item>
+    
+    <item>
+      <title>vuejs/vue-next</title>
+      <link>https://github.com/vuejs/vue-next</link>
+      <description>Repo for Vue 3.0 (currently in beta)</description>
+    </item>
+    
+    <item>
+      <title>hollischuang/toBeTopJavaer</title>
+      <link>https://github.com/hollischuang/toBeTopJavaer</link>
+      <description>To Be Top Javaer - Java工程师成神之路</description>
+    </item>
+    
+    <item>
+      <title>pcottle/learnGitBranching</title>
+      <link>https://github.com/pcottle/learnGitBranching</link>
+      <description>An interactive git visualization to challenge and educate!</description>
+    </item>
+    
+    <item>
+      <title>labuladong/fucking-algorithm</title>
+      <link>https://github.com/labuladong/fucking-algorithm</link>
+      <description>手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.</description>
+    </item>
+    
+    <item>
+      <title>londonappbrewery/Flutter-Course-Resources</title>
+      <link>https://github.com/londonappbrewery/Flutter-Course-Resources</link>
+      <description>Learn to Code While Building Apps - The Complete Flutter Development Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>elunez/eladmin</title>
+      <link>https://github.com/elunez/eladmin</link>
+      <description>项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由</description>
+    </item>
+    
+    <item>
+      <title>CorentinJ/Real-Time-Voice-Cloning</title>
+      <link>https://github.com/CorentinJ/Real-Time-Voice-Cloning</link>
+      <description>Clone a voice in 5 seconds to generate arbitrary speech in real-time</description>
+    </item>
+    
+    <item>
+      <title>EbookFoundation/free-programming-books</title>
+      <link>https://github.com/EbookFoundation/free-programming-books</link>
+      <description>📚 Freely available programming books</description>
+    </item>
+    
+    <item>
+      <title>xkcoding/spring-boot-demo</title>
+      <link>https://github.com/xkcoding/spring-boot-demo</link>
+      <description>spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…</description>
+    </item>
+    
+    <item>
+      <title>Light-City/CPlusPlusThings</title>
+      <link>https://github.com/Light-City/CPlusPlusThings</link>
+      <description>C++那些事</description>
+    </item>
+    
+    <item>
+      <title>covid19india/covid19india-react</title>
+      <link>https://github.com/covid19india/covid19india-react</link>
+      <description>Tracking the impact of COVID-19 in India</description>
+    </item>
+    
+    <item>
+      <title>blitz-js/blitz</title>
+      <link>https://github.com/blitz-js/blitz</link>
+      <description>⚡️Rails-like framework for monolithic, full-stack React apps — built on Next.js</description>
+    </item>
+    
+    <item>
+      <title>apache/shardingsphere</title>
+      <link>https://github.com/apache/shardingsphere</link>
+      <description>Distributed database middleware</description>
+    </item>
+    
+    <item>
+      <title>alibaba/p3c</title>
+      <link>https://github.com/alibaba/p3c</link>
+      <description>Alibaba Java Coding Guidelines pmd implements and IDE plugin</description>
+    </item>
+    
+    <item>
+      <title>TheAlgorithms/Java</title>
+      <link>https://github.com/TheAlgorithms/Java</link>
+      <description>All Algorithms implemented in Java</description>
+    </item>
+    
+    <item>
+      <title>lihengming/spring-boot-api-project-seed</title>
+      <link>https://github.com/lihengming/spring-boot-api-project-seed</link>
+      <description>🌱🚀一个基于Spring Boot &amp; MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~</description>
+    </item>
+    
+    <item>
+      <title>denoland/deno</title>
+      <link>https://github.com/denoland/deno</link>
+      <description>A secure JavaScript and TypeScript runtime</description>
+    </item>
+    
+    <item>
+      <title>jasontaylordev/CleanArchitecture</title>
+      <link>https://github.com/jasontaylordev/CleanArchitecture</link>
+      <description>Clean Architecture Solution Template for Angular 9 and .NET Core 3.1</description>
+    </item>
+    
+    <item>
+      <title>kamranahmedse/developer-roadmap</title>
+      <link>https://github.com/kamranahmedse/developer-roadmap</link>
+      <description>Roadmap to becoming a web developer in 2020</description>
+    </item>
+    
+    <item>
+      <title>jhu-ep-coursera/fullstack-course4</title>
+      <link>https://github.com/jhu-ep-coursera/fullstack-course4</link>
+      <description>Example code for HTML, CSS, and Javascript for Web Developers Coursera Course</description>
+    </item>
+    
+    <item>
+      <title>pion/webrtc</title>
+      <link>https://github.com/pion/webrtc</link>
+      <description>Pure Go implementation of the WebRTC API</description>
+    </item>
+    
+    <item>
+      <title>danielmiessler/SecLists</title>
+      <link>https://github.com/danielmiessler/SecLists</link>
+      <description>SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.</description>
+    </item>
+    
+    <item>
+      <title>caddyserver/caddy</title>
+      <link>https://github.com/caddyserver/caddy</link>
+      <description>Fast, multi-platform web server with automatic HTTPS</description>
+    </item>
+    
+    <item>
+      <title>jwasham/coding-interview-university</title>
+      <link>https://github.com/jwasham/coding-interview-university</link>
+      <description>A complete computer science study plan to become a software engineer.</description>
+    </item>
+    
+  </channel>
+</rss>

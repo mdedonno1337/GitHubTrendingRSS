@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub AutoIt Monthly Trending</title>
+    <description>Monthly Trending of AutoIt in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:34:31 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>J2TEAM/idm-trial-reset</title>
+      <link>https://github.com/J2TEAM/idm-trial-reset</link>
+      <description>Use IDM forever without cracking</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Objective-C Weekly Trending</title>
+    <description>Weekly Trending of Objective-C in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:27:09 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>facebook/facebook-ios-sdk</title>
+      <link>https://github.com/facebook/facebook-ios-sdk</link>
+      <description>Used to integrate the Facebook Platform with your iOS &amp; tvOS apps.</description>
+    </item>
+    
+    <item>
+      <title>youtube/youtube-ios-player-helper</title>
+      <link>https://github.com/youtube/youtube-ios-player-helper</link>
+      <description>Lightweight helper library that allows iOS developers to add inline playback of YouTube videos through a WebView</description>
+    </item>
+    
+    <item>
+      <title>firebase/quickstart-ios</title>
+      <link>https://github.com/firebase/quickstart-ios</link>
+      <description>Firebase Quickstart Samples for iOS</description>
+    </item>
+    
+    <item>
+      <title>AFNetworking/AFNetworking</title>
+      <link>https://github.com/AFNetworking/AFNetworking</link>
+      <description>A delightful networking framework for iOS, macOS, watchOS, and tvOS.</description>
+    </item>
+    
+    <item>
+      <title>react-native-community/react-native-share</title>
+      <link>https://github.com/react-native-community/react-native-share</link>
+      <description>Social share, sending simple data to other apps.</description>
+    </item>
+    
+    <item>
+      <title>ivpusic/react-native-image-crop-picker</title>
+      <link>https://github.com/ivpusic/react-native-image-crop-picker</link>
+      <description>iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping</description>
+    </item>
+    
+    <item>
+      <title>microsoft/react-native-code-push</title>
+      <link>https://github.com/microsoft/react-native-code-push</link>
+      <description>React Native module for CodePush</description>
+    </item>
+    
+    <item>
+      <title>tanin47/tip</title>
+      <link>https://github.com/tanin47/tip</link>
+      <description>Programmable tooltip that can be used with any Mac OS app</description>
+    </item>
+    
+    <item>
+      <title>expo/expo</title>
+      <link>https://github.com/expo/expo</link>
+      <description>An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.</description>
+    </item>
+    
+    <item>
+      <title>uber/ios-snapshot-test-case</title>
+      <link>https://github.com/uber/ios-snapshot-test-case</link>
+      <description>Snapshot view unit tests for iOS</description>
+    </item>
+    
+    <item>
+      <title>TimOliver/TOCropViewController</title>
+      <link>https://github.com/TimOliver/TOCropViewController</link>
+      <description>A view controller for iOS that allows users to crop portions of UIImage objects</description>
+    </item>
+    
+    <item>
+      <title>react-native-community/react-native-viewpager</title>
+      <link>https://github.com/react-native-community/react-native-viewpager</link>
+      <description>React Native wrapper for the Android ViewPager and iOS UIPageViewController.</description>
+    </item>
+    
+    <item>
+      <title>v002/v002-Camera-Live</title>
+      <link>https://github.com/v002/v002-Camera-Live</link>
+      <description>Live Syphon Camera</description>
+    </item>
+    
+    <item>
+      <title>firebase/firebase-ios-sdk</title>
+      <link>https://github.com/firebase/firebase-ios-sdk</link>
+      <description>Firebase iOS SDK</description>
+    </item>
+    
+    <item>
+      <title>yujitach/MenuMeters</title>
+      <link>https://github.com/yujitach/MenuMeters</link>
+      <description>my fork of MenuMeters by http://www.ragingmenace.com/software/menumeters/</description>
+    </item>
+    
+    <item>
+      <title>stripe/stripe-ios</title>
+      <link>https://github.com/stripe/stripe-ios</link>
+      <description>Stripe iOS SDK</description>
+    </item>
+    
+    <item>
+      <title>londonappbrewery/bmi-calculator-flutter</title>
+      <link>https://github.com/londonappbrewery/bmi-calculator-flutter</link>
+      <description>Learn to Code While Building Apps - The Complete Flutter Development Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>dooboolab/react-native-iap</title>
+      <link>https://github.com/dooboolab/react-native-iap</link>
+      <description>react-native native module for In App Purchase.</description>
+    </item>
+    
+    <item>
+      <title>apache/cordova-plugin-wkwebview-engine</title>
+      <link>https://github.com/apache/cordova-plugin-wkwebview-engine</link>
+      <description>Apache Cordova wkwebview engine plugin</description>
+    </item>
+    
+    <item>
+      <title>hackiftekhar/IQKeyboardManager</title>
+      <link>https://github.com/hackiftekhar/IQKeyboardManager</link>
+      <description>Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.</description>
+    </item>
+    
+    <item>
+      <title>tencentyun/MLVBSDK</title>
+      <link>https://github.com/tencentyun/MLVBSDK</link>
+      <description>移动直播 SDK，国内下载镜像：</description>
+    </item>
+    
+    <item>
+      <title>react-native-community/react-native-maps</title>
+      <link>https://github.com/react-native-community/react-native-maps</link>
+      <description>React Native Mapview component for iOS + Android</description>
+    </item>
+    
+    <item>
+      <title>react-native-webrtc/react-native-webrtc</title>
+      <link>https://github.com/react-native-webrtc/react-native-webrtc</link>
+      <description>The WebRTC module for React Native</description>
+    </item>
+    
+    <item>
+      <title>aws-amplify/aws-sdk-ios</title>
+      <link>https://github.com/aws-amplify/aws-sdk-ios</link>
+      <description>AWS SDK for iOS. For more information, see our web site:</description>
+    </item>
+    
+    <item>
+      <title>BradLarson/GPUImage</title>
+      <link>https://github.com/BradLarson/GPUImage</link>
+      <description>An open source iOS framework for GPU-based image and video processing</description>
+    </item>
+    
+  </channel>
+</rss>

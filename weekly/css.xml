@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CSS Weekly Trending</title>
+    <description>Weekly Trending of CSS in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:21:03 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>animate-css/animate.css</title>
+      <link>https://github.com/animate-css/animate.css</link>
+      <description>🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.</description>
+    </item>
+    
+    <item>
+      <title>thewhiteh4t/seeker</title>
+      <link>https://github.com/thewhiteh4t/seeker</link>
+      <description>Accurately Locate Smartphones using Social Engineering</description>
+    </item>
+    
+    <item>
+      <title>necolas/normalize.css</title>
+      <link>https://github.com/necolas/normalize.css</link>
+      <description>A modern alternative to CSS resets</description>
+    </item>
+    
+    <item>
+      <title>uikit/uikit</title>
+      <link>https://github.com/uikit/uikit</link>
+      <description>A lightweight and modular front-end framework for developing fast and powerful web interfaces</description>
+    </item>
+    
+    <item>
+      <title>astrit/css.gg</title>
+      <link>https://github.com/astrit/css.gg</link>
+      <description>700+ Pure CSS, SVG &amp; Figma UI Icons Available in SVG Sprite, styled-components, NPM &amp; API</description>
+    </item>
+    
+    <item>
+      <title>stripe-samples/checkout-one-time-payments</title>
+      <link>https://github.com/stripe-samples/checkout-one-time-payments</link>
+      <description>Use Checkout to quickly collect one-time payments.</description>
+    </item>
+    
+    <item>
+      <title>ant-design-blazor/ant-design-blazor</title>
+      <link>https://github.com/ant-design-blazor/ant-design-blazor</link>
+      <description>🌈An enterprise-class UI components based on Ant Design and Blazor WebAssembly.</description>
+    </item>
+    
+    <item>
+      <title>morpheusthewhite/spicetify-themes</title>
+      <link>https://github.com/morpheusthewhite/spicetify-themes</link>
+      <description>A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli)</description>
+    </item>
+    
+    <item>
+      <title>tailwindcss/tailwindcss</title>
+      <link>https://github.com/tailwindcss/tailwindcss</link>
+      <description>A utility-first CSS framework for rapid UI development.</description>
+    </item>
+    
+    <item>
+      <title>clementmihailescu/Pathfinding-Visualizer</title>
+      <link>https://github.com/clementmihailescu/Pathfinding-Visualizer</link>
+      <description>A visualization tool for various pathfinding algorithms.</description>
+    </item>
+    
+    <item>
+      <title>dotnet-presentations/blazor-workshop</title>
+      <link>https://github.com/dotnet-presentations/blazor-workshop</link>
+      <description>Blazor workshop</description>
+    </item>
+    
+    <item>
+      <title>houshanren/hangzhou_house_knowledge</title>
+      <link>https://github.com/houshanren/hangzhou_house_knowledge</link>
+      <description>2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according to the experience at hangzhou in 2017 to all the people. It&#39;s not easy to buy a own house, so I hope that it would be useful to everyone.</description>
+    </item>
+    
+    <item>
+      <title>RyanFitzgerald/devportfolio</title>
+      <link>https://github.com/RyanFitzgerald/devportfolio</link>
+      <description>A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass</description>
+    </item>
+    
+    <item>
+      <title>robb0wen/synthwave-vscode</title>
+      <link>https://github.com/robb0wen/synthwave-vscode</link>
+      <description>Synthwave inspired colour theme for VS Code 🌅🕶</description>
+    </item>
+    
+    <item>
+      <title>matcornic/hugo-theme-learn</title>
+      <link>https://github.com/matcornic/hugo-theme-learn</link>
+      <description>Porting Grav Learn theme to Hugo</description>
+    </item>
+    
+    <item>
+      <title>jerryc127/hexo-theme-butterfly</title>
+      <link>https://github.com/jerryc127/hexo-theme-butterfly</link>
+      <description>🦋 A Hexo Theme: Butterfly</description>
+    </item>
+    
+    <item>
+      <title>microsoft/TypeScript-Node-Starter</title>
+      <link>https://github.com/microsoft/TypeScript-Node-Starter</link>
+      <description>A starter template for TypeScript and Node with a detailed README describing how to use the two together.</description>
+    </item>
+    
+    <item>
+      <title>juliocesarfort/public-pentesting-reports</title>
+      <link>https://github.com/juliocesarfort/public-pentesting-reports</link>
+      <description>Curated list of public penetration test reports released by several consulting firms and academic security groups</description>
+    </item>
+    
+    <item>
+      <title>Automattic/_s</title>
+      <link>https://github.com/Automattic/_s</link>
+      <description>Hi. I&#39;m a starter theme called _s, or underscores, if you like. I&#39;m a theme meant for hacking so don&#39;t use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That&#39;s what I&#39;m here for.</description>
+    </item>
+    
+    <item>
+      <title>jonasschmedtmann/advanced-css-course</title>
+      <link>https://github.com/jonasschmedtmann/advanced-css-course</link>
+      <description>Starter files, final projects and FAQ for my Advanced CSS course</description>
+    </item>
+    
+    <item>
+      <title>UndeadSec/SocialFish</title>
+      <link>https://github.com/UndeadSec/SocialFish</link>
+      <description>Educational Phishing Tool &amp; Information Collector</description>
+    </item>
+    
+    <item>
+      <title>bastienwirtz/homer</title>
+      <link>https://github.com/bastienwirtz/homer</link>
+      <description>A very simple static homepage for your server.</description>
+    </item>
+    
+    <item>
+      <title>mmistakes/minimal-mistakes</title>
+      <link>https://github.com/mmistakes/minimal-mistakes</link>
+      <description>📐 Jekyll theme for building a personal site, blog, project documentation, or portfolio.</description>
+    </item>
+    
+    <item>
+      <title>google/material-design-icons</title>
+      <link>https://github.com/google/material-design-icons</link>
+      <description>Material Design icons by Google</description>
+    </item>
+    
+    <item>
+      <title>missing-semester/missing-semester</title>
+      <link>https://github.com/missing-semester/missing-semester</link>
+      <description>The Missing Semester of Your CS Education 📚</description>
+    </item>
+    
+  </channel>
+</rss>

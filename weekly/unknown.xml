@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Unknown languages Weekly Trending</title>
+    <description>Weekly Trending of Unknown languages in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:18:49 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ksindi/managers-playbook</title>
+      <link>https://github.com/ksindi/managers-playbook</link>
+      <description>📖 Heuristics for effective management</description>
+    </item>
+    
+    <item>
+      <title>jwasham/coding-interview-university</title>
+      <link>https://github.com/jwasham/coding-interview-university</link>
+      <description>A complete computer science study plan to become a software engineer.</description>
+    </item>
+    
+    <item>
+      <title>kelseyhightower/kubernetes-the-hard-way</title>
+      <link>https://github.com/kelseyhightower/kubernetes-the-hard-way</link>
+      <description>Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.</description>
+    </item>
+    
+    <item>
+      <title>google/eng-practices</title>
+      <link>https://github.com/google/eng-practices</link>
+      <description>Google&#39;s Engineering Practices documentation</description>
+    </item>
+    
+    <item>
+      <title>infosecn1nja/Red-Teaming-Toolkit</title>
+      <link>https://github.com/infosecn1nja/Red-Teaming-Toolkit</link>
+      <description>A collection of open source and commercial tools that aid in red team operations.</description>
+    </item>
+    
+    <item>
+      <title>ForrestKnight/open-source-cs</title>
+      <link>https://github.com/ForrestKnight/open-source-cs</link>
+      <description>Video discussing this curriculum:</description>
+    </item>
+    
+    <item>
+      <title>jackfrued/Python-Core-50-Courses</title>
+      <link>https://github.com/jackfrued/Python-Core-50-Courses</link>
+      <description>Python语言基础50课</description>
+    </item>
+    
+    <item>
+      <title>AobingJava/JavaFamily</title>
+      <link>https://github.com/AobingJava/JavaFamily</link>
+      <description>【互联网一线大厂面试+学习指南】</description>
+    </item>
+    
+    <item>
+      <title>sundowndev/hacker-roadmap</title>
+      <link>https://github.com/sundowndev/hacker-roadmap</link>
+      <description>📌 Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.</description>
+    </item>
+    
+    <item>
+      <title>buftas/Active-Directory-Exploitation-Cheat-Sheet</title>
+      <link>https://github.com/buftas/Active-Directory-Exploitation-Cheat-Sheet</link>
+      <description>A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.</description>
+    </item>
+    
+    <item>
+      <title>karan/Projects</title>
+      <link>https://github.com/karan/Projects</link>
+      <description>📃 A list of practical projects that anyone can solve in any programming language.</description>
+    </item>
+    
+    <item>
+      <title>space10-community/the-growroom</title>
+      <link>https://github.com/space10-community/the-growroom</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>veggiemonk/awesome-docker</title>
+      <link>https://github.com/veggiemonk/awesome-docker</link>
+      <description>🐳 A curated list of Docker resources and projects</description>
+    </item>
+    
+    <item>
+      <title>luruke/browser-2020</title>
+      <link>https://github.com/luruke/browser-2020</link>
+      <description>Things you can do with a browser in 2020 ☕️</description>
+    </item>
+    
+    <item>
+      <title>billy21/Tvlist-awesome-m3u-m3u8</title>
+      <link>https://github.com/billy21/Tvlist-awesome-m3u-m3u8</link>
+      <description>直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵</description>
+    </item>
+    
+    <item>
+      <title>getify/You-Dont-Know-JS</title>
+      <link>https://github.com/getify/You-Dont-Know-JS</link>
+      <description>A book series on JavaScript. @YDKJS on twitter.</description>
+    </item>
+    
+    <item>
+      <title>ossu/computer-science</title>
+      <link>https://github.com/ossu/computer-science</link>
+      <description>🎓 Path to a free self-taught education in Computer Science!</description>
+    </item>
+    
+    <item>
+      <title>github/dmca</title>
+      <link>https://github.com/github/dmca</link>
+      <description>Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at</description>
+    </item>
+    
+    <item>
+      <title>MunGell/awesome-for-beginners</title>
+      <link>https://github.com/MunGell/awesome-for-beginners</link>
+      <description>A list of awesome beginners-friendly projects.</description>
+    </item>
+    
+    <item>
+      <title>xitu/gold-miner</title>
+      <link>https://github.com/xitu/gold-miner</link>
+      <description>🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：</description>
+    </item>
+    
+    <item>
+      <title>gzc426/Java-Interview</title>
+      <link>https://github.com/gzc426/Java-Interview</link>
+      <description>Java 面试必会 直通BAT</description>
+    </item>
+    
+    <item>
+      <title>dgkanatsios/CKAD-exercises</title>
+      <link>https://github.com/dgkanatsios/CKAD-exercises</link>
+      <description>A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation</description>
+    </item>
+    
+    <item>
+      <title>OUYANGSIHAI/JavaInterview</title>
+      <link>https://github.com/OUYANGSIHAI/JavaInterview</link>
+      <description>【Java面试+Java后端技术学习指南】：一份通向理想互联网公司的面试指南，包括 Java，技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、分布式、数据库（MySQL、Redis）、Java 项目实战等</description>
+    </item>
+    
+    <item>
+      <title>sindresorhus/awesome</title>
+      <link>https://github.com/sindresorhus/awesome</link>
+      <description>😎 Awesome lists about all kinds of interesting topics</description>
+    </item>
+    
+    <item>
+      <title>florinpop17/app-ideas</title>
+      <link>https://github.com/florinpop17/app-ideas</link>
+      <description>A Collection of application ideas which can be used to improve your coding skills.</description>
+    </item>
+    
+  </channel>
+</rss>

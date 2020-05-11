@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rich Text Format Monthly Trending</title>
+    <description>Monthly Trending of Rich Text Format in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:44:16 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ckeditor/ckeditor5</title>
+      <link>https://github.com/ckeditor/ckeditor5</link>
+      <description>Powerful rich text editor framework with a modular architecture, modern integrations and features like collaborative editing.</description>
+    </item>
+    
+    <item>
+      <title>ckeditor/ckeditor4</title>
+      <link>https://github.com/ckeditor/ckeditor4</link>
+      <description>The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.</description>
+    </item>
+    
+    <item>
+      <title>songhuiqing/book</title>
+      <link>https://github.com/songhuiqing/book</link>
+      <description>个人认为对技术提升很不错的书</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Scala Weekly Trending</title>
+    <description>Weekly Trending of Scala in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:29:47 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>databricks/Spark-The-Definitive-Guide</title>
+      <link>https://github.com/databricks/Spark-The-Definitive-Guide</link>
+      <description>Spark: The Definitive Guide&#39;s Code Repository</description>
+    </item>
+    
+    <item>
+      <title>apache/spark</title>
+      <link>https://github.com/apache/spark</link>
+      <description>Apache Spark - A unified analytics engine for large-scale data processing</description>
+    </item>
+    
+    <item>
+      <title>chipsalliance/rocket-chip</title>
+      <link>https://github.com/chipsalliance/rocket-chip</link>
+      <description>Rocket Chip Generator</description>
+    </item>
+    
+    <item>
+      <title>scala/scala</title>
+      <link>https://github.com/scala/scala</link>
+      <description>Scala 2 compiler and standard library. For bugs, see scala/bug</description>
+    </item>
+    
+    <item>
+      <title>freechipsproject/chisel3</title>
+      <link>https://github.com/freechipsproject/chisel3</link>
+      <description>Chisel 3: A Modern Hardware Design Language</description>
+    </item>
+    
+    <item>
+      <title>ornicar/lila</title>
+      <link>https://github.com/ornicar/lila</link>
+      <description>♞ lichess.org: the forever free, adless and open source chess server ♞</description>
+    </item>
+    
+    <item>
+      <title>zio/zio</title>
+      <link>https://github.com/zio/zio</link>
+      <description>ZIO — A type-safe, composable library for async and concurrent programming in Scala</description>
+    </item>
+    
+    <item>
+      <title>delta-io/delta</title>
+      <link>https://github.com/delta-io/delta</link>
+      <description>An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.</description>
+    </item>
+    
+    <item>
+      <title>akka/akka</title>
+      <link>https://github.com/akka/akka</link>
+      <description>Build highly concurrent, distributed, and resilient message-driven applications on the JVM</description>
+    </item>
+    
+    <item>
+      <title>gatling/gatling</title>
+      <link>https://github.com/gatling/gatling</link>
+      <description>Async Scala-Akka-Netty based Load Test Tool</description>
+    </item>
+    
+    <item>
+      <title>rtyley/bfg-repo-cleaner</title>
+      <link>https://github.com/rtyley/bfg-repo-cleaner</link>
+      <description>Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala</description>
+    </item>
+    
+    <item>
+      <title>playframework/playframework</title>
+      <link>https://github.com/playframework/playframework</link>
+      <description>Play Framework</description>
+    </item>
+    
+    <item>
+      <title>aditya-grover/node2vec</title>
+      <link>https://github.com/aditya-grover/node2vec</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UB-CSE/TODO-Scheduler</title>
+      <link>https://github.com/UB-CSE/TODO-Scheduler</link>
+      <description>Manages tasks to be completed</description>
+    </item>
+    
+    <item>
+      <title>UB-CSE/OfficeHours</title>
+      <link>https://github.com/UB-CSE/OfficeHours</link>
+      <description>A web-based system to manage office hours</description>
+    </item>
+    
+    <item>
+      <title>snowplow/snowplow</title>
+      <link>https://github.com/snowplow/snowplow</link>
+      <description>Cloud-native web, mobile and event analytics, running on AWS and GCP</description>
+    </item>
+    
+    <item>
+      <title>scalameta/metals</title>
+      <link>https://github.com/scalameta/metals</link>
+      <description>Scala language server with rich IDE features 🚀</description>
+    </item>
+    
+  </channel>
+</rss>

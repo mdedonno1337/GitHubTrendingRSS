@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Erlang Daily Trending</title>
+    <description>Daily Trending of Erlang in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:06:46 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rabbitmq/rabbitmq-server</title>
+      <link>https://github.com/rabbitmq/rabbitmq-server</link>
+      <description>Open source multi-protocol messaging broker</description>
+    </item>
+    
+    <item>
+      <title>erlang/otp</title>
+      <link>https://github.com/erlang/otp</link>
+      <description>Erlang/OTP</description>
+    </item>
+    
+    <item>
+      <title>ninenines/cowboy</title>
+      <link>https://github.com/ninenines/cowboy</link>
+      <description>Small, fast, modern HTTP server for Erlang/OTP.</description>
+    </item>
+    
+    <item>
+      <title>apache/couchdb</title>
+      <link>https://github.com/apache/couchdb</link>
+      <description>Apache CouchDB</description>
+    </item>
+    
+    <item>
+      <title>seth/ej</title>
+      <link>https://github.com/seth/ej</link>
+      <description>Helper module for working with Erlang terms representing JSON</description>
+    </item>
+    
+    <item>
+      <title>rabbitmq/rabbitmq-stomp</title>
+      <link>https://github.com/rabbitmq/rabbitmq-stomp</link>
+      <description>RabbitMQ STOMP plugin</description>
+    </item>
+    
+  </channel>
+</rss>

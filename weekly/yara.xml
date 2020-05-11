@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub YARA Weekly Trending</title>
+    <description>Weekly Trending of YARA in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:32:52 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Yara-Rules/rules</title>
+      <link>https://github.com/Yara-Rules/rules</link>
+      <description>Repository of yara rules</description>
+    </item>
+    
+    <item>
+      <title>CyberMonitor/APT_CyberCriminal_Campagin_Collections</title>
+      <link>https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections</link>
+      <description>APT &amp; CyberCriminal Campaign Collection</description>
+    </item>
+    
+  </channel>
+</rss>

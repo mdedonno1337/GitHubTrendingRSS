@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Pascal Weekly Trending</title>
+    <description>Weekly Trending of Pascal in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:27:50 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pleriche/FastMM5</title>
+      <link>https://github.com/pleriche/FastMM5</link>
+      <description>FastMM is a fast replacement memory manager for Embarcadero Delphi applications that scales well across multiple threads and CPU cores, is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files.</description>
+    </item>
+    
+    <item>
+      <title>cheat-engine/cheat-engine</title>
+      <link>https://github.com/cheat-engine/cheat-engine</link>
+      <description>Cheat Engine. A development environment focused on modding</description>
+    </item>
+    
+  </channel>
+</rss>

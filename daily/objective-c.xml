@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Objective-C Daily Trending</title>
+    <description>Daily Trending of Objective-C in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:12:14 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nhsx/COVID-19-app-iOS-BETA</title>
+      <link>https://github.com/nhsx/COVID-19-app-iOS-BETA</link>
+      <description>Source code of the Beta of the NHS COVID-19 iOS app</description>
+    </item>
+    
+    <item>
+      <title>Tencent/QMUI_iOS</title>
+      <link>https://github.com/Tencent/QMUI_iOS</link>
+      <description>QMUI iOS——致力于提高项目 UI 开发效率的解决方案</description>
+    </item>
+    
+    <item>
+      <title>nextcloud/ios</title>
+      <link>https://github.com/nextcloud/ios</link>
+      <description>📱 Nextcloud iOS app</description>
+    </item>
+    
+    <item>
+      <title>expo/expo</title>
+      <link>https://github.com/expo/expo</link>
+      <description>An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.</description>
+    </item>
+    
+    <item>
+      <title>MustangYM/WeChatExtension-ForMac</title>
+      <link>https://github.com/MustangYM/WeChatExtension-ForMac</link>
+      <description>Mac版微信的功能拓展(A plugin for Mac WeChat)</description>
+    </item>
+    
+    <item>
+      <title>ccgus/fmdb</title>
+      <link>https://github.com/ccgus/fmdb</link>
+      <description>A Cocoa / Objective-C wrapper around SQLite</description>
+    </item>
+    
+    <item>
+      <title>OpenEmu/OpenEmu</title>
+      <link>https://github.com/OpenEmu/OpenEmu</link>
+      <description>🕹 Retro video game emulation for macOS</description>
+    </item>
+    
+    <item>
+      <title>utmapp/UTM</title>
+      <link>https://github.com/utmapp/UTM</link>
+      <description>Virtual machines for iOS</description>
+    </item>
+    
+    <item>
+      <title>react-native-community/react-native-maps</title>
+      <link>https://github.com/react-native-community/react-native-maps</link>
+      <description>React Native Mapview component for iOS + Android</description>
+    </item>
+    
+    <item>
+      <title>CodeTips/BaiduNetdiskPlugin-macOS</title>
+      <link>https://github.com/CodeTips/BaiduNetdiskPlugin-macOS</link>
+      <description>For macOS.百度网盘 破解SVIP、下载速度限制~</description>
+    </item>
+    
+    <item>
+      <title>AFNetworking/AFNetworking</title>
+      <link>https://github.com/AFNetworking/AFNetworking</link>
+      <description>A delightful networking framework for iOS, macOS, watchOS, and tvOS.</description>
+    </item>
+    
+    <item>
+      <title>tencentyun/MLVBSDK</title>
+      <link>https://github.com/tencentyun/MLVBSDK</link>
+      <description>移动直播 SDK，国内下载镜像：</description>
+    </item>
+    
+    <item>
+      <title>blinksh/blink</title>
+      <link>https://github.com/blinksh/blink</link>
+      <description>Blink Mobile Shell for iOS (Mosh based)</description>
+    </item>
+    
+    <item>
+      <title>Hammerspoon/hammerspoon</title>
+      <link>https://github.com/Hammerspoon/hammerspoon</link>
+      <description>Staggeringly powerful macOS desktop automation with Lua</description>
+    </item>
+    
+    <item>
+      <title>halfrost/Halfrost-Field</title>
+      <link>https://github.com/halfrost/Halfrost-Field</link>
+      <description>✍️ 这里是写博客的地方 —— Halfrost-Field 冰霜之地</description>
+    </item>
+    
+    <item>
+      <title>ChenYilong/iOSInterviewQuestions</title>
+      <link>https://github.com/ChenYilong/iOSInterviewQuestions</link>
+      <description>iOS interview questions;iOS面试题集锦（附答案）--学习qq群或 Telegram 群交流 https://github.com/ChenYilong/iOSBlog/issues/21</description>
+    </item>
+    
+    <item>
+      <title>sparkle-project/Sparkle</title>
+      <link>https://github.com/sparkle-project/Sparkle</link>
+      <description>A software update framework for macOS</description>
+    </item>
+    
+    <item>
+      <title>firebase/firebase-ios-sdk</title>
+      <link>https://github.com/firebase/firebase-ios-sdk</link>
+      <description>Firebase iOS SDK</description>
+    </item>
+    
+    <item>
+      <title>renzifeng/ZFPlayer</title>
+      <link>https://github.com/renzifeng/ZFPlayer</link>
+      <description>Support customization of any player SDK and control layer(支持定制任何播放器SDK和控制层)</description>
+    </item>
+    
+    <item>
+      <title>jdg/MBProgressHUD</title>
+      <link>https://github.com/jdg/MBProgressHUD</link>
+      <description>MBProgressHUD + Customizations</description>
+    </item>
+    
+    <item>
+      <title>ripperhe/Bob</title>
+      <link>https://github.com/ripperhe/Bob</link>
+      <description>Bob 是一款 Mac 端翻译软件，翻译方式支持划词翻译和截图翻译，翻译引擎支持有道翻译、百度翻译和谷歌翻译~</description>
+    </item>
+    
+    <item>
+      <title>SDWebImage/SDWebImage</title>
+      <link>https://github.com/SDWebImage/SDWebImage</link>
+      <description>Asynchronous image downloader with cache support as a UIImageView category</description>
+    </item>
+    
+    <item>
+      <title>XVimProject/XVim2</title>
+      <link>https://github.com/XVimProject/XVim2</link>
+      <description>Vim key-bindings for Xcode 9</description>
+    </item>
+    
+    <item>
+      <title>robbiehanson/CocoaAsyncSocket</title>
+      <link>https://github.com/robbiehanson/CocoaAsyncSocket</link>
+      <description>Asynchronous socket networking library for Mac and iOS</description>
+    </item>
+    
+    <item>
+      <title>pytorch/cpuinfo</title>
+      <link>https://github.com/pytorch/cpuinfo</link>
+      <description>CPU INFOrmation library (x86/x86-64/ARM/ARM64, Linux/Windows/Android/macOS/iOS)</description>
+    </item>
+    
+  </channel>
+</rss>

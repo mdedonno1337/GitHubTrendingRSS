@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Pony Daily Trending</title>
+    <description>Daily Trending of Pony in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:13:22 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ponylang/http</title>
+      <link>https://github.com/ponylang/http</link>
+      <description>ponylang HTTP library 🐴 🕸️</description>
+    </item>
+    
+    <item>
+      <title>mfelsche/ponycheck</title>
+      <link>https://github.com/mfelsche/ponycheck</link>
+      <description>Property Based Testing for Ponylang 🐴 ✔️</description>
+    </item>
+    
+  </channel>
+</rss>

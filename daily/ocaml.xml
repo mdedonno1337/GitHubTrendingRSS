@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub OCaml Daily Trending</title>
+    <description>Daily Trending of OCaml in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:12:21 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>returntocorp/semgrep</title>
+      <link>https://github.com/returntocorp/semgrep</link>
+      <description>Fast and syntax-aware semantic code pattern search for many languages: like grep but for code</description>
+    </item>
+    
+    <item>
+      <title>mukul-rathi/bolt</title>
+      <link>https://github.com/mukul-rathi/bolt</link>
+      <description>Bolt is a language with in-built data-race freedom!</description>
+    </item>
+    
+    <item>
+      <title>CodaProtocol/coda</title>
+      <link>https://github.com/CodaProtocol/coda</link>
+      <description>Coda is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security.</description>
+    </item>
+    
+    <item>
+      <title>astrada/google-drive-ocamlfuse</title>
+      <link>https://github.com/astrada/google-drive-ocamlfuse</link>
+      <description>FUSE filesystem over Google Drive</description>
+    </item>
+    
+  </channel>
+</rss>

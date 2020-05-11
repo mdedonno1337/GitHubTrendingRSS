@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Lua Daily Trending</title>
+    <description>Daily Trending of Lua in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:10:38 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>opentibiabr/otservbr-global</title>
+      <link>https://github.com/opentibiabr/otservbr-global</link>
+      <description>OTServBR-Global 12x for OpenTibia community. | Supported by: https://forums.otserv.com.br</description>
+    </item>
+    
+    <item>
+      <title>fw876/helloworld</title>
+      <link>https://github.com/fw876/helloworld</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>koreader/koreader</title>
+      <link>https://github.com/koreader/koreader</link>
+      <description>An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</description>
+    </item>
+    
+    <item>
+      <title>apache/incubator-apisix</title>
+      <link>https://github.com/apache/incubator-apisix</link>
+      <description>Cloud-Native Microservices API Gateway</description>
+    </item>
+    
+    <item>
+      <title>neovim/nvim-lsp</title>
+      <link>https://github.com/neovim/nvim-lsp</link>
+      <description>Nvim LSP client configurations</description>
+    </item>
+    
+    <item>
+      <title>extendedmode/extendedmode</title>
+      <link>https://github.com/extendedmode/extendedmode</link>
+      <description>Community fork of es_extended</description>
+    </item>
+    
+    <item>
+      <title>Openarl/PathOfBuilding</title>
+      <link>https://github.com/Openarl/PathOfBuilding</link>
+      <description>Offline build planner for Path of Exile.</description>
+    </item>
+    
+    <item>
+      <title>karpathy/char-rnn</title>
+      <link>https://github.com/karpathy/char-rnn</link>
+      <description>Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch</description>
+    </item>
+    
+    <item>
+      <title>scipag/vulscan</title>
+      <link>https://github.com/scipag/vulscan</link>
+      <description>Advanced vulnerability scanning with Nmap NSE</description>
+    </item>
+    
+    <item>
+      <title>vulnersCom/nmap-vulners</title>
+      <link>https://github.com/vulnersCom/nmap-vulners</link>
+      <description>NSE script based on Vulners.com API</description>
+    </item>
+    
+    <item>
+      <title>junyanz/CycleGAN</title>
+      <link>https://github.com/junyanz/CycleGAN</link>
+      <description>Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more.</description>
+    </item>
+    
+    <item>
+      <title>DiscworldZA/gta-resources</title>
+      <link>https://github.com/DiscworldZA/gta-resources</link>
+      <description>All the DiscworldZA GTA Resources</description>
+    </item>
+    
+    <item>
+      <title>Stephan-S/FS19_AutoDrive</title>
+      <link>https://github.com/Stephan-S/FS19_AutoDrive</link>
+      <description>FS19 version of AutoDrive - Developer Version</description>
+    </item>
+    
+    <item>
+      <title>teal-language/tl</title>
+      <link>https://github.com/teal-language/tl</link>
+      <description>The compiler for Teal, a typed dialect of Lua</description>
+    </item>
+    
+    <item>
+      <title>ESX-Org/es_extended</title>
+      <link>https://github.com/ESX-Org/es_extended</link>
+      <description>An FiveM RPG framework</description>
+    </item>
+    
+    <item>
+      <title>betaflight/betaflight-tx-lua-scripts</title>
+      <link>https://github.com/betaflight/betaflight-tx-lua-scripts</link>
+      <description>Collection of scripts to configure Betaflight from your TX (currently only supported in OpenTx)</description>
+    </item>
+    
+    <item>
+      <title>sayterdarkwynd/FrackinUniverse</title>
+      <link>https://github.com/sayterdarkwynd/FrackinUniverse</link>
+      <description>1.4.4 SB release version of FrackinUniverse</description>
+    </item>
+    
+    <item>
+      <title>koreader/koreader-base</title>
+      <link>https://github.com/koreader/koreader-base</link>
+      <description>Base framework offering a Lua scriptable environment for creating document readers</description>
+    </item>
+    
+    <item>
+      <title>ESX-Org/esx_policejob</title>
+      <link>https://github.com/ESX-Org/esx_policejob</link>
+      <description>FXServer ESX Police Job</description>
+    </item>
+    
+    <item>
+      <title>keplerproject/lua-compat-5.2</title>
+      <link>https://github.com/keplerproject/lua-compat-5.2</link>
+      <description>Compatibility module providing Lua-5.2-style APIs for Lua 5.1</description>
+    </item>
+    
+    <item>
+      <title>ESX-Org/async</title>
+      <link>https://github.com/ESX-Org/async</link>
+      <description>FXServer Async</description>
+    </item>
+    
+    <item>
+      <title>Windower/Lua</title>
+      <link>https://github.com/Windower/Lua</link>
+      <description>Lua Addons and Scripts</description>
+    </item>
+    
+    <item>
+      <title>OfficerBamford/ROBLOX-EXPLOIT-SCRIPTS</title>
+      <link>https://github.com/OfficerBamford/ROBLOX-EXPLOIT-SCRIPTS</link>
+      <description>Hack</description>
+    </item>
+    
+    <item>
+      <title>ESX-Org/esx_ambulancejob</title>
+      <link>https://github.com/ESX-Org/esx_ambulancejob</link>
+      <description>FXServer ESX Ambulance Job</description>
+    </item>
+    
+  </channel>
+</rss>

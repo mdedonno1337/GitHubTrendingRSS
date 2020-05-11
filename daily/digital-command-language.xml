@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub DIGITAL Command Language Daily Trending</title>
+    <description>Daily Trending of DIGITAL Command Language in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:06:04 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>udacity/ud120-projects</title>
+      <link>https://github.com/udacity/ud120-projects</link>
+      <description>Starter project code for students taking Udacity ud120</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub MATLAB Daily Trending</title>
+    <description>Daily Trending of MATLAB in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:10:56 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>atinesh-s/Coursera-Machine-Learning-Stanford</title>
+      <link>https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford</link>
+      <description>Machine learning-Stanford University</description>
+    </item>
+    
+    <item>
+      <title>kpzhang93/MTCNN_face_detection_alignment</title>
+      <link>https://github.com/kpzhang93/MTCNN_face_detection_alignment</link>
+      <description>Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks</description>
+    </item>
+    
+    <item>
+      <title>PRML/PRMLT</title>
+      <link>https://github.com/PRML/PRMLT</link>
+      <description>Matlab code for machine learning algorithms in book PRML</description>
+    </item>
+    
+  </channel>
+</rss>

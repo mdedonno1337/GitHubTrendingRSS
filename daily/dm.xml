@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub DM Daily Trending</title>
+    <description>Daily Trending of DM in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:06:09 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>BeeStation/BeeStation-Hornet</title>
+      <link>https://github.com/BeeStation/BeeStation-Hornet</link>
+      <description>100% station. 0% bees</description>
+    </item>
+    
+    <item>
+      <title>tgstation/tgstation</title>
+      <link>https://github.com/tgstation/tgstation</link>
+      <description>the /tg/station branch of SS13</description>
+    </item>
+    
+    <item>
+      <title>Baystation12/Baystation12</title>
+      <link>https://github.com/Baystation12/Baystation12</link>
+      <description>The code for Baystation12&#39;s branch of SS13</description>
+    </item>
+    
+  </channel>
+</rss>

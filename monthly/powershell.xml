@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PowerShell Monthly Trending</title>
+    <description>Monthly Trending of PowerShell in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:43:16 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>BankSecurity/Red_Team</title>
+      <link>https://github.com/BankSecurity/Red_Team</link>
+      <description>Some scripts useful for red team activities</description>
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/azure-docs</title>
+      <link>https://github.com/MicrosoftDocs/azure-docs</link>
+      <description>Open source documentation of Microsoft Azure</description>
+    </item>
+    
+    <item>
+      <title>microsoft/Quantum</title>
+      <link>https://github.com/microsoft/Quantum</link>
+      <description>Microsoft Quantum Development Kit Samples</description>
+    </item>
+    
+    <item>
+      <title>MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator</title>
+      <link>https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator</link>
+      <description>AZ-104 Microsoft Azure Administrator</description>
+    </item>
+    
+    <item>
+      <title>actions/virtual-environments</title>
+      <link>https://github.com/actions/virtual-environments</link>
+      <description>GitHub Actions virtual environments</description>
+    </item>
+    
+    <item>
+      <title>AliyunContainerService/k8s-for-docker-desktop</title>
+      <link>https://github.com/AliyunContainerService/k8s-for-docker-desktop</link>
+      <description>为Docker Desktop for Mac/Windows开启Kubernetes和Istio - Enable Kubernetes/Istio on Docker Desktop in China</description>
+    </item>
+    
+    <item>
+      <title>dotnet/docs</title>
+      <link>https://github.com/dotnet/docs</link>
+      <description>This repository contains .NET Documentation.</description>
+    </item>
+    
+    <item>
+      <title>specterops/at-ps</title>
+      <link>https://github.com/specterops/at-ps</link>
+      <description>Adversary Tactics - PowerShell Training</description>
+    </item>
+    
+    <item>
+      <title>Azure/azure-quickstart-templates</title>
+      <link>https://github.com/Azure/azure-quickstart-templates</link>
+      <description>Azure Quickstart Templates</description>
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/PowerShell-Docs</title>
+      <link>https://github.com/MicrosoftDocs/PowerShell-Docs</link>
+      <description>The official PowerShell documentation sources</description>
+    </item>
+    
+    <item>
+      <title>lazywinadmin/PowerShell</title>
+      <link>https://github.com/lazywinadmin/PowerShell</link>
+      <description>PowerShell functions and scripts (SCCM, SCSM, AD, Exchange, O365, ...)</description>
+    </item>
+    
+    <item>
+      <title>dotnet/EntityFramework.Docs</title>
+      <link>https://github.com/dotnet/EntityFramework.Docs</link>
+      <description>Documentation for Entity Framework Core and Entity Framework 6</description>
+    </item>
+    
+    <item>
+      <title>lukesampson/scoop-extras</title>
+      <link>https://github.com/lukesampson/scoop-extras</link>
+      <description>&quot;Extras&quot; bucket for Scoop</description>
+    </item>
+    
+    <item>
+      <title>S3cur3Th1sSh1t/PowerSharpPack</title>
+      <link>https://github.com/S3cur3Th1sSh1t/PowerSharpPack</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PowerShellEmpire/PowerTools</title>
+      <link>https://github.com/PowerShellEmpire/PowerTools</link>
+      <description>PowerTools is a collection of PowerShell projects with a focus on offensive operations.</description>
+    </item>
+    
+    <item>
+      <title>jamesstringerparsec/Parsec-Cloud-Preparation-Tool</title>
+      <link>https://github.com/jamesstringerparsec/Parsec-Cloud-Preparation-Tool</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/azure-docs-cli</title>
+      <link>https://github.com/MicrosoftDocs/azure-docs-cli</link>
+      <description>Repository used to store content for the docs.microsoft.com content for the Azure CLI</description>
+    </item>
+    
+    <item>
+      <title>redcanaryco/atomic-red-team</title>
+      <link>https://github.com/redcanaryco/atomic-red-team</link>
+      <description>Small and highly portable detection tests based on MITRE&#39;s ATT&amp;CK.</description>
+    </item>
+    
+    <item>
+      <title>microsoftgraph/microsoft-graph-docs</title>
+      <link>https://github.com/microsoftgraph/microsoft-graph-docs</link>
+      <description>Documentation for the Microsoft Graph REST API</description>
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/OfficeDocs-SkypeForBusiness</title>
+      <link>https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness</link>
+      <description>Skype for Business and Microsoft Teams documentation</description>
+    </item>
+    
+    <item>
+      <title>Azure/azure-docs-powershell-azuread</title>
+      <link>https://github.com/Azure/azure-docs-powershell-azuread</link>
+      <description>Cmdlets reference help docs for Powershell Azure AD</description>
+    </item>
+    
+  </channel>
+</rss>

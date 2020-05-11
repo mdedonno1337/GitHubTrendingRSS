@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub C Monthly Trending</title>
+    <description>Monthly Trending of C in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:34:56 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>zxystd/itlwm</title>
+      <link>https://github.com/zxystd/itlwm</link>
+      <description>IntelWifi</description>
+    </item>
+    
+    <item>
+      <title>antirez/redis</title>
+      <link>https://github.com/antirez/redis</link>
+      <description>Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.</description>
+    </item>
+    
+    <item>
+      <title>obsproject/obs-studio</title>
+      <link>https://github.com/obsproject/obs-studio</link>
+      <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
+    </item>
+    
+    <item>
+      <title>meetecho/janus-gateway</title>
+      <link>https://github.com/meetecho/janus-gateway</link>
+      <description>Janus WebRTC Server</description>
+    </item>
+    
+    <item>
+      <title>n64decomp/sm64</title>
+      <link>https://github.com/n64decomp/sm64</link>
+      <description>A Super Mario 64 decompilation, brought to you by a bunch of clever folks.</description>
+    </item>
+    
+    <item>
+      <title>Genymobile/scrcpy</title>
+      <link>https://github.com/Genymobile/scrcpy</link>
+      <description>Display and control your Android device</description>
+    </item>
+    
+    <item>
+      <title>MarlinFirmware/Configurations</title>
+      <link>https://github.com/MarlinFirmware/Configurations</link>
+      <description>Configurations for Marlin Firmware</description>
+    </item>
+    
+    <item>
+      <title>Palakis/obs-ndi</title>
+      <link>https://github.com/Palakis/obs-ndi</link>
+      <description>NewTek NDI integration for OBS Studio</description>
+    </item>
+    
+    <item>
+      <title>git/git</title>
+      <link>https://github.com/git/git</link>
+      <description>Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.</description>
+    </item>
+    
+    <item>
+      <title>umlaeute/v4l2loopback</title>
+      <link>https://github.com/umlaeute/v4l2loopback</link>
+      <description>v4l2-loopback device</description>
+    </item>
+    
+    <item>
+      <title>openzfs/zfs</title>
+      <link>https://github.com/openzfs/zfs</link>
+      <description>OpenZFS on Linux and FreeBSD</description>
+    </item>
+    
+    <item>
+      <title>acidanthera/OpenCorePkg</title>
+      <link>https://github.com/acidanthera/OpenCorePkg</link>
+      <description>OpenCore bootloader</description>
+    </item>
+    
+    <item>
+      <title>TheAlgorithms/C</title>
+      <link>https://github.com/TheAlgorithms/C</link>
+      <description>All Algorithms implemented in C</description>
+    </item>
+    
+    <item>
+      <title>thestr4ng3r/chiaki</title>
+      <link>https://github.com/thestr4ng3r/chiaki</link>
+      <description>Free and Open Source PS4 Remote Play Client</description>
+    </item>
+    
+    <item>
+      <title>numpy/numpy</title>
+      <link>https://github.com/numpy/numpy</link>
+      <description>The fundamental package for scientific computing with Python.</description>
+    </item>
+    
+    <item>
+      <title>bigtreetech/BIGTREETECH-TouchScreenFirmware</title>
+      <link>https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware</link>
+      <description>support TFT35 V1.0/V1.1/V1.2/V2.0/V3.0, TFT28, TFT24 V1.1</description>
+    </item>
+    
+    <item>
+      <title>taosdata/TDengine</title>
+      <link>https://github.com/taosdata/TDengine</link>
+      <description>An open-source big data platform designed and optimized for the Internet of Things (IoT).</description>
+    </item>
+    
+    <item>
+      <title>corrados/jamulus</title>
+      <link>https://github.com/corrados/jamulus</link>
+      <description>The Jamulus software enables musicians to perform real-time jam sessions over the internet.</description>
+    </item>
+    
+    <item>
+      <title>VirusTotal/yara</title>
+      <link>https://github.com/VirusTotal/yara</link>
+      <description>The pattern matching swiss knife</description>
+    </item>
+    
+    <item>
+      <title>Atmosphere-NX/Atmosphere</title>
+      <link>https://github.com/Atmosphere-NX/Atmosphere</link>
+      <description>Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.</description>
+    </item>
+    
+    <item>
+      <title>pjreddie/darknet</title>
+      <link>https://github.com/pjreddie/darknet</link>
+      <description>Convolutional Neural Networks</description>
+    </item>
+    
+    <item>
+      <title>pbatard/rufus</title>
+      <link>https://github.com/pbatard/rufus</link>
+      <description>The Reliable USB Formatting Utility</description>
+    </item>
+    
+    <item>
+      <title>KevinOConnor/klipper</title>
+      <link>https://github.com/KevinOConnor/klipper</link>
+      <description>Klipper is a 3d-printer firmware</description>
+    </item>
+    
+    <item>
+      <title>koekeishiya/yabai</title>
+      <link>https://github.com/koekeishiya/yabai</link>
+      <description>A tiling window manager for macOS based on binary space partitioning</description>
+    </item>
+    
+    <item>
+      <title>tmux/tmux</title>
+      <link>https://github.com/tmux/tmux</link>
+      <description>tmux source code</description>
+    </item>
+    
+  </channel>
+</rss>

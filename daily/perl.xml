@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Perl Daily Trending</title>
+    <description>Daily Trending of Perl in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:13:04 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>sullo/nikto</title>
+      <link>https://github.com/sullo/nikto</link>
+      <description>Nikto web server scanner</description>
+    </item>
+    
+    <item>
+      <title>brendangregg/FlameGraph</title>
+      <link>https://github.com/brendangregg/FlameGraph</link>
+      <description>Stack trace visualizer</description>
+    </item>
+    
+    <item>
+      <title>AlDanial/cloc</title>
+      <link>https://github.com/AlDanial/cloc</link>
+      <description>cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.</description>
+    </item>
+    
+  </channel>
+</rss>

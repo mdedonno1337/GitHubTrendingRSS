@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub QML Monthly Trending</title>
+    <description>Monthly Trending of QML in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:43:41 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Swordfish90/cool-retro-term</title>
+      <link>https://github.com/Swordfish90/cool-retro-term</link>
+      <description>A good looking terminal emulator which mimics the old cathode display...</description>
+    </item>
+    
+  </channel>
+</rss>

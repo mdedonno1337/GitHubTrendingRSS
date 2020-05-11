@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub GDScript Daily Trending</title>
+    <description>Daily Trending of GDScript in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:07:30 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>GDQuest/godot-demos</title>
+      <link>https://github.com/GDQuest/godot-demos</link>
+      <description>Dozens of free and open source demos for the Godot game engine</description>
+    </item>
+    
+    <item>
+      <title>uheartbeast/youtube-tutorials</title>
+      <link>https://github.com/uheartbeast/youtube-tutorials</link>
+      <description>A repository for holding all the source code to my YouTube tutorial videos.</description>
+    </item>
+    
+    <item>
+      <title>heroiclabs/nakama-godot-demo</title>
+      <link>https://github.com/heroiclabs/nakama-godot-demo</link>
+      <description>A demo project with Godot engine and Nakama server.</description>
+    </item>
+    
+  </channel>
+</rss>

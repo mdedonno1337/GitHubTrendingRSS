@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Swift Monthly Trending</title>
+    <description>Monthly Trending of Swift in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:45:51 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>opentrace-community/opentrace-ios</title>
+      <link>https://github.com/opentrace-community/opentrace-ios</link>
+      <description>OpenTrace iOS app. Reference implementation of the BlueTrace protocol.</description>
+    </item>
+    
+    <item>
+      <title>rxhanson/Rectangle</title>
+      <link>https://github.com/rxhanson/Rectangle</link>
+      <description>Move and resize windows on macOS with keyboard shortcuts and snap areas</description>
+    </item>
+    
+    <item>
+      <title>Dimillian/MovieSwiftUI</title>
+      <link>https://github.com/Dimillian/MovieSwiftUI</link>
+      <description>SwiftUI &amp; Combine app using MovieDB API. With a custom Flux (Redux) implementation.</description>
+    </item>
+    
+    <item>
+      <title>ochococo/Design-Patterns-In-Swift</title>
+      <link>https://github.com/ochococo/Design-Patterns-In-Swift</link>
+      <description>📖 Design Patterns implemented in Swift 5.0</description>
+    </item>
+    
+    <item>
+      <title>serhii-londar/open-source-mac-os-apps</title>
+      <link>https://github.com/serhii-londar/open-source-mac-os-apps</link>
+      <description>🚀 Awesome list of open source applications for macOS.</description>
+    </item>
+    
+    <item>
+      <title>dkhamsing/open-source-ios-apps</title>
+      <link>https://github.com/dkhamsing/open-source-ios-apps</link>
+      <description>📱 Collaborative List of Open-Source iOS Apps</description>
+    </item>
+    
+    <item>
+      <title>JohnSundell/Publish</title>
+      <link>https://github.com/JohnSundell/Publish</link>
+      <description>A static site generator for Swift developers</description>
+    </item>
+    
+    <item>
+      <title>TelegramMessenger/Telegram-iOS</title>
+      <link>https://github.com/TelegramMessenger/Telegram-iOS</link>
+      <description>Telegram-iOS</description>
+    </item>
+    
+    <item>
+      <title>rileytestut/AltStore</title>
+      <link>https://github.com/rileytestut/AltStore</link>
+      <description>AltStore is an alternative app store for non-jailbroken iOS devices.</description>
+    </item>
+    
+    <item>
+      <title>appbrewery/Clima-iOS13</title>
+      <link>https://github.com/appbrewery/Clima-iOS13</link>
+      <description>Learn to Code While Building Apps - The Complete iOS Development Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>HeroTransitions/Hero</title>
+      <link>https://github.com/HeroTransitions/Hero</link>
+      <description>Elegant transition library for iOS &amp; tvOS</description>
+    </item>
+    
+    <item>
+      <title>appbrewery/BMI-Calculator-iOS13</title>
+      <link>https://github.com/appbrewery/BMI-Calculator-iOS13</link>
+      <description>Learn to Code While Building Apps - The Complete iOS Development Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>vsouza/awesome-ios</title>
+      <link>https://github.com/vsouza/awesome-ios</link>
+      <description>A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects</description>
+    </item>
+    
+    <item>
+      <title>airbnb/lottie-ios</title>
+      <link>https://github.com/airbnb/lottie-ios</link>
+      <description>An iOS library to natively render After Effects vector animations</description>
+    </item>
+    
+    <item>
+      <title>groue/GRDB.swift</title>
+      <link>https://github.com/groue/GRDB.swift</link>
+      <description>A toolkit for SQLite databases, with a focus on application development</description>
+    </item>
+    
+    <item>
+      <title>raywenderlich/swift-algorithm-club</title>
+      <link>https://github.com/raywenderlich/swift-algorithm-club</link>
+      <description>Algorithms and data structures in Swift, with explanations!</description>
+    </item>
+    
+    <item>
+      <title>SwiftyBeaver/SwiftyBeaver</title>
+      <link>https://github.com/SwiftyBeaver/SwiftyBeaver</link>
+      <description>Convenient &amp; secure logging during development &amp; release in Swift 3, 4 &amp; 5</description>
+    </item>
+    
+    <item>
+      <title>socketio/socket.io-client-swift</title>
+      <link>https://github.com/socketio/socket.io-client-swift</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PopcornTimeTV/PopcornTimeTV</title>
+      <link>https://github.com/PopcornTimeTV/PopcornTimeTV</link>
+      <description>Popcorn Time for Apple TV 4, iPhone and iPad</description>
+    </item>
+    
+    <item>
+      <title>LoopKit/Loop</title>
+      <link>https://github.com/LoopKit/Loop</link>
+      <description>An automated insulin delivery app template for iOS, built on LoopKit</description>
+    </item>
+    
+    <item>
+      <title>daltoniam/Starscream</title>
+      <link>https://github.com/daltoniam/Starscream</link>
+      <description>Websockets in swift for iOS and OSX</description>
+    </item>
+    
+    <item>
+      <title>appbrewery/Dicee-iOS13</title>
+      <link>https://github.com/appbrewery/Dicee-iOS13</link>
+      <description>Learn to Code While Building Apps - The Complete iOS Development Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>appbrewery/Magic-8-Ball-iOS13</title>
+      <link>https://github.com/appbrewery/Magic-8-Ball-iOS13</link>
+      <description>Learn to Code While Building Apps - The Complete iOS Development Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>appbrewery/EggTimer-iOS13</title>
+      <link>https://github.com/appbrewery/EggTimer-iOS13</link>
+      <description>Learn to Code While Building Apps - The Complete iOS Development Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>kickstarter/ios-oss</title>
+      <link>https://github.com/kickstarter/ios-oss</link>
+      <description>Kickstarter for iOS. Bring new ideas to life, anywhere.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PowerShell Weekly Trending</title>
+    <description>Weekly Trending of PowerShell in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:28:22 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator</title>
+      <link>https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator</link>
+      <description>AZ-104 Microsoft Azure Administrator</description>
+    </item>
+    
+    <item>
+      <title>microsoft/Quantum</title>
+      <link>https://github.com/microsoft/Quantum</link>
+      <description>Microsoft Quantum Development Kit Samples</description>
+    </item>
+    
+    <item>
+      <title>SharePoint/sp-dev-docs</title>
+      <link>https://github.com/SharePoint/sp-dev-docs</link>
+      <description>SharePoint Developer Documentation</description>
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/azure-docs</title>
+      <link>https://github.com/MicrosoftDocs/azure-docs</link>
+      <description>Open source documentation of Microsoft Azure</description>
+    </item>
+    
+    <item>
+      <title>lukesampson/scoop-extras</title>
+      <link>https://github.com/lukesampson/scoop-extras</link>
+      <description>&quot;Extras&quot; bucket for Scoop</description>
+    </item>
+    
+    <item>
+      <title>PowerShellMafia/PowerSploit</title>
+      <link>https://github.com/PowerShellMafia/PowerSploit</link>
+      <description>PowerSploit - A PowerShell Post-Exploitation Framework</description>
+    </item>
+    
+    <item>
+      <title>microsoftgraph/microsoft-graph-docs</title>
+      <link>https://github.com/microsoftgraph/microsoft-graph-docs</link>
+      <description>Documentation for the Microsoft Graph REST API</description>
+    </item>
+    
+    <item>
+      <title>Sycnex/Windows10Debloater</title>
+      <link>https://github.com/Sycnex/Windows10Debloater</link>
+      <description>Script to remove Windows 10 bloatware.</description>
+    </item>
+    
+    <item>
+      <title>dotnet/docs</title>
+      <link>https://github.com/dotnet/docs</link>
+      <description>This repository contains .NET Documentation.</description>
+    </item>
+    
+    <item>
+      <title>MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign</title>
+      <link>https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/PowerShell-Docs</title>
+      <link>https://github.com/MicrosoftDocs/PowerShell-Docs</link>
+      <description>The official PowerShell documentation sources</description>
+    </item>
+    
+    <item>
+      <title>redcanaryco/atomic-red-team</title>
+      <link>https://github.com/redcanaryco/atomic-red-team</link>
+      <description>Small and highly portable detection tests based on MITRE&#39;s ATT&amp;CK.</description>
+    </item>
+    
+    <item>
+      <title>lukesampson/scoop</title>
+      <link>https://github.com/lukesampson/scoop</link>
+      <description>A command-line installer for Windows.</description>
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/windowsserverdocs</title>
+      <link>https://github.com/MicrosoftDocs/windowsserverdocs</link>
+      <description>Public content repository for Windows Server 2016 content.</description>
+    </item>
+    
+    <item>
+      <title>actions/virtual-environments</title>
+      <link>https://github.com/actions/virtual-environments</link>
+      <description>GitHub Actions virtual environments</description>
+    </item>
+    
+    <item>
+      <title>Disassembler0/Win10-Initial-Setup-Script</title>
+      <link>https://github.com/Disassembler0/Win10-Initial-Setup-Script</link>
+      <description>PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019</description>
+    </item>
+    
+    <item>
+      <title>samratashok/nishang</title>
+      <link>https://github.com/samratashok/nishang</link>
+      <description>Nishang - Offensive PowerShell for red team, penetration testing and offensive security.</description>
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/windows-itpro-docs</title>
+      <link>https://github.com/MicrosoftDocs/windows-itpro-docs</link>
+      <description>This is used for contributions to the Windows 10 content for IT professionals on docs.microsoft.com.</description>
+    </item>
+    
+    <item>
+      <title>dotnet/machinelearning-samples</title>
+      <link>https://github.com/dotnet/machinelearning-samples</link>
+      <description>Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.</description>
+    </item>
+    
+    <item>
+      <title>dotnet/EntityFramework.Docs</title>
+      <link>https://github.com/dotnet/EntityFramework.Docs</link>
+      <description>Documentation for Entity Framework Core and Entity Framework 6</description>
+    </item>
+    
+    <item>
+      <title>Azure/azure-quickstart-templates</title>
+      <link>https://github.com/Azure/azure-quickstart-templates</link>
+      <description>Azure Quickstart Templates</description>
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/vsonline</title>
+      <link>https://github.com/MicrosoftDocs/vsonline</link>
+      <description>Cloud powered development environments</description>
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/dynamics-365-unified-operations-public</title>
+      <link>https://github.com/MicrosoftDocs/dynamics-365-unified-operations-public</link>
+      <description>Documentation for Microsoft Dynamics 365 for Finance and Operations, Dynamics 365 for Retail, and Dynamics 365 for Talent</description>
+    </item>
+    
+    <item>
+      <title>Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2</title>
+      <link>https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2</link>
+      <description>An ASP.NET Core Web App which lets sign-in users (including in your org, many orgs, orgs + personal accounts, sovereign clouds) and call Web APIs (including Microsoft Graph)</description>
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/OfficeDocs-Support</title>
+      <link>https://github.com/MicrosoftDocs/OfficeDocs-Support</link>
+      <description>Support content for Office client and server products</description>
+    </item>
+    
+  </channel>
+</rss>

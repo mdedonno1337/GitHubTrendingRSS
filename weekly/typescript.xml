@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TypeScript Weekly Trending</title>
+    <description>Weekly Trending of TypeScript in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:31:41 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>denoland/deno</title>
+      <link>https://github.com/denoland/deno</link>
+      <description>A secure JavaScript and TypeScript runtime</description>
+    </item>
+    
+    <item>
+      <title>mdevils/typescript-exercises</title>
+      <link>https://github.com/mdevils/typescript-exercises</link>
+      <description>A collection of challenging TypeScript exercises</description>
+    </item>
+    
+    <item>
+      <title>cdr/code-server</title>
+      <link>https://github.com/cdr/code-server</link>
+      <description>Run VS Code on a remote server.</description>
+    </item>
+    
+    <item>
+      <title>vuejs/vite</title>
+      <link>https://github.com/vuejs/vite</link>
+      <description>Make Web Dev Fast Again</description>
+    </item>
+    
+    <item>
+      <title>storybookjs/storybook</title>
+      <link>https://github.com/storybookjs/storybook</link>
+      <description>📓 UI component dev &amp; test: React, Vue, Angular, React Native, Ember, Web Components &amp; more!</description>
+    </item>
+    
+    <item>
+      <title>vuejs/vitepress</title>
+      <link>https://github.com/vuejs/vitepress</link>
+      <description>Vite &amp; Vue powered static site generator</description>
+    </item>
+    
+    <item>
+      <title>basarat/typescript-book</title>
+      <link>https://github.com/basarat/typescript-book</link>
+      <description>📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹</description>
+    </item>
+    
+    <item>
+      <title>ant-design/ant-design</title>
+      <link>https://github.com/ant-design/ant-design</link>
+      <description>🌈 A UI Design Language and React UI library</description>
+    </item>
+    
+    <item>
+      <title>pop-os/shell</title>
+      <link>https://github.com/pop-os/shell</link>
+      <description>Pop!_OS Shell</description>
+    </item>
+    
+    <item>
+      <title>microsoft/fluentui</title>
+      <link>https://github.com/microsoft/fluentui</link>
+      <description>We&#39;ve moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.</description>
+    </item>
+    
+    <item>
+      <title>justadudewhohacks/face-api.js</title>
+      <link>https://github.com/justadudewhohacks/face-api.js</link>
+      <description>JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js</description>
+    </item>
+    
+    <item>
+      <title>typeorm/typeorm</title>
+      <link>https://github.com/typeorm/typeorm</link>
+      <description>ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.</description>
+    </item>
+    
+    <item>
+      <title>Redocly/redoc</title>
+      <link>https://github.com/Redocly/redoc</link>
+      <description>📘 OpenAPI/Swagger-generated API Reference Documentation</description>
+    </item>
+    
+    <item>
+      <title>microsoft/TypeScript</title>
+      <link>https://github.com/microsoft/TypeScript</link>
+      <description>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</description>
+    </item>
+    
+    <item>
+      <title>ant-design/ant-design-pro</title>
+      <link>https://github.com/ant-design/ant-design-pro</link>
+      <description>👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!</description>
+    </item>
+    
+    <item>
+      <title>facebook/jest</title>
+      <link>https://github.com/facebook/jest</link>
+      <description>Delightful JavaScript Testing.</description>
+    </item>
+    
+    <item>
+      <title>Eugeny/terminus</title>
+      <link>https://github.com/Eugeny/terminus</link>
+      <description>A terminal for a more modern age</description>
+    </item>
+    
+    <item>
+      <title>alibaba/lightproxy</title>
+      <link>https://github.com/alibaba/lightproxy</link>
+      <description>💎 Cross platform Web debugging proxy</description>
+    </item>
+    
+    <item>
+      <title>tradingview/lightweight-charts</title>
+      <link>https://github.com/tradingview/lightweight-charts</link>
+      <description>Financial lightweight charts built with HTML5 canvas</description>
+    </item>
+    
+    <item>
+      <title>microsoft/vscode</title>
+      <link>https://github.com/microsoft/vscode</link>
+      <description>Visual Studio Code</description>
+    </item>
+    
+    <item>
+      <title>aws/aws-cdk</title>
+      <link>https://github.com/aws/aws-cdk</link>
+      <description>The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code</description>
+    </item>
+    
+    <item>
+      <title>pixijs/pixi.js</title>
+      <link>https://github.com/pixijs/pixi.js</link>
+      <description>The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.</description>
+    </item>
+    
+    <item>
+      <title>grafana/grafana</title>
+      <link>https://github.com/grafana/grafana</link>
+      <description>The tool for beautiful monitoring and metric analytics &amp; dashboards for Graphite, InfluxDB &amp; Prometheus &amp; More</description>
+    </item>
+    
+    <item>
+      <title>drawrowfly/tiktok-scraper</title>
+      <link>https://github.com/drawrowfly/tiktok-scraper</link>
+      <description>TikTok Scraper &amp; Downloader. Scrape information from User, Trending and HashTag pages and download video posts</description>
+    </item>
+    
+    <item>
+      <title>nestjs/nest</title>
+      <link>https://github.com/nestjs/nest</link>
+      <description>A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript &amp; JavaScript (ES6, ES7, ES8) 🚀</description>
+    </item>
+    
+  </channel>
+</rss>

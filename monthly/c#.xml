@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub C# Monthly Trending</title>
+    <description>Monthly Trending of C# in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:34:55 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>jasontaylordev/CleanArchitecture</title>
+      <link>https://github.com/jasontaylordev/CleanArchitecture</link>
+      <description>Clean Architecture Solution Template for Angular 9 and .NET Core 3.1</description>
+    </item>
+    
+    <item>
+      <title>kwsch/NHSE</title>
+      <link>https://github.com/kwsch/NHSE</link>
+      <description>Animal Crossing: New Horizons save editor</description>
+    </item>
+    
+    <item>
+      <title>huiyadanli/RevokeMsgPatcher</title>
+      <link>https://github.com/huiyadanli/RevokeMsgPatcher</link>
+      <description>A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）</description>
+    </item>
+    
+    <item>
+      <title>carlospolop/privilege-escalation-awesome-scripts-suite</title>
+      <link>https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite</link>
+      <description>PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)</description>
+    </item>
+    
+    <item>
+      <title>Unity-Technologies/NavMeshComponents</title>
+      <link>https://github.com/Unity-Technologies/NavMeshComponents</link>
+      <description>High Level API Components for Runtime NavMesh Building</description>
+    </item>
+    
+    <item>
+      <title>QuantConnect/Lean</title>
+      <link>https://github.com/QuantConnect/Lean</link>
+      <description>Lean Algorithmic Trading Engine by QuantConnect (C#, Python, F#)</description>
+    </item>
+    
+    <item>
+      <title>thangchung/awesome-dotnet-core</title>
+      <link>https://github.com/thangchung/awesome-dotnet-core</link>
+      <description>🐝 A collection of awesome .NET core libraries, tools, frameworks and software</description>
+    </item>
+    
+    <item>
+      <title>jasontaylordev/NorthwindTraders</title>
+      <link>https://github.com/jasontaylordev/NorthwindTraders</link>
+      <description>Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.</description>
+    </item>
+    
+    <item>
+      <title>ardalis/CleanArchitecture</title>
+      <link>https://github.com/ardalis/CleanArchitecture</link>
+      <description>A starting point for Clean Architecture with ASP.NET Core</description>
+    </item>
+    
+    <item>
+      <title>jellyfin/jellyfin</title>
+      <link>https://github.com/jellyfin/jellyfin</link>
+      <description>The Free Software Media System</description>
+    </item>
+    
+    <item>
+      <title>dotnet/AspNetCore.Docs</title>
+      <link>https://github.com/dotnet/AspNetCore.Docs</link>
+      <description>Documentation for ASP.NET Core</description>
+    </item>
+    
+    <item>
+      <title>Ryujinx/Ryujinx</title>
+      <link>https://github.com/Ryujinx/Ryujinx</link>
+      <description>Experimental Nintendo Switch Emulator written in C#</description>
+    </item>
+    
+    <item>
+      <title>OpenRA/OpenRA</title>
+      <link>https://github.com/OpenRA/OpenRA</link>
+      <description>Open Source real-time strategy game engine for early Westwood games such as Command &amp; Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.</description>
+    </item>
+    
+    <item>
+      <title>openhardwaremonitor/openhardwaremonitor</title>
+      <link>https://github.com/openhardwaremonitor/openhardwaremonitor</link>
+      <description>Open Hardware Monitor</description>
+    </item>
+    
+    <item>
+      <title>openbullet/openbullet</title>
+      <link>https://github.com/openbullet/openbullet</link>
+      <description>The OpenBullet web testing application.</description>
+    </item>
+    
+    <item>
+      <title>Unity-Technologies/2d-extras</title>
+      <link>https://github.com/Unity-Technologies/2d-extras</link>
+      <description>Fun 2D Stuff that we&#39;d like to share!</description>
+    </item>
+    
+    <item>
+      <title>microsoft/Xaml-Controls-Gallery</title>
+      <link>https://github.com/microsoft/Xaml-Controls-Gallery</link>
+      <description>This app demonstrates the controls available in the Fluent Design System and Xaml.</description>
+    </item>
+    
+    <item>
+      <title>stride3d/stride</title>
+      <link>https://github.com/stride3d/stride</link>
+      <description>Stride Game Engine (formerly Xenko)</description>
+    </item>
+    
+    <item>
+      <title>nopSolutions/nopCommerce</title>
+      <link>https://github.com/nopSolutions/nopCommerce</link>
+      <description>The most popular open source ecommerce shopping cart solution based on ASP.NET Core</description>
+    </item>
+    
+    <item>
+      <title>StockSharp/StockSharp</title>
+      <link>https://github.com/StockSharp/StockSharp</link>
+      <description>Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins and options).</description>
+    </item>
+    
+    <item>
+      <title>quasar/QuasarRAT</title>
+      <link>https://github.com/quasar/QuasarRAT</link>
+      <description>Remote Administration Tool for Windows</description>
+    </item>
+    
+    <item>
+      <title>dotnet/winforms</title>
+      <link>https://github.com/dotnet/winforms</link>
+      <description>Windows Forms is a .NET Core UI framework for building Windows desktop applications.</description>
+    </item>
+    
+    <item>
+      <title>discord-net/Discord.Net</title>
+      <link>https://github.com/discord-net/Discord.Net</link>
+      <description>An unofficial .Net wrapper for the Discord API (http://discordapp.com)</description>
+    </item>
+    
+    <item>
+      <title>Jackett/Jackett</title>
+      <link>https://github.com/Jackett/Jackett</link>
+      <description>API Support for your favorite torrent trackers.</description>
+    </item>
+    
+    <item>
+      <title>MaterialDesignInXAML/MaterialDesignInXamlToolkit</title>
+      <link>https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit</link>
+      <description>Google&#39;s Material Design in XAML &amp; WPF, for C# &amp; VB.Net.</description>
+    </item>
+    
+  </channel>
+</rss>

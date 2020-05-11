@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub OCaml Monthly Trending</title>
+    <description>Monthly Trending of OCaml in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:42:10 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>facebook/flow</title>
+      <link>https://github.com/facebook/flow</link>
+      <description>Adds static typing to JavaScript to improve developer productivity and code quality.</description>
+    </item>
+    
+    <item>
+      <title>ocaml/dune</title>
+      <link>https://github.com/ocaml/dune</link>
+      <description>A composable build system for OCaml.</description>
+    </item>
+    
+    <item>
+      <title>astrada/google-drive-ocamlfuse</title>
+      <link>https://github.com/astrada/google-drive-ocamlfuse</link>
+      <description>FUSE filesystem over Google Drive</description>
+    </item>
+    
+  </channel>
+</rss>

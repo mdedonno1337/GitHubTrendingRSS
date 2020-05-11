@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TSQL Daily Trending</title>
+    <description>Daily Trending of TSQL in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:16:34 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>beekeeper-studio/beekeeper-studio</title>
+      <link>https://github.com/beekeeper-studio/beekeeper-studio</link>
+      <description>Cross platform SQL editor and database management app for Windows, Linux, and Mac.</description>
+    </item>
+    
+    <item>
+      <title>project-topaz/topaz</title>
+      <link>https://github.com/project-topaz/topaz</link>
+      <description>Server emulator for FFXI</description>
+    </item>
+    
+    <item>
+      <title>rapid7/metasploitable3</title>
+      <link>https://github.com/rapid7/metasploitable3</link>
+      <description>Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.</description>
+    </item>
+    
+    <item>
+      <title>markjprice/cs8dotnetcore3</title>
+      <link>https://github.com/markjprice/cs8dotnetcore3</link>
+      <description>Repository for the Packt Publishing book titled &quot;C# 8.0 and .NET Core 3.0&quot; by Mark J. Price</description>
+    </item>
+    
+    <item>
+      <title>ESX-Org/esx_vehicleshop</title>
+      <link>https://github.com/ESX-Org/esx_vehicleshop</link>
+      <description>FXServer ESX Vehicle Shop</description>
+    </item>
+    
+  </channel>
+</rss>

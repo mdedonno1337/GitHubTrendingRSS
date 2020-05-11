@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub JavaScript Weekly Trending</title>
+    <description>Weekly Trending of JavaScript in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:24:23 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>discordjs/discord.js</title>
+      <link>https://github.com/discordjs/discord.js</link>
+      <description>A powerful JavaScript library for interacting with the Discord API</description>
+    </item>
+    
+    <item>
+      <title>yangshun/tech-interview-handbook</title>
+      <link>https://github.com/yangshun/tech-interview-handbook</link>
+      <description>💯 Materials to help you rock your next coding interview</description>
+    </item>
+    
+    <item>
+      <title>lyswhut/lx-music-desktop</title>
+      <link>https://github.com/lyswhut/lx-music-desktop</link>
+      <description>一个基于 electron 的音乐软件</description>
+    </item>
+    
+    <item>
+      <title>jhu-ep-coursera/fullstack-course4</title>
+      <link>https://github.com/jhu-ep-coursera/fullstack-course4</link>
+      <description>Example code for HTML, CSS, and Javascript for Web Developers Coursera Course</description>
+    </item>
+    
+    <item>
+      <title>microsoft/playwright</title>
+      <link>https://github.com/microsoft/playwright</link>
+      <description>Node library to automate Chromium, Firefox and WebKit with a single API</description>
+    </item>
+    
+    <item>
+      <title>facebook/docusaurus</title>
+      <link>https://github.com/facebook/docusaurus</link>
+      <description>Easy to maintain open source documentation websites.</description>
+    </item>
+    
+    <item>
+      <title>MarkerHub/eblog</title>
+      <link>https://github.com/MarkerHub/eblog</link>
+      <description>eblog是一个基于Springboot2.1.2开发的博客学习项目，为了让项目融合更多的知识点，达到学习目的，编写了详细的从0到1开发文档。主要学习包括：自定义Freemarker标签，使用shiro+redis完成了会话共享，redis的zset结构完成本周热议排行榜，t-io+websocket完成即时消息通知和群聊，rabbitmq+elasticsearch完成博客内容搜索引擎等。值得学习的地方很多！</description>
+    </item>
+    
+    <item>
+      <title>ljianshu/Blog</title>
+      <link>https://github.com/ljianshu/Blog</link>
+      <description>关注基础知识，打造优质前端博客，公众号[前端工匠]的作者</description>
+    </item>
+    
+    <item>
+      <title>leeoniya/uPlot</title>
+      <link>https://github.com/leeoniya/uPlot</link>
+      <description>📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars</description>
+    </item>
+    
+    <item>
+      <title>sudheerj/reactjs-interview-questions</title>
+      <link>https://github.com/sudheerj/reactjs-interview-questions</link>
+      <description>List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!!</description>
+    </item>
+    
+    <item>
+      <title>strapi/strapi</title>
+      <link>https://github.com/strapi/strapi</link>
+      <description>🚀 Open source Node.js Headless CMS to easily build customisable APIs</description>
+    </item>
+    
+    <item>
+      <title>bradtraversy/vanillawebprojects</title>
+      <link>https://github.com/bradtraversy/vanillawebprojects</link>
+      <description>Mini projects built with HTML5, CSS &amp; JavaScript. No frameworks or libraries</description>
+    </item>
+    
+    <item>
+      <title>chakra-ui/chakra-ui</title>
+      <link>https://github.com/chakra-ui/chakra-ui</link>
+      <description>⚡️Simple, Modular &amp; Accessible UI Components for your React Applications</description>
+    </item>
+    
+    <item>
+      <title>azl397985856/leetcode</title>
+      <link>https://github.com/azl397985856/leetcode</link>
+      <description>LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)</description>
+    </item>
+    
+    <item>
+      <title>facebook/react</title>
+      <link>https://github.com/facebook/react</link>
+      <description>A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+    </item>
+    
+    <item>
+      <title>d3/d3</title>
+      <link>https://github.com/d3/d3</link>
+      <description>Bring data to life with SVG, Canvas and HTML. 📊📈🎉</description>
+    </item>
+    
+    <item>
+      <title>alpinejs/alpine</title>
+      <link>https://github.com/alpinejs/alpine</link>
+      <description>A rugged, minimal framework for composing JavaScript behavior in your markup.</description>
+    </item>
+    
+    <item>
+      <title>mandatoryprogrammer/CursedChrome</title>
+      <link>https://github.com/mandatoryprogrammer/CursedChrome</link>
+      <description>Chrome-extension implant that turns victim Chrome browsers into fully-functional HTTP proxies, allowing you to browse sites as your victims.</description>
+    </item>
+    
+    <item>
+      <title>addyosmani/puppeteer-webperf</title>
+      <link>https://github.com/addyosmani/puppeteer-webperf</link>
+      <description>Automating Web Performance testing with Puppeteer 🎪</description>
+    </item>
+    
+    <item>
+      <title>mrdoob/three.js</title>
+      <link>https://github.com/mrdoob/three.js</link>
+      <description>JavaScript 3D library.</description>
+    </item>
+    
+    <item>
+      <title>havfo/multiparty-meeting</title>
+      <link>https://github.com/havfo/multiparty-meeting</link>
+      <description>Multiparty web-meetings using mediasoup and WebRTC</description>
+    </item>
+    
+    <item>
+      <title>gothinkster/realworld</title>
+      <link>https://github.com/gothinkster/realworld</link>
+      <description>&quot;The mother of all demo apps&quot; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅</description>
+    </item>
+    
+    <item>
+      <title>nolimits4web/swiper</title>
+      <link>https://github.com/nolimits4web/swiper</link>
+      <description>Most modern mobile touch slider with hardware accelerated transitions</description>
+    </item>
+    
+    <item>
+      <title>facebook/react-native</title>
+      <link>https://github.com/facebook/react-native</link>
+      <description>A framework for building native apps with React.</description>
+    </item>
+    
+    <item>
+      <title>reichlab/covid19-forecast-hub</title>
+      <link>https://github.com/reichlab/covid19-forecast-hub</link>
+      <description>Projections of COVID-19, in standardized format</description>
+    </item>
+    
+  </channel>
+</rss>

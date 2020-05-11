@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rust Monthly Trending</title>
+    <description>Monthly Trending of Rust in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:44:38 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rust-analyzer/rust-analyzer</title>
+      <link>https://github.com/rust-analyzer/rust-analyzer</link>
+      <description>An experimental Rust compiler front-end for IDEs</description>
+    </item>
+    
+    <item>
+      <title>http-rs/tide</title>
+      <link>https://github.com/http-rs/tide</link>
+      <description>Fast and friendly HTTP server framework for async Rust</description>
+    </item>
+    
+    <item>
+      <title>996icu/996.ICU</title>
+      <link>https://github.com/996icu/996.ICU</link>
+      <description>Repo for counting stars and contributing. Press F to pay respect to glorious developers.</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/mdBook</title>
+      <link>https://github.com/rust-lang/mdBook</link>
+      <description>Create book from markdown files. Like Gitbook but implemented in Rust</description>
+    </item>
+    
+    <item>
+      <title>tokio-rs/tokio</title>
+      <link>https://github.com/tokio-rs/tokio</link>
+      <description>A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</description>
+    </item>
+    
+    <item>
+      <title>clap-rs/clap</title>
+      <link>https://github.com/clap-rs/clap</link>
+      <description>A full featured, fast Command Line Argument Parser for Rust</description>
+    </item>
+    
+    <item>
+      <title>rust-windowing/winit</title>
+      <link>https://github.com/rust-windowing/winit</link>
+      <description>Window handling library in pure Rust</description>
+    </item>
+    
+    <item>
+      <title>libra/libra</title>
+      <link>https://github.com/libra/libra</link>
+      <description>Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.</description>
+    </item>
+    
+    <item>
+      <title>alacritty/alacritty</title>
+      <link>https://github.com/alacritty/alacritty</link>
+      <description>A cross-platform, GPU-accelerated terminal emulator</description>
+    </item>
+    
+    <item>
+      <title>timberio/vector</title>
+      <link>https://github.com/timberio/vector</link>
+      <description>A lightweight and ultra-fast tool for building observability pipelines</description>
+    </item>
+    
+    <item>
+      <title>rust-embedded/rust-raspberrypi-OS-tutorials</title>
+      <link>https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials</link>
+      <description>📚 Learn to write an embedded OS in Rust 🦀</description>
+    </item>
+    
+    <item>
+      <title>amethyst/amethyst</title>
+      <link>https://github.com/amethyst/amethyst</link>
+      <description>Data-oriented and data-driven game engine written in Rust</description>
+    </item>
+    
+    <item>
+      <title>gfx-rs/gfx</title>
+      <link>https://github.com/gfx-rs/gfx</link>
+      <description>A low-overhead Vulkan-like GPU API for Rust.</description>
+    </item>
+    
+    <item>
+      <title>gfx-rs/wgpu-rs</title>
+      <link>https://github.com/gfx-rs/wgpu-rs</link>
+      <description>Rust bindings to wgpu native library</description>
+    </item>
+    
+    <item>
+      <title>deislabs/krustlet</title>
+      <link>https://github.com/deislabs/krustlet</link>
+      <description>Kubernetes Rust Kubelet</description>
+    </item>
+    
+    <item>
+      <title>launchbadge/sqlx</title>
+      <link>https://github.com/launchbadge/sqlx</link>
+      <description>🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/rust</title>
+      <link>https://github.com/rust-lang/rust</link>
+      <description>Empowering everyone to build reliable and efficient software.</description>
+    </item>
+    
+    <item>
+      <title>Spotifyd/spotifyd</title>
+      <link>https://github.com/Spotifyd/spotifyd</link>
+      <description>A spotify daemon</description>
+    </item>
+    
+    <item>
+      <title>sharkdp/fd</title>
+      <link>https://github.com/sharkdp/fd</link>
+      <description>A simple, fast and user-friendly alternative to &#39;find&#39;</description>
+    </item>
+    
+    <item>
+      <title>BurntSushi/xsv</title>
+      <link>https://github.com/BurntSushi/xsv</link>
+      <description>A fast CSV command line toolkit written in Rust.</description>
+    </item>
+    
+    <item>
+      <title>redox-os/orbtk</title>
+      <link>https://github.com/redox-os/orbtk</link>
+      <description>The Rust UI-Toolkit.</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/rustlings</title>
+      <link>https://github.com/rust-lang/rustlings</link>
+      <description>🦀 Small exercises to get you used to reading and writing Rust code!</description>
+    </item>
+    
+    <item>
+      <title>yewstack/yew</title>
+      <link>https://github.com/yewstack/yew</link>
+      <description>Rust / Wasm framework for building client web apps</description>
+    </item>
+    
+    <item>
+      <title>imazen/imageflow</title>
+      <link>https://github.com/imazen/imageflow</link>
+      <description>High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow</description>
+    </item>
+    
+    <item>
+      <title>servo/pathfinder</title>
+      <link>https://github.com/servo/pathfinder</link>
+      <description>A fast, practical GPU rasterizer for fonts and vector graphics</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Vim Snippet Monthly Trending</title>
+    <description>Monthly Trending of Vim Snippet in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:47:04 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>honza/vim-snippets</title>
+      <link>https://github.com/honza/vim-snippets</link>
+      <description>vim-snipmate default snippets (Previously snipmate-snippets)</description>
+    </item>
+    
+  </channel>
+</rss>

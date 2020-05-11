@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rich Text Format Weekly Trending</title>
+    <description>Weekly Trending of Rich Text Format in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:29:21 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ckeditor/ckeditor5</title>
+      <link>https://github.com/ckeditor/ckeditor5</link>
+      <description>Powerful rich text editor framework with a modular architecture, modern integrations and features like collaborative editing.</description>
+    </item>
+    
+    <item>
+      <title>ckeditor/ckeditor4</title>
+      <link>https://github.com/ckeditor/ckeditor4</link>
+      <description>The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.</description>
+    </item>
+    
+    <item>
+      <title>microsoft/WPF-Samples</title>
+      <link>https://github.com/microsoft/WPF-Samples</link>
+      <description>Repository for WPF related samples</description>
+    </item>
+    
+    <item>
+      <title>sqlsec/clover</title>
+      <link>https://github.com/sqlsec/clover</link>
+      <description>Share some hackintosh Clover files 分享一些黑苹果clover配置文件</description>
+    </item>
+    
+    <item>
+      <title>LambdaSchool/Lambda-Hello</title>
+      <link>https://github.com/LambdaSchool/Lambda-Hello</link>
+      <description>Introductions to the Lambda Community</description>
+    </item>
+    
+  </channel>
+</rss>

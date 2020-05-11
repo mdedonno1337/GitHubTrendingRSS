@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Erlang Weekly Trending</title>
+    <description>Weekly Trending of Erlang in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:22:09 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rabbitmq/rabbitmq-server</title>
+      <link>https://github.com/rabbitmq/rabbitmq-server</link>
+      <description>Open source multi-protocol messaging broker</description>
+    </item>
+    
+    <item>
+      <title>ninenines/cowboy</title>
+      <link>https://github.com/ninenines/cowboy</link>
+      <description>Small, fast, modern HTTP server for Erlang/OTP.</description>
+    </item>
+    
+    <item>
+      <title>apache/couchdb</title>
+      <link>https://github.com/apache/couchdb</link>
+      <description>Apache CouchDB</description>
+    </item>
+    
+    <item>
+      <title>emqx/emqx</title>
+      <link>https://github.com/emqx/emqx</link>
+      <description>EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era</description>
+    </item>
+    
+  </channel>
+</rss>

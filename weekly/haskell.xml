@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Haskell Weekly Trending</title>
+    <description>Weekly Trending of Haskell in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:23:32 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>koalaman/shellcheck</title>
+      <link>https://github.com/koalaman/shellcheck</link>
+      <description>ShellCheck, a static analysis tool for shell scripts</description>
+    </item>
+    
+    <item>
+      <title>Simspace/avaleryar</title>
+      <link>https://github.com/Simspace/avaleryar</link>
+      <description>A logical authorization system</description>
+    </item>
+    
+    <item>
+      <title>jgm/pandoc</title>
+      <link>https://github.com/jgm/pandoc</link>
+      <description>Universal markup converter</description>
+    </item>
+    
+    <item>
+      <title>Simspace/on-error</title>
+      <link>https://github.com/Simspace/on-error</link>
+      <description>Clearly-delineated error-handling</description>
+    </item>
+    
+    <item>
+      <title>AndrasKovacs/setoidtt-proto</title>
+      <link>https://github.com/AndrasKovacs/setoidtt-proto</link>
+      <description>Prototype implementation for a variant of setoid type theory</description>
+    </item>
+    
+    <item>
+      <title>haskell/haskell-language-server</title>
+      <link>https://github.com/haskell/haskell-language-server</link>
+      <description>Integration point for ghcide and haskell-ide-engine. One IDE to rule them all.</description>
+    </item>
+    
+    <item>
+      <title>mightybyte/fake</title>
+      <link>https://github.com/mightybyte/fake</link>
+      <description>Generate realistic looking fake data</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Shell Daily Trending</title>
+    <description>Daily Trending of Shell in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:15:13 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>LukeSmithxyz/voidrice</title>
+      <link>https://github.com/LukeSmithxyz/voidrice</link>
+      <description>My dotfiles (deployed by LARBS)</description>
+    </item>
+    
+    <item>
+      <title>LupusLeaks/EasyFN</title>
+      <link>https://github.com/LupusLeaks/EasyFN</link>
+      <description>(UPDATING PLEASE WAIT) With EasyFNBot you can easily create you own Fortnite Lobby Bot in less then 5 minutes which will be online forever!</description>
+    </item>
+    
+    <item>
+      <title>htr-tech/nexphisher</title>
+      <link>https://github.com/htr-tech/nexphisher</link>
+      <description>Advanced Phishing tool for Linux &amp; Termux</description>
+    </item>
+    
+    <item>
+      <title>tonlabs/main.ton.dev</title>
+      <link>https://github.com/tonlabs/main.ton.dev</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rust-lang/rfcs</title>
+      <link>https://github.com/rust-lang/rfcs</link>
+      <description>RFCs for changes to Rust</description>
+    </item>
+    
+    <item>
+      <title>thelinuxchoice/instashell</title>
+      <link>https://github.com/thelinuxchoice/instashell</link>
+      <description>Multi-threaded Instagram Brute Forcer without password limit</description>
+    </item>
+    
+    <item>
+      <title>klever1988/nanopi-openwrt</title>
+      <link>https://github.com/klever1988/nanopi-openwrt</link>
+      <description>Openwrt for Nanopi R1S R2S 固件编译</description>
+    </item>
+    
+    <item>
+      <title>thelinuxchoice/saycheese</title>
+      <link>https://github.com/thelinuxchoice/saycheese</link>
+      <description>Grab target&#39;s webcam shots by link</description>
+    </item>
+    
+    <item>
+      <title>michaelben6/SSRFire</title>
+      <link>https://github.com/michaelben6/SSRFire</link>
+      <description>An automated SSRF finder. Just give the domain name and your server and chill! ;) Also has options to find XSS and open redirects</description>
+    </item>
+    
+    <item>
+      <title>opsnull/follow-me-install-kubernetes-cluster</title>
+      <link>https://github.com/opsnull/follow-me-install-kubernetes-cluster</link>
+      <description>和我一步步部署 kubernetes 集群</description>
+    </item>
+    
+    <item>
+      <title>Spottedleaf/Tuinity</title>
+      <link>https://github.com/Spottedleaf/Tuinity</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>source-foundry/Hack</title>
+      <link>https://github.com/source-foundry/Hack</link>
+      <description>A typeface designed for source code</description>
+    </item>
+    
+    <item>
+      <title>v1s1t0r1sh3r3/airgeddon</title>
+      <link>https://github.com/v1s1t0r1sh3r3/airgeddon</link>
+      <description>This is a multi-use bash script for Linux systems to audit wireless networks.</description>
+    </item>
+    
+    <item>
+      <title>slacka/WoeUSB</title>
+      <link>https://github.com/slacka/WoeUSB</link>
+      <description>WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501&#39;s WinUSB.</description>
+    </item>
+    
+    <item>
+      <title>pi-hole/pi-hole</title>
+      <link>https://github.com/pi-hole/pi-hole</link>
+      <description>A black hole for Internet advertisements</description>
+    </item>
+    
+    <item>
+      <title>acmesh-official/acme.sh</title>
+      <link>https://github.com/acmesh-official/acme.sh</link>
+      <description>A pure Unix shell script implementing ACME client protocol</description>
+    </item>
+    
+    <item>
+      <title>thelinuxchoice/userrecon</title>
+      <link>https://github.com/thelinuxchoice/userrecon</link>
+      <description>Find usernames across over 75 social networks</description>
+    </item>
+    
+    <item>
+      <title>cytopia/pwncat</title>
+      <link>https://github.com/cytopia/pwncat</link>
+      <description>Netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell and port forwarding magic - and its fully scriptable with Python (PSE)</description>
+    </item>
+    
+    <item>
+      <title>myxuchangbin/dnsmasq_sniproxy_install</title>
+      <link>https://github.com/myxuchangbin/dnsmasq_sniproxy_install</link>
+      <description>One-click Install and Configure Dnsmasq and Sniproxy for CentOS/Debian/Ubuntu</description>
+    </item>
+    
+    <item>
+      <title>foxlet/macOS-Simple-KVM</title>
+      <link>https://github.com/foxlet/macOS-Simple-KVM</link>
+      <description>Tools to set up a quick macOS VM in QEMU, accelerated by KVM.</description>
+    </item>
+    
+    <item>
+      <title>itzg/docker-minecraft-server</title>
+      <link>https://github.com/itzg/docker-minecraft-server</link>
+      <description>Docker image that provides a Minecraft Server that will automatically download selected version at startup</description>
+    </item>
+    
+    <item>
+      <title>Screetsec/Sudomy</title>
+      <link>https://github.com/Screetsec/Sudomy</link>
+      <description>Sudomy is a subdomain enumeration tool, created using a bash script, to analyze domains and collect subdomains in fast and comprehensive way . Report output in HTML or CSV format</description>
+    </item>
+    
+    <item>
+      <title>thelinuxchoice/EvilApp</title>
+      <link>https://github.com/thelinuxchoice/EvilApp</link>
+      <description>Phishing attack using an Android app to grab session cookies for any website. ByPass 2FA. #phishing #pentester #2FA #infosec #pestesting</description>
+    </item>
+    
+    <item>
+      <title>PaperMC/Paper</title>
+      <link>https://github.com/PaperMC/Paper</link>
+      <description>High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies</description>
+    </item>
+    
+    <item>
+      <title>kholia/OSX-KVM</title>
+      <link>https://github.com/kholia/OSX-KVM</link>
+      <description>Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided at the moment.</description>
+    </item>
+    
+  </channel>
+</rss>

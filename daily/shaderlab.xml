@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub ShaderLab Daily Trending</title>
+    <description>Daily Trending of ShaderLab in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:15:13 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Unity-Technologies/unitysimulation-coronavirus-example</title>
+      <link>https://github.com/Unity-Technologies/unitysimulation-coronavirus-example</link>
+      <description>Unity Simulation Coronavirus Example</description>
+    </item>
+    
+    <item>
+      <title>phi-lira/UniversalShaderExamples</title>
+      <link>https://github.com/phi-lira/UniversalShaderExamples</link>
+      <description>Sand box project containing example shaders and assets compatible with Unity Universal Render Pipeline.</description>
+    </item>
+    
+  </channel>
+</rss>

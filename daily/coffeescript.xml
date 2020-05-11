@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CoffeeScript Daily Trending</title>
+    <description>Daily Trending of CoffeeScript in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:05:15 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>codecombat/codecombat</title>
+      <link>https://github.com/codecombat/codecombat</link>
+      <description>Game for learning how to code.</description>
+    </item>
+    
+    <item>
+      <title>progedu/hubot-study</title>
+      <link>https://github.com/progedu/hubot-study</link>
+      <description>入門コースの3章6節の yo hubot 済リポジトリ (ISC License)</description>
+    </item>
+    
+    <item>
+      <title>turbolinks/turbolinks-classic</title>
+      <link>https://github.com/turbolinks/turbolinks-classic</link>
+      <description>Classic version of Turbolinks. Now deprecated in favor of Turbolinks 5.</description>
+    </item>
+    
+  </channel>
+</rss>

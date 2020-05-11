@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Starlark Weekly Trending</title>
+    <description>Weekly Trending of Starlark in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:30:44 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>googleapis/googleapis</title>
+      <link>https://github.com/googleapis/googleapis</link>
+      <description>Public interface definitions of Google APIs.</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_nodejs</title>
+      <link>https://github.com/bazelbuild/rules_nodejs</link>
+      <description>JavaScript and NodeJS rules for Bazel</description>
+    </item>
+    
+  </channel>
+</rss>

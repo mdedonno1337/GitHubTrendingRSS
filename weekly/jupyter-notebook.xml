@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Jupyter Notebook Weekly Trending</title>
+    <description>Weekly Trending of Jupyter Notebook in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:24:53 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft/c9-python-getting-started</title>
+      <link>https://github.com/microsoft/c9-python-getting-started</link>
+      <description>Sample code for Channel 9 Python for Beginners course</description>
+    </item>
+    
+    <item>
+      <title>jackfrued/Python-100-Days</title>
+      <link>https://github.com/jackfrued/Python-100-Days</link>
+      <description>Python - 100天从新手到大师</description>
+    </item>
+    
+    <item>
+      <title>firmai/industry-machine-learning</title>
+      <link>https://github.com/firmai/industry-machine-learning</link>
+      <description>A curated list of applied machine learning and data science notebooks and libraries across different industries.</description>
+    </item>
+    
+    <item>
+      <title>rll/deepul</title>
+      <link>https://github.com/rll/deepul</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoreyMSchafer/code_snippets</title>
+      <link>https://github.com/CoreyMSchafer/code_snippets</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microsoft/QuantumKatas</title>
+      <link>https://github.com/microsoft/QuantumKatas</link>
+      <description>Tutorials and programming exercises for learning Q# and quantum computing</description>
+    </item>
+    
+    <item>
+      <title>GoogleCloudPlatform/training-data-analyst</title>
+      <link>https://github.com/GoogleCloudPlatform/training-data-analyst</link>
+      <description>Labs and demos for courses for GCP Training (http://cloud.google.com/training).</description>
+    </item>
+    
+    <item>
+      <title>Azure/MachineLearningNotebooks</title>
+      <link>https://github.com/Azure/MachineLearningNotebooks</link>
+      <description>Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft</description>
+    </item>
+    
+    <item>
+      <title>mitmath/6S083</title>
+      <link>https://github.com/mitmath/6S083</link>
+      <description>Materials for MIT 6.S083 / 18.S190: Computational thinking with Julia + application to the COVID-19 pandemic</description>
+    </item>
+    
+    <item>
+      <title>nndl/exercise</title>
+      <link>https://github.com/nndl/exercise</link>
+      <description>exercise for nndl</description>
+    </item>
+    
+    <item>
+      <title>ageron/handson-ml2</title>
+      <link>https://github.com/ageron/handson-ml2</link>
+      <description>A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.</description>
+    </item>
+    
+    <item>
+      <title>rlabbe/Kalman-and-Bayesian-Filters-in-Python</title>
+      <link>https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python</link>
+      <description>Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.</description>
+    </item>
+    
+    <item>
+      <title>jakevdp/PythonDataScienceHandbook</title>
+      <link>https://github.com/jakevdp/PythonDataScienceHandbook</link>
+      <description>Python Data Science Handbook: full text in Jupyter Notebooks</description>
+    </item>
+    
+    <item>
+      <title>Kulbear/deep-learning-coursera</title>
+      <link>https://github.com/Kulbear/deep-learning-coursera</link>
+      <description>Deep Learning Specialization by Andrew Ng on Coursera.</description>
+    </item>
+    
+    <item>
+      <title>adashofdata/nlp-in-python-tutorial</title>
+      <link>https://github.com/adashofdata/nlp-in-python-tutorial</link>
+      <description>comparing stand up comedians using natural language processing</description>
+    </item>
+    
+    <item>
+      <title>jeffheaton/t81_558_deep_learning</title>
+      <link>https://github.com/jeffheaton/t81_558_deep_learning</link>
+      <description>Washington University (in St. Louis) Course T81-558: Applications of Deep Neural Networks</description>
+    </item>
+    
+    <item>
+      <title>pytorch/vision</title>
+      <link>https://github.com/pytorch/vision</link>
+      <description>Datasets, Transforms and Models specific to Computer Vision</description>
+    </item>
+    
+    <item>
+      <title>zzh8829/yolov3-tf2</title>
+      <link>https://github.com/zzh8829/yolov3-tf2</link>
+      <description>YoloV3 Implemented in Tensorflow 2.0</description>
+    </item>
+    
+    <item>
+      <title>mrdbourke/zero-to-mastery-ml</title>
+      <link>https://github.com/mrdbourke/zero-to-mastery-ml</link>
+      <description>All course materials for ZTM ML on Udemy</description>
+    </item>
+    
+    <item>
+      <title>DmitryUlyanov/deep-image-prior</title>
+      <link>https://github.com/DmitryUlyanov/deep-image-prior</link>
+      <description>Image restoration with neural networks but without learning.</description>
+    </item>
+    
+    <item>
+      <title>awslabs/amazon-sagemaker-examples</title>
+      <link>https://github.com/awslabs/amazon-sagemaker-examples</link>
+      <description>Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker</description>
+    </item>
+    
+    <item>
+      <title>HeroKillerEver/coursera-deep-learning</title>
+      <link>https://github.com/HeroKillerEver/coursera-deep-learning</link>
+      <description>Solutions to all quiz and all the programming assignments!!!</description>
+    </item>
+    
+    <item>
+      <title>fastai/course-v3</title>
+      <link>https://github.com/fastai/course-v3</link>
+      <description>The 3rd edition of course.fast.ai</description>
+    </item>
+    
+    <item>
+      <title>ultralytics/yolov3</title>
+      <link>https://github.com/ultralytics/yolov3</link>
+      <description>YOLOv3 in PyTorch &gt; ONNX &gt; CoreML &gt; iOS</description>
+    </item>
+    
+    <item>
+      <title>realpython/materials</title>
+      <link>https://github.com/realpython/materials</link>
+      <description>Bonus materials, exercises, and example projects for our Python tutorials</description>
+    </item>
+    
+  </channel>
+</rss>

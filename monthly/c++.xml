@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub C++ Monthly Trending</title>
+    <description>Monthly Trending of C++ in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:35:04 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>yuzu-emu/yuzu</title>
+      <link>https://github.com/yuzu-emu/yuzu</link>
+      <description>Nintendo Switch Emulator</description>
+    </item>
+    
+    <item>
+      <title>microsoft/PowerToys</title>
+      <link>https://github.com/microsoft/PowerToys</link>
+      <description>Windows system utilities to maximize productivity</description>
+    </item>
+    
+    <item>
+      <title>MarlinFirmware/Marlin</title>
+      <link>https://github.com/MarlinFirmware/Marlin</link>
+      <description>Optimized firmware for RepRap 3D printers based on the Arduino platform.</description>
+    </item>
+    
+    <item>
+      <title>ocornut/imgui</title>
+      <link>https://github.com/ocornut/imgui</link>
+      <description>Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies</description>
+    </item>
+    
+    <item>
+      <title>Light-City/CPlusPlusThings</title>
+      <link>https://github.com/Light-City/CPlusPlusThings</link>
+      <description>C++那些事</description>
+    </item>
+    
+    <item>
+      <title>huihut/interview</title>
+      <link>https://github.com/huihut/interview</link>
+      <description>📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio…</description>
+    </item>
+    
+    <item>
+      <title>godotengine/godot</title>
+      <link>https://github.com/godotengine/godot</link>
+      <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
+    </item>
+    
+    <item>
+      <title>OneLoneCoder/olcPixelGameEngine</title>
+      <link>https://github.com/OneLoneCoder/olcPixelGameEngine</link>
+      <description>The official distribution of olcPixelGameEngine, a tool used in javidx9&#39;s YouTube videos and projects</description>
+    </item>
+    
+    <item>
+      <title>CMU-Perceptual-Computing-Lab/openpose</title>
+      <link>https://github.com/CMU-Perceptual-Computing-Lab/openpose</link>
+      <description>OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation</description>
+    </item>
+    
+    <item>
+      <title>microsoft/terminal</title>
+      <link>https://github.com/microsoft/terminal</link>
+      <description>The new Windows Terminal and the original Windows console host, all in the same place!</description>
+    </item>
+    
+    <item>
+      <title>facebook/folly</title>
+      <link>https://github.com/facebook/folly</link>
+      <description>An open-source C++ library developed and used at Facebook.</description>
+    </item>
+    
+    <item>
+      <title>minetest/minetest</title>
+      <link>https://github.com/minetest/minetest</link>
+      <description>Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game</description>
+    </item>
+    
+    <item>
+      <title>tensorflow/tensorflow</title>
+      <link>https://github.com/tensorflow/tensorflow</link>
+      <description>An Open Source Machine Learning Framework for Everyone</description>
+    </item>
+    
+    <item>
+      <title>Qv2ray/Qv2ray</title>
+      <link>https://github.com/Qv2ray/Qv2ray</link>
+      <description>🌟 支持 V2Ray/Trojan/SSR 的 Linux/Windows/macOS 跨平台 GUI 🔨 C++17/Qt5 ，支持订阅，自定义路由编辑，插件式设计 🌟</description>
+    </item>
+    
+    <item>
+      <title>aseprite/aseprite</title>
+      <link>https://github.com/aseprite/aseprite</link>
+      <description>Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux)</description>
+    </item>
+    
+    <item>
+      <title>google/googletest</title>
+      <link>https://github.com/google/googletest</link>
+      <description>Googletest - Google Testing and Mocking Framework</description>
+    </item>
+    
+    <item>
+      <title>pytorch/pytorch</title>
+      <link>https://github.com/pytorch/pytorch</link>
+      <description>Tensors and Dynamic neural networks in Python with strong GPU acceleration</description>
+    </item>
+    
+    <item>
+      <title>bigtreetech/BIGTREETECH-SKR-mini-E3</title>
+      <link>https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3</link>
+      <description>BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.</description>
+    </item>
+    
+    <item>
+      <title>bitcoin/bitcoin</title>
+      <link>https://github.com/bitcoin/bitcoin</link>
+      <description>Bitcoin Core integration/staging tree</description>
+    </item>
+    
+    <item>
+      <title>versatica/mediasoup</title>
+      <link>https://github.com/versatica/mediasoup</link>
+      <description>Cutting Edge WebRTC Video Conferencing</description>
+    </item>
+    
+    <item>
+      <title>topjohnwu/Magisk</title>
+      <link>https://github.com/topjohnwu/Magisk</link>
+      <description>The Magic Mask for Android</description>
+    </item>
+    
+    <item>
+      <title>fmtlib/fmt</title>
+      <link>https://github.com/fmtlib/fmt</link>
+      <description>A modern formatting library</description>
+    </item>
+    
+    <item>
+      <title>juce-framework/JUCE</title>
+      <link>https://github.com/juce-framework/JUCE</link>
+      <description>The JUCE cross-platform C++ framework</description>
+    </item>
+    
+    <item>
+      <title>OpenRCT2/OpenRCT2</title>
+      <link>https://github.com/OpenRCT2/OpenRCT2</link>
+      <description>An open source re-implementation of RollerCoaster Tycoon 2 🎢</description>
+    </item>
+    
+    <item>
+      <title>ClickHouse/ClickHouse</title>
+      <link>https://github.com/ClickHouse/ClickHouse</link>
+      <description>ClickHouse is a free analytics DBMS for big data</description>
+    </item>
+    
+  </channel>
+</rss>

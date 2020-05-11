@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CMake Daily Trending</title>
+    <description>Daily Trending of CMake in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:05:09 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft/vcpkg</title>
+      <link>https://github.com/microsoft/vcpkg</link>
+      <description>C++ Library Manager for Windows, Linux, and MacOS</description>
+    </item>
+    
+    <item>
+      <title>Orphis/boost-cmake</title>
+      <link>https://github.com/Orphis/boost-cmake</link>
+      <description>Easy Boost integration in CMake projects</description>
+    </item>
+    
+    <item>
+      <title>sakra/cotire</title>
+      <link>https://github.com/sakra/cotire</link>
+      <description>CMake module to speed up builds.</description>
+    </item>
+    
+  </channel>
+</rss>

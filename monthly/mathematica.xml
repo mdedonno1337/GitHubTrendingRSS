@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Mathematica Monthly Trending</title>
+    <description>Monthly Trending of Mathematica in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:40:48 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>KhronosGroup/glTF-Sample-Models</title>
+      <link>https://github.com/KhronosGroup/glTF-Sample-Models</link>
+      <description>glTF Sample Models</description>
+    </item>
+    
+  </channel>
+</rss>

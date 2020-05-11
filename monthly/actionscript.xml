@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub ActionScript Monthly Trending</title>
+    <description>Monthly Trending of ActionScript in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:33:49 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>jhuckaby/webcamjs</title>
+      <link>https://github.com/jhuckaby/webcamjs</link>
+      <description>HTML5 Webcam Image Capture Library with Flash Fallback</description>
+    </item>
+    
+  </channel>
+</rss>

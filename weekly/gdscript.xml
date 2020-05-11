@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub GDScript Weekly Trending</title>
+    <description>Weekly Trending of GDScript in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:22:44 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>godotengine/godot-demo-projects</title>
+      <link>https://github.com/godotengine/godot-demo-projects</link>
+      <description>Demonstration and Template Projects</description>
+    </item>
+    
+    <item>
+      <title>Orama-Interactive/Pixelorama</title>
+      <link>https://github.com/Orama-Interactive/Pixelorama</link>
+      <description>A free &amp; open-source 2D sprite editor, made with the Godot Engine!</description>
+    </item>
+    
+  </channel>
+</rss>

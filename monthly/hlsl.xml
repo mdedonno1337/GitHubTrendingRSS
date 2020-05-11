@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub HLSL Monthly Trending</title>
+    <description>Monthly Trending of HLSL in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:38:31 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>crosire/reshade-shaders</title>
+      <link>https://github.com/crosire/reshade-shaders</link>
+      <description>A collection of post-processing shaders written for ReShade.</description>
+    </item>
+    
+    <item>
+      <title>ColinLeung-NiloCat/UnityURPToonLitShaderExample</title>
+      <link>https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample</link>
+      <description>A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP</description>
+    </item>
+    
+  </channel>
+</rss>

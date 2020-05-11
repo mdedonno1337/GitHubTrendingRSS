@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Vim script Weekly Trending</title>
+    <description>Weekly Trending of Vim script in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:32:00 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>junegunn/vim-plug</title>
+      <link>https://github.com/junegunn/vim-plug</link>
+      <description>🌺 Minimalist Vim Plugin Manager</description>
+    </item>
+    
+    <item>
+      <title>vimwiki/vimwiki</title>
+      <link>https://github.com/vimwiki/vimwiki</link>
+      <description>Personal Wiki for Vim</description>
+    </item>
+    
+    <item>
+      <title>neovim/neovim</title>
+      <link>https://github.com/neovim/neovim</link>
+      <description>Vim-fork focused on extensibility and usability</description>
+    </item>
+    
+    <item>
+      <title>vim-airline/vim-airline</title>
+      <link>https://github.com/vim-airline/vim-airline</link>
+      <description>lean &amp; mean status/tabline for vim that&#39;s light as air</description>
+    </item>
+    
+    <item>
+      <title>junegunn/fzf.vim</title>
+      <link>https://github.com/junegunn/fzf.vim</link>
+      <description>fzf ❤️ vim</description>
+    </item>
+    
+    <item>
+      <title>cocopon/iceberg.vim</title>
+      <link>https://github.com/cocopon/iceberg.vim</link>
+      <description>🇦🇶 Dark blue color scheme for Vim and Neovim</description>
+    </item>
+    
+    <item>
+      <title>airblade/vim-gitgutter</title>
+      <link>https://github.com/airblade/vim-gitgutter</link>
+      <description>A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.</description>
+    </item>
+    
+    <item>
+      <title>rakr/vim-one</title>
+      <link>https://github.com/rakr/vim-one</link>
+      <description>Adaptation of one-light and one-dark colorschemes for Vim</description>
+    </item>
+    
+    <item>
+      <title>fatih/vim-go</title>
+      <link>https://github.com/fatih/vim-go</link>
+      <description>Go development plugin for Vim</description>
+    </item>
+    
+    <item>
+      <title>vim/vim</title>
+      <link>https://github.com/vim/vim</link>
+      <description>The official Vim repository</description>
+    </item>
+    
+    <item>
+      <title>kien/ctrlp.vim</title>
+      <link>https://github.com/kien/ctrlp.vim</link>
+      <description>Fuzzy file, buffer, mru, tag, etc finder.</description>
+    </item>
+    
+    <item>
+      <title>dense-analysis/ale</title>
+      <link>https://github.com/dense-analysis/ale</link>
+      <description>Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
+    </item>
+    
+    <item>
+      <title>preservim/nerdtree</title>
+      <link>https://github.com/preservim/nerdtree</link>
+      <description>A tree explorer plugin for vim.</description>
+    </item>
+    
+    <item>
+      <title>morhetz/gruvbox</title>
+      <link>https://github.com/morhetz/gruvbox</link>
+      <description>Retro groove color scheme for Vim</description>
+    </item>
+    
+    <item>
+      <title>mhinz/vim-startify</title>
+      <link>https://github.com/mhinz/vim-startify</link>
+      <description>🔗 The fancy start screen for Vim.</description>
+    </item>
+    
+    <item>
+      <title>tpope/vim-fugitive</title>
+      <link>https://github.com/tpope/vim-fugitive</link>
+      <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
+    </item>
+    
+    <item>
+      <title>junegunn/goyo.vim</title>
+      <link>https://github.com/junegunn/goyo.vim</link>
+      <description>🌷 Distraction-free writing in Vim</description>
+    </item>
+    
+    <item>
+      <title>altercation/vim-colors-solarized</title>
+      <link>https://github.com/altercation/vim-colors-solarized</link>
+      <description>precision colorscheme for the vim text editor</description>
+    </item>
+    
+    <item>
+      <title>mileszs/ack.vim</title>
+      <link>https://github.com/mileszs/ack.vim</link>
+      <description>Vim plugin for the Perl module / CLI script &#39;ack&#39;</description>
+    </item>
+    
+    <item>
+      <title>amix/vimrc</title>
+      <link>https://github.com/amix/vimrc</link>
+      <description>The ultimate Vim configuration: vimrc</description>
+    </item>
+    
+    <item>
+      <title>preservim/nerdcommenter</title>
+      <link>https://github.com/preservim/nerdcommenter</link>
+      <description>Vim plugin for intensely nerdy commenting powers</description>
+    </item>
+    
+    <item>
+      <title>tpope/vim-abolish</title>
+      <link>https://github.com/tpope/vim-abolish</link>
+      <description>abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word</description>
+    </item>
+    
+    <item>
+      <title>Shougo/dein.vim</title>
+      <link>https://github.com/Shougo/dein.vim</link>
+      <description>⚡ Dark powered Vim/Neovim plugin manager</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/rust.vim</title>
+      <link>https://github.com/rust-lang/rust.vim</link>
+      <description>Vim configuration for Rust.</description>
+    </item>
+    
+    <item>
+      <title>plasticboy/vim-markdown</title>
+      <link>https://github.com/plasticboy/vim-markdown</link>
+      <description>Markdown Vim Mode</description>
+    </item>
+    
+  </channel>
+</rss>

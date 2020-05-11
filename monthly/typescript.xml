@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TypeScript Monthly Trending</title>
+    <description>Monthly Trending of TypeScript in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:46:48 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>vuejs/vue-next</title>
+      <link>https://github.com/vuejs/vue-next</link>
+      <description>Repo for Vue 3.0 (currently in beta)</description>
+    </item>
+    
+    <item>
+      <title>umijs/qiankun</title>
+      <link>https://github.com/umijs/qiankun</link>
+      <description>📦🚀Blazing fast, simple and completed solution for micro frontends.</description>
+    </item>
+    
+    <item>
+      <title>denoland/deno</title>
+      <link>https://github.com/denoland/deno</link>
+      <description>A secure JavaScript and TypeScript runtime</description>
+    </item>
+    
+    <item>
+      <title>blitz-js/blitz</title>
+      <link>https://github.com/blitz-js/blitz</link>
+      <description>⚡️Rails-like framework for monolithic, full-stack React apps — built on Next.js</description>
+    </item>
+    
+    <item>
+      <title>microsoft/vscode</title>
+      <link>https://github.com/microsoft/vscode</link>
+      <description>Visual Studio Code</description>
+    </item>
+    
+    <item>
+      <title>DefinitelyTyped/DefinitelyTyped</title>
+      <link>https://github.com/DefinitelyTyped/DefinitelyTyped</link>
+      <description>The repository for high quality TypeScript type definitions.</description>
+    </item>
+    
+    <item>
+      <title>DeborahK/Angular-GettingStarted</title>
+      <link>https://github.com/DeborahK/Angular-GettingStarted</link>
+      <description>Sample Angular application used in the &quot;Angular: Getting Started&quot; course: http://bit.ly/Angular-GettingStarted</description>
+    </item>
+    
+    <item>
+      <title>squidfunk/mkdocs-material</title>
+      <link>https://github.com/squidfunk/mkdocs-material</link>
+      <description>A Material Design theme for MkDocs</description>
+    </item>
+    
+    <item>
+      <title>tensorflow/tfjs-models</title>
+      <link>https://github.com/tensorflow/tfjs-models</link>
+      <description>Pretrained models for TensorFlow.js</description>
+    </item>
+    
+    <item>
+      <title>phuoc-ng/html-dom</title>
+      <link>https://github.com/phuoc-ng/html-dom</link>
+      <description>Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.</description>
+    </item>
+    
+    <item>
+      <title>callstack/react-native-paper</title>
+      <link>https://github.com/callstack/react-native-paper</link>
+      <description>Material Design for React Native (Android &amp; iOS)</description>
+    </item>
+    
+    <item>
+      <title>cdr/code-server</title>
+      <link>https://github.com/cdr/code-server</link>
+      <description>Run VS Code on a remote server.</description>
+    </item>
+    
+    <item>
+      <title>microsoft/TypeScript</title>
+      <link>https://github.com/microsoft/TypeScript</link>
+      <description>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</description>
+    </item>
+    
+    <item>
+      <title>niklasvh/html2canvas</title>
+      <link>https://github.com/niklasvh/html2canvas</link>
+      <description>Screenshots with JavaScript</description>
+    </item>
+    
+    <item>
+      <title>pop-os/shell</title>
+      <link>https://github.com/pop-os/shell</link>
+      <description>Pop!_OS Shell</description>
+    </item>
+    
+    <item>
+      <title>snobu/destreamer</title>
+      <link>https://github.com/snobu/destreamer</link>
+      <description>Save Microsoft Stream videos for offline enjoyment.</description>
+    </item>
+    
+    <item>
+      <title>pulumi/examples</title>
+      <link>https://github.com/pulumi/examples</link>
+      <description>Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi</description>
+    </item>
+    
+    <item>
+      <title>ng-alain/ng-alain</title>
+      <link>https://github.com/ng-alain/ng-alain</link>
+      <description>NG-ZORRO admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)</description>
+    </item>
+    
+    <item>
+      <title>sindresorhus/got</title>
+      <link>https://github.com/sindresorhus/got</link>
+      <description>🌐 Human-friendly and powerful HTTP request library for Node.js</description>
+    </item>
+    
+    <item>
+      <title>storybookjs/storybook</title>
+      <link>https://github.com/storybookjs/storybook</link>
+      <description>📓 UI component dev &amp; test: React, Vue, Angular, React Native, Ember, Web Components &amp; more!</description>
+    </item>
+    
+    <item>
+      <title>eugeneration/HappyIslandDesigner</title>
+      <link>https://github.com/eugeneration/HappyIslandDesigner</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure/azure-sdk-for-js</title>
+      <link>https://github.com/Azure/azure-sdk-for-js</link>
+      <description>This repository is for active development of the Azure SDK for JavaScript (NodeJS &amp; Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.</description>
+    </item>
+    
+    <item>
+      <title>wechat-miniprogram/weui-miniprogram</title>
+      <link>https://github.com/wechat-miniprogram/weui-miniprogram</link>
+      <description>小程序WeUI组件库</description>
+    </item>
+    
+    <item>
+      <title>tradingview/lightweight-charts</title>
+      <link>https://github.com/tradingview/lightweight-charts</link>
+      <description>Financial lightweight charts built with HTML5 canvas</description>
+    </item>
+    
+    <item>
+      <title>peers/peerjs-server</title>
+      <link>https://github.com/peers/peerjs-server</link>
+      <description>Server for PeerJS</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub C Weekly Trending</title>
+    <description>Weekly Trending of C in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:20:02 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ventoy/Ventoy</title>
+      <link>https://github.com/ventoy/Ventoy</link>
+      <description>A new bootable USB solution.</description>
+    </item>
+    
+    <item>
+      <title>n64decomp/sm64</title>
+      <link>https://github.com/n64decomp/sm64</link>
+      <description>A Super Mario 64 decompilation, brought to you by a bunch of clever folks.</description>
+    </item>
+    
+    <item>
+      <title>acidanthera/OpenCorePkg</title>
+      <link>https://github.com/acidanthera/OpenCorePkg</link>
+      <description>OpenCore bootloader</description>
+    </item>
+    
+    <item>
+      <title>Genymobile/scrcpy</title>
+      <link>https://github.com/Genymobile/scrcpy</link>
+      <description>Display and control your Android device</description>
+    </item>
+    
+    <item>
+      <title>espressif/arduino-esp32</title>
+      <link>https://github.com/espressif/arduino-esp32</link>
+      <description>Arduino core for the ESP32</description>
+    </item>
+    
+    <item>
+      <title>antirez/redis</title>
+      <link>https://github.com/antirez/redis</link>
+      <description>Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.</description>
+    </item>
+    
+    <item>
+      <title>SecWiki/windows-kernel-exploits</title>
+      <link>https://github.com/SecWiki/windows-kernel-exploits</link>
+      <description>windows-kernel-exploits Windows平台提权漏洞集合</description>
+    </item>
+    
+    <item>
+      <title>micropython/micropython</title>
+      <link>https://github.com/micropython/micropython</link>
+      <description>MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems</description>
+    </item>
+    
+    <item>
+      <title>SoftEtherVPN/SoftEtherVPN</title>
+      <link>https://github.com/SoftEtherVPN/SoftEtherVPN</link>
+      <description>Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.</description>
+    </item>
+    
+    <item>
+      <title>ish-app/ish</title>
+      <link>https://github.com/ish-app/ish</link>
+      <description>Linux shell for iOS</description>
+    </item>
+    
+    <item>
+      <title>microsoft/msquic</title>
+      <link>https://github.com/microsoft/msquic</link>
+      <description>Cross platform C implementation of the IETF QUIC protocol.</description>
+    </item>
+    
+    <item>
+      <title>hanwckf/rt-n56u</title>
+      <link>https://github.com/hanwckf/rt-n56u</link>
+      <description>Padavan</description>
+    </item>
+    
+    <item>
+      <title>The-Cracker-Technology/ANDRAX-Mobile-Pentest</title>
+      <link>https://github.com/The-Cracker-Technology/ANDRAX-Mobile-Pentest</link>
+      <description>ANDRAX Advanced Penetration Testing Platform for Android Smartphones</description>
+    </item>
+    
+    <item>
+      <title>facebook/zstd</title>
+      <link>https://github.com/facebook/zstd</link>
+      <description>Zstandard - Fast real-time compression algorithm</description>
+    </item>
+    
+    <item>
+      <title>betaflight/betaflight</title>
+      <link>https://github.com/betaflight/betaflight</link>
+      <description>Open Source Flight Controller Firmware</description>
+    </item>
+    
+    <item>
+      <title>bigtreetech/BIGTREETECH-TouchScreenFirmware</title>
+      <link>https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware</link>
+      <description>support TFT35 V1.0/V1.1/V1.2/V2.0/V3.0, TFT28, TFT24 V1.1</description>
+    </item>
+    
+    <item>
+      <title>nanopb/nanopb</title>
+      <link>https://github.com/nanopb/nanopb</link>
+      <description>Protocol Buffers with small code size</description>
+    </item>
+    
+    <item>
+      <title>id-Software/DOOM</title>
+      <link>https://github.com/id-Software/DOOM</link>
+      <description>DOOM Open Source Release</description>
+    </item>
+    
+    <item>
+      <title>mpv-player/mpv</title>
+      <link>https://github.com/mpv-player/mpv</link>
+      <description>🎥 Command line video player</description>
+    </item>
+    
+    <item>
+      <title>wg/wrk</title>
+      <link>https://github.com/wg/wrk</link>
+      <description>Modern HTTP benchmarking tool</description>
+    </item>
+    
+    <item>
+      <title>blender/blender</title>
+      <link>https://github.com/blender/blender</link>
+      <description>Official mirror of Blender</description>
+    </item>
+    
+    <item>
+      <title>php/php-src</title>
+      <link>https://github.com/php/php-src</link>
+      <description>The PHP Interpreter</description>
+    </item>
+    
+    <item>
+      <title>unicorn-engine/unicorn</title>
+      <link>https://github.com/unicorn-engine/unicorn</link>
+      <description>Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)</description>
+    </item>
+    
+    <item>
+      <title>RavenSystem/esp-homekit-devices</title>
+      <link>https://github.com/RavenSystem/esp-homekit-devices</link>
+      <description>Project to add native Apple HomeKit support to any device with an ESP8266 chip</description>
+    </item>
+    
+    <item>
+      <title>jemalloc/jemalloc</title>
+      <link>https://github.com/jemalloc/jemalloc</link>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

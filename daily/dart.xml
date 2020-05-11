@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Dart Daily Trending</title>
+    <description>Daily Trending of Dart in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:05:57 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>mitesh77/Best-Flutter-UI-Templates</title>
+      <link>https://github.com/mitesh77/Best-Flutter-UI-Templates</link>
+      <description>completely free for everyone. Its build-in Flutter Dart.</description>
+    </item>
+    
+    <item>
+      <title>flutter/flutter</title>
+      <link>https://github.com/flutter/flutter</link>
+      <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond.</description>
+    </item>
+    
+    <item>
+      <title>Norbert515/flutter_ide</title>
+      <link>https://github.com/Norbert515/flutter_ide</link>
+      <description>A visual editor for Flutter widgets</description>
+    </item>
+    
+    <item>
+      <title>alibaba/flutter-go</title>
+      <link>https://github.com/alibaba/flutter-go</link>
+      <description>flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档</description>
+    </item>
+    
+    <item>
+      <title>zino-app/graphql-flutter</title>
+      <link>https://github.com/zino-app/graphql-flutter</link>
+      <description>A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package.</description>
+    </item>
+    
+    <item>
+      <title>Solido/awesome-flutter</title>
+      <link>https://github.com/Solido/awesome-flutter</link>
+      <description>An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.</description>
+    </item>
+    
+    <item>
+      <title>hivedb/hive</title>
+      <link>https://github.com/hivedb/hive</link>
+      <description>Lightweight and blazing fast key-value database written in pure Dart.</description>
+    </item>
+    
+    <item>
+      <title>duytq94/flutter-chat-demo</title>
+      <link>https://github.com/duytq94/flutter-chat-demo</link>
+      <description>The chat app made by Flutter and Firebase</description>
+    </item>
+    
+    <item>
+      <title>memspace/zefyr</title>
+      <link>https://github.com/memspace/zefyr</link>
+      <description>Soft and gentle rich text editing for Flutter applications.</description>
+    </item>
+    
+    <item>
+      <title>flutter/plugins</title>
+      <link>https://github.com/flutter/plugins</link>
+      <description>Plugins for Flutter maintained by the Flutter team</description>
+    </item>
+    
+    <item>
+      <title>flame-engine/flame</title>
+      <link>https://github.com/flame-engine/flame</link>
+      <description>A minimalist Flutter game engine</description>
+    </item>
+    
+    <item>
+      <title>theindianappguy/FlutterChatAppTutorial</title>
+      <link>https://github.com/theindianappguy/FlutterChatAppTutorial</link>
+      <description>Fully Functioning Chat App with Flutter &amp; Firebase</description>
+    </item>
+    
+    <item>
+      <title>dart-lang/sdk</title>
+      <link>https://github.com/dart-lang/sdk</link>
+      <description>The Dart SDK, including the VM, dart2js, core libraries, and more.</description>
+    </item>
+    
+    <item>
+      <title>FilledStacks/flutter-tutorials</title>
+      <link>https://github.com/FilledStacks/flutter-tutorials</link>
+      <description>The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.</description>
+    </item>
+    
+    <item>
+      <title>simplezhli/flutter_deer</title>
+      <link>https://github.com/simplezhli/flutter_deer</link>
+      <description>🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project. Includes a complete UI design and exercises that are closer to real projects.</description>
+    </item>
+    
+    <item>
+      <title>rrousselGit/provider</title>
+      <link>https://github.com/rrousselGit/provider</link>
+      <description>InheritedWidgets, but simple</description>
+    </item>
+    
+    <item>
+      <title>imaNNeoFighT/fl_chart</title>
+      <link>https://github.com/imaNNeoFighT/fl_chart</link>
+      <description>A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart and Scatter Chart.</description>
+    </item>
+    
+    <item>
+      <title>iampawan/FlutterExampleApps</title>
+      <link>https://github.com/iampawan/FlutterExampleApps</link>
+      <description>[Example APPS] Basic Flutter apps, for flutter devs.</description>
+    </item>
+    
+    <item>
+      <title>AweiLoveAndroid/Flutter-learning</title>
+      <link>https://github.com/AweiLoveAndroid/Flutter-learning</link>
+      <description>🔥 👍 🌟 ⭐ ⭐⭐ Flutter all you want.Flutter install,flutter samples,Flutter projects,Flutter plugin,Flutter problems,Dart codes,etc.Flutter安装和配置，Flutter开发遇到的难题，Flutter示例代码和模板，Flutter项目实战，Dart语言学习示例代码。</description>
+    </item>
+    
+    <item>
+      <title>tekartik/sqflite</title>
+      <link>https://github.com/tekartik/sqflite</link>
+      <description>SQLite flutter plugin</description>
+    </item>
+    
+    <item>
+      <title>pauldemarco/flutter_blue</title>
+      <link>https://github.com/pauldemarco/flutter_blue</link>
+      <description>Bluetooth plugin for Flutter</description>
+    </item>
+    
+    <item>
+      <title>abuanwar072/C0VID-19-Flutter-UI</title>
+      <link>https://github.com/abuanwar072/C0VID-19-Flutter-UI</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>renancaraujo/photo_view</title>
+      <link>https://github.com/renancaraujo/photo_view</link>
+      <description>📸 Easy to use yet very customizable zoomable image widget for Flutter, Photo View provides a gesture sensitive zoomable widget. Photo View is largely used to show interacive images and other stuff such as SVG.</description>
+    </item>
+    
+    <item>
+      <title>MaikuB/flutter_local_notifications</title>
+      <link>https://github.com/MaikuB/flutter_local_notifications</link>
+      <description>A Flutter plugin for displaying local notifications on Android and iOS</description>
+    </item>
+    
+    <item>
+      <title>flutter/samples</title>
+      <link>https://github.com/flutter/samples</link>
+      <description>A collection of Flutter examples and demos.</description>
+    </item>
+    
+  </channel>
+</rss>

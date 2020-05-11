@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Verilog Weekly Trending</title>
+    <description>Weekly Trending of Verilog in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:31:58 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>EttusResearch/uhd</title>
+      <link>https://github.com/EttusResearch/uhd</link>
+      <description>The USRP™ Hardware Driver Repository</description>
+    </item>
+    
+    <item>
+      <title>analogdevicesinc/hdl</title>
+      <link>https://github.com/analogdevicesinc/hdl</link>
+      <description>HDL libraries and projects</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Gnuplot Weekly Trending</title>
+    <description>Weekly Trending of Gnuplot in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:23:01 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nasa-jpl/open-source-rover</title>
+      <link>https://github.com/nasa-jpl/open-source-rover</link>
+      <description>A build-it-yourself, 6-wheel rover based on the rovers on Mars!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Roff Daily Trending</title>
+    <description>Daily Trending of Roff in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:14:40 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>max2max/freess</title>
+      <link>https://github.com/max2max/freess</link>
+      <description>免费ss账号 免费shadowsocks账号 免费v2ray账号 (长期更新)</description>
+    </item>
+    
+    <item>
+      <title>shadowrocketHelp/help</title>
+      <link>https://github.com/shadowrocketHelp/help</link>
+      <description>【史上最详细的SS/SSR节点使用教程】</description>
+    </item>
+    
+    <item>
+      <title>yous/YousList</title>
+      <link>https://github.com/yous/YousList</link>
+      <description>Block filter for advertisements, mainly on Korean sites</description>
+    </item>
+    
+    <item>
+      <title>Chr0nicT/Nepeta-Mirror</title>
+      <link>https://github.com/Chr0nicT/Nepeta-Mirror</link>
+      <description>The hero we don&#39;t deserve.</description>
+    </item>
+    
+  </channel>
+</rss>

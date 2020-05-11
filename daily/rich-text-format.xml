@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rich Text Format Daily Trending</title>
+    <description>Daily Trending of Rich Text Format in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:14:34 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft/WPF-Samples</title>
+      <link>https://github.com/microsoft/WPF-Samples</link>
+      <description>Repository for WPF related samples</description>
+    </item>
+    
+    <item>
+      <title>mcxiaoke/mqtt</title>
+      <link>https://github.com/mcxiaoke/mqtt</link>
+      <description>MQTT协议3.1.1中文翻译版，IoT，物联网</description>
+    </item>
+    
+    <item>
+      <title>FailedShack/USBHelperInstaller</title>
+      <link>https://github.com/FailedShack/USBHelperInstaller</link>
+      <description>An installer for USBHelperLauncher.</description>
+    </item>
+    
+    <item>
+      <title>tsingui/clover-efi</title>
+      <link>https://github.com/tsingui/clover-efi</link>
+      <description>分享整理一些黑苹果Clover驱动配置文件</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Smali Weekly Trending</title>
+    <description>Weekly Trending of Smali in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:30:18 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>D3VL/L3MON</title>
+      <link>https://github.com/D3VL/L3MON</link>
+      <description>L3MON - Remote Android Managment Suite</description>
+    </item>
+    
+    <item>
+      <title>AhMyth/AhMyth-Android-RAT</title>
+      <link>https://github.com/AhMyth/AhMyth-Android-RAT</link>
+      <description>Android Remote Administration Tool</description>
+    </item>
+    
+    <item>
+      <title>phhusson/treble_experimentations</title>
+      <link>https://github.com/phhusson/treble_experimentations</link>
+      <description>Notes about tinkering with Android Project Treble</description>
+    </item>
+    
+  </channel>
+</rss>

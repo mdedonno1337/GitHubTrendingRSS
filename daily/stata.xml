@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Stata Daily Trending</title>
+    <description>Daily Trending of Stata in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:15:45 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ebmdatalab/opensafely-risk-factors-research</title>
+      <link>https://github.com/ebmdatalab/opensafely-risk-factors-research</link>
+      <description>This is the code and configuration for our paper, OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients</description>
+    </item>
+    
+  </channel>
+</rss>

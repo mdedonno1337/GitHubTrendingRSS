@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Java Monthly Trending</title>
+    <description>Monthly Trending of Java in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:39:10 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>hollischuang/toBeTopJavaer</title>
+      <link>https://github.com/hollischuang/toBeTopJavaer</link>
+      <description>To Be Top Javaer - Java工程师成神之路</description>
+    </item>
+    
+    <item>
+      <title>elunez/eladmin</title>
+      <link>https://github.com/elunez/eladmin</link>
+      <description>项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由</description>
+    </item>
+    
+    <item>
+      <title>TheAlgorithms/Java</title>
+      <link>https://github.com/TheAlgorithms/Java</link>
+      <description>All Algorithms implemented in Java</description>
+    </item>
+    
+    <item>
+      <title>apache/shardingsphere</title>
+      <link>https://github.com/apache/shardingsphere</link>
+      <description>Distributed database middleware</description>
+    </item>
+    
+    <item>
+      <title>lihengming/spring-boot-api-project-seed</title>
+      <link>https://github.com/lihengming/spring-boot-api-project-seed</link>
+      <description>🌱🚀一个基于Spring Boot &amp; MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~</description>
+    </item>
+    
+    <item>
+      <title>xkcoding/spring-boot-demo</title>
+      <link>https://github.com/xkcoding/spring-boot-demo</link>
+      <description>spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…</description>
+    </item>
+    
+    <item>
+      <title>YunaiV/SpringBoot-Labs</title>
+      <link>https://github.com/YunaiV/SpringBoot-Labs</link>
+      <description>一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024</description>
+    </item>
+    
+    <item>
+      <title>bigbluebutton/bigbluebutton</title>
+      <link>https://github.com/bigbluebutton/bigbluebutton</link>
+      <description>Complete open source web conferencing system.</description>
+    </item>
+    
+    <item>
+      <title>alibaba/spring-cloud-alibaba</title>
+      <link>https://github.com/alibaba/spring-cloud-alibaba</link>
+      <description>Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.</description>
+    </item>
+    
+    <item>
+      <title>alibaba/nacos</title>
+      <link>https://github.com/alibaba/nacos</link>
+      <description>an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.</description>
+    </item>
+    
+    <item>
+      <title>YunaiV/onemall</title>
+      <link>https://github.com/YunaiV/onemall</link>
+      <description>mall 商城，基于微服务的思想，构建在 B2C 电商场景下的项目实战。核心技术栈，是 Spring Boot + Dubbo 。未来，会重构成 Spring Cloud Alibaba 。</description>
+    </item>
+    
+    <item>
+      <title>alibaba/arthas</title>
+      <link>https://github.com/alibaba/arthas</link>
+      <description>Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas</description>
+    </item>
+    
+    <item>
+      <title>apache/flink</title>
+      <link>https://github.com/apache/flink</link>
+      <description>Apache Flink</description>
+    </item>
+    
+    <item>
+      <title>open-telemetry/opentelemetry-java</title>
+      <link>https://github.com/open-telemetry/opentelemetry-java</link>
+      <description>OpenTelemetry Java SDK</description>
+    </item>
+    
+    <item>
+      <title>bjmashibing/InternetArchitect</title>
+      <link>https://github.com/bjmashibing/InternetArchitect</link>
+      <description>年薪百万互联网架构师课程文档及源码(公开部分)</description>
+    </item>
+    
+    <item>
+      <title>alibaba/canal</title>
+      <link>https://github.com/alibaba/canal</link>
+      <description>阿里巴巴 MySQL binlog 增量订阅&amp;消费组件</description>
+    </item>
+    
+    <item>
+      <title>xuxueli/xxl-job</title>
+      <link>https://github.com/xuxueli/xxl-job</link>
+      <description>A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）</description>
+    </item>
+    
+    <item>
+      <title>MisterBooo/LeetCodeAnimation</title>
+      <link>https://github.com/MisterBooo/LeetCodeAnimation</link>
+      <description>Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）</description>
+    </item>
+    
+    <item>
+      <title>zhisheng17/flink-learning</title>
+      <link>https://github.com/zhisheng17/flink-learning</link>
+      <description>flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API &amp; SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》</description>
+    </item>
+    
+    <item>
+      <title>cats-oss/android-gpuimage</title>
+      <link>https://github.com/cats-oss/android-gpuimage</link>
+      <description>Android filters based on OpenGL (idea from GPUImage for iOS)</description>
+    </item>
+    
+    <item>
+      <title>alibaba/easyexcel</title>
+      <link>https://github.com/alibaba/easyexcel</link>
+      <description>快速、简单避免OOM的java处理Excel工具</description>
+    </item>
+    
+    <item>
+      <title>Tencent/QMUI_Android</title>
+      <link>https://github.com/Tencent/QMUI_Android</link>
+      <description>提高 Android UI 开发效率的 UI 库</description>
+    </item>
+    
+    <item>
+      <title>google/grafika</title>
+      <link>https://github.com/google/grafika</link>
+      <description>Grafika test app</description>
+    </item>
+    
+    <item>
+      <title>termux/termux-app</title>
+      <link>https://github.com/termux/termux-app</link>
+      <description>Android terminal and Linux environment - app repository.</description>
+    </item>
+    
+    <item>
+      <title>elastic/elasticsearch</title>
+      <link>https://github.com/elastic/elasticsearch</link>
+      <description>Open Source, Distributed, RESTful Search Engine</description>
+    </item>
+    
+  </channel>
+</rss>

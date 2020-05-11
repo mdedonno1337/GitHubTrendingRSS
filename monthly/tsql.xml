@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TSQL Monthly Trending</title>
+    <description>Monthly Trending of TSQL in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:46:36 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>skr-shop/manuals</title>
+      <link>https://github.com/skr-shop/manuals</link>
+      <description>Do design No code 📖</description>
+    </item>
+    
+    <item>
+      <title>dr5hn/countries-states-cities-database</title>
+      <link>https://github.com/dr5hn/countries-states-cities-database</link>
+      <description>🌍World countries, states/regions, cities in JSON, SQL, XML, PLIST, YAML and CSV. All Countries, Cities, States with ISO2, ISO3, Country Code, Phone Code, Capital and Currency [Linked with Each Other By ID] [Countries-States-Cities-Database]</description>
+    </item>
+    
+    <item>
+      <title>nobodyiam/apollo-build-scripts</title>
+      <link>https://github.com/nobodyiam/apollo-build-scripts</link>
+      <description>Apollo Build Scripts</description>
+    </item>
+    
+    <item>
+      <title>BrentOzarULTD/SQL-Server-First-Responder-Kit</title>
+      <link>https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit</link>
+      <description>sp_Blitz, sp_BlitzCache, sp_BlitzFirst, sp_BlitzIndex, and other SQL Server scripts for health checks and performance tuning.</description>
+    </item>
+    
+    <item>
+      <title>kelvins/Municipios-Brasileiros</title>
+      <link>https://github.com/kelvins/Municipios-Brasileiros</link>
+      <description>🏡 Código IBGE, nome do município, capital, código UF, UF, estado, latitude e longitude das cidades brasileiras</description>
+    </item>
+    
+    <item>
+      <title>MicrosoftLearning/DP-200-Implementing-an-Azure-Data-Solution</title>
+      <link>https://github.com/MicrosoftLearning/DP-200-Implementing-an-Azure-Data-Solution</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dlbunker/ps-first-spring-boot-app</title>
+      <link>https://github.com/dlbunker/ps-first-spring-boot-app</link>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

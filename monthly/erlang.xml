@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Erlang Monthly Trending</title>
+    <description>Monthly Trending of Erlang in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:37:06 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rabbitmq/rabbitmq-server</title>
+      <link>https://github.com/rabbitmq/rabbitmq-server</link>
+      <description>Open source multi-protocol messaging broker</description>
+    </item>
+    
+    <item>
+      <title>erlang/otp</title>
+      <link>https://github.com/erlang/otp</link>
+      <description>Erlang/OTP</description>
+    </item>
+    
+    <item>
+      <title>ninenines/cowboy</title>
+      <link>https://github.com/ninenines/cowboy</link>
+      <description>Small, fast, modern HTTP server for Erlang/OTP.</description>
+    </item>
+    
+    <item>
+      <title>processone/ejabberd</title>
+      <link>https://github.com/processone/ejabberd</link>
+      <description>Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)</description>
+    </item>
+    
+  </channel>
+</rss>

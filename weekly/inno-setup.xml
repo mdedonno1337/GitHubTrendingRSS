@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Inno Setup Weekly Trending</title>
+    <description>Weekly Trending of Inno Setup in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:24:04 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>docker/toolbox</title>
+      <link>https://github.com/docker/toolbox</link>
+      <description>The Docker Toolbox</description>
+    </item>
+    
+  </channel>
+</rss>

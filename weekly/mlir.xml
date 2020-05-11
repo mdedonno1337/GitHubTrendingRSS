@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub MLIR Weekly Trending</title>
+    <description>Weekly Trending of MLIR in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:26:09 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tensorflow/runtime</title>
+      <link>https://github.com/tensorflow/runtime</link>
+      <description>A performant and modular runtime for TensorFlow</description>
+    </item>
+    
+  </channel>
+</rss>

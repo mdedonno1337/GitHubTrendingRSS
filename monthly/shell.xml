@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Shell Monthly Trending</title>
+    <description>Monthly Trending of Shell in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:44:57 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tj/git-extras</title>
+      <link>https://github.com/tj/git-extras</link>
+      <description>GIT utilities -- repo summary, repl, changelog population, author commit percentages and more</description>
+    </item>
+    
+    <item>
+      <title>termux/termux-packages</title>
+      <link>https://github.com/termux/termux-packages</link>
+      <description>Android terminal and Linux environment - packages repository.</description>
+    </item>
+    
+    <item>
+      <title>PaperMC/Paper</title>
+      <link>https://github.com/PaperMC/Paper</link>
+      <description>High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies</description>
+    </item>
+    
+    <item>
+      <title>DP-3T/documents</title>
+      <link>https://github.com/DP-3T/documents</link>
+      <description>Decentralized Privacy-Preserving Proximity Tracing -- Documents</description>
+    </item>
+    
+    <item>
+      <title>ohmyzsh/ohmyzsh</title>
+      <link>https://github.com/ohmyzsh/ohmyzsh</link>
+      <description>🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.</description>
+    </item>
+    
+    <item>
+      <title>rupa/z</title>
+      <link>https://github.com/rupa/z</link>
+      <description>z - jump around</description>
+    </item>
+    
+    <item>
+      <title>bigbluebutton/bbb-install</title>
+      <link>https://github.com/bigbluebutton/bbb-install</link>
+      <description>BASH script to install BigBlueButton in 30 minutes.</description>
+    </item>
+    
+    <item>
+      <title>thelinuxchoice/saycheese</title>
+      <link>https://github.com/thelinuxchoice/saycheese</link>
+      <description>Grab target&#39;s webcam shots by link</description>
+    </item>
+    
+    <item>
+      <title>itzg/docker-minecraft-server</title>
+      <link>https://github.com/itzg/docker-minecraft-server</link>
+      <description>Docker image that provides a Minecraft Server that will automatically download selected version at startup</description>
+    </item>
+    
+    <item>
+      <title>lei-hsia/grokking-system-design</title>
+      <link>https://github.com/lei-hsia/grokking-system-design</link>
+      <description>Thanks to lirenTu@scale</description>
+    </item>
+    
+    <item>
+      <title>zsh-users/zsh-completions</title>
+      <link>https://github.com/zsh-users/zsh-completions</link>
+      <description>Additional completion definitions for Zsh.</description>
+    </item>
+    
+    <item>
+      <title>open-guides/og-aws</title>
+      <link>https://github.com/open-guides/og-aws</link>
+      <description>📙 Amazon Web Services — a practical guide</description>
+    </item>
+    
+    <item>
+      <title>thelinuxchoice/instashell</title>
+      <link>https://github.com/thelinuxchoice/instashell</link>
+      <description>Multi-threaded Instagram Brute Forcer without password limit</description>
+    </item>
+    
+    <item>
+      <title>Homebrew/install</title>
+      <link>https://github.com/Homebrew/install</link>
+      <description>📥 Homebrew (un)installer</description>
+    </item>
+    
+    <item>
+      <title>romkatv/powerlevel10k</title>
+      <link>https://github.com/romkatv/powerlevel10k</link>
+      <description>A Zsh theme</description>
+    </item>
+    
+    <item>
+      <title>nvm-sh/nvm</title>
+      <link>https://github.com/nvm-sh/nvm</link>
+      <description>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</description>
+    </item>
+    
+    <item>
+      <title>Mayccoll/Gogh</title>
+      <link>https://github.com/Mayccoll/Gogh</link>
+      <description>Color Scheme for Gnome Terminal and Pantheon Terminal</description>
+    </item>
+    
+    <item>
+      <title>getsentry/onpremise</title>
+      <link>https://github.com/getsentry/onpremise</link>
+      <description>Sentry On-Premise setup</description>
+    </item>
+    
+    <item>
+      <title>sourcethemes/academic-kickstart</title>
+      <link>https://github.com/sourcethemes/academic-kickstart</link>
+      <description>📝 Easily create a beautiful website using Academic, Hugo, and Netlify</description>
+    </item>
+    
+    <item>
+      <title>asdf-vm/asdf</title>
+      <link>https://github.com/asdf-vm/asdf</link>
+      <description>Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more</description>
+    </item>
+    
+    <item>
+      <title>evertramos/docker-compose-letsencrypt-nginx-proxy-companion</title>
+      <link>https://github.com/evertramos/docker-compose-letsencrypt-nginx-proxy-companion</link>
+      <description>Automated docker nginx proxy integrated with letsencrypt.</description>
+    </item>
+    
+    <item>
+      <title>zero-to-mastery/start-here-guidelines</title>
+      <link>https://github.com/zero-to-mastery/start-here-guidelines</link>
+      <description>Lets Git started in the world of opensource, starting in the Zero To Mastery&#39;s opensource playground. Especially designed for education and practical experience purposes.</description>
+    </item>
+    
+    <item>
+      <title>dylanaraps/neofetch</title>
+      <link>https://github.com/dylanaraps/neofetch</link>
+      <description>🖼️ A command-line system information tool written in bash 3.2+</description>
+    </item>
+    
+    <item>
+      <title>bebasid/bebasid</title>
+      <link>https://github.com/bebasid/bebasid</link>
+      <description>bebasid dapat membantu membuka halaman situs web yang diblokir oleh pemerintah Indonesia dengan memanfaatkan hosts file.</description>
+    </item>
+    
+    <item>
+      <title>mathiasbynens/dotfiles</title>
+      <link>https://github.com/mathiasbynens/dotfiles</link>
+      <description>🔧 .files, including ~/.macos — sensible hacker defaults for macOS</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub WebAssembly Monthly Trending</title>
+    <description>Monthly Trending of WebAssembly in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:47:22 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>WebAssembly/binaryen</title>
+      <link>https://github.com/WebAssembly/binaryen</link>
+      <description>Compiler infrastructure and toolchain library for WebAssembly</description>
+    </item>
+    
+  </channel>
+</rss>

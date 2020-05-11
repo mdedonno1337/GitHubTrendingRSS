@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Makefile Monthly Trending</title>
+    <description>Monthly Trending of Makefile in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:40:37 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ramitsurana/awesome-kubernetes</title>
+      <link>https://github.com/ramitsurana/awesome-kubernetes</link>
+      <description>A curated list for awesome kubernetes sources 🚢🎉</description>
+    </item>
+    
+    <item>
+      <title>golang-standards/project-layout</title>
+      <link>https://github.com/golang-standards/project-layout</link>
+      <description>Standard Go Project Layout</description>
+    </item>
+    
+    <item>
+      <title>frida/frida</title>
+      <link>https://github.com/frida/frida</link>
+      <description>Clone this repo to build Frida</description>
+    </item>
+    
+    <item>
+      <title>Naereen/badges</title>
+      <link>https://github.com/Naereen/badges</link>
+      <description>📝 Markdown code for lots of small badges 🎀 📌 (shields.io, forthebadge.com etc) 😎. Contributions are welcome! Please add yourse!</description>
+    </item>
+    
+    <item>
+      <title>ccrisan/motioneyeos</title>
+      <link>https://github.com/ccrisan/motioneyeos</link>
+      <description>A Video Surveillance OS For Single-board Computers</description>
+    </item>
+    
+    <item>
+      <title>servicemesher/istio-handbook</title>
+      <link>https://github.com/servicemesher/istio-handbook</link>
+      <description>Istio Service Mesh Advanced Practical - Istio服务网格进阶实战 https://www.servicemesher.com/istio-handbook/</description>
+    </item>
+    
+    <item>
+      <title>nanoninja/docker-nginx-php-mysql</title>
+      <link>https://github.com/nanoninja/docker-nginx-php-mysql</link>
+      <description>Docker running Nginx, PHP-FPM, MySQL &amp; PHPMyAdmin</description>
+    </item>
+    
+    <item>
+      <title>NVIDIA/nvidia-docker</title>
+      <link>https://github.com/NVIDIA/nvidia-docker</link>
+      <description>Build and run Docker containers leveraging NVIDIA GPUs</description>
+    </item>
+    
+    <item>
+      <title>jobbole/awesome-python-cn</title>
+      <link>https://github.com/jobbole/awesome-python-cn</link>
+      <description>Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。</description>
+    </item>
+    
+    <item>
+      <title>redox-os/redox</title>
+      <link>https://github.com/redox-os/redox</link>
+      <description>Mirror of https://gitlab.redox-os.org/redox-os/redox</description>
+    </item>
+    
+    <item>
+      <title>WerWolv/Tesla-Menu</title>
+      <link>https://github.com/WerWolv/Tesla-Menu</link>
+      <description>The Nintendo Switch overlay menu</description>
+    </item>
+    
+    <item>
+      <title>PegasusWang/python_data_structures_and_algorithms</title>
+      <link>https://github.com/PegasusWang/python_data_structures_and_algorithms</link>
+      <description>Python 中文数据结构和算法教程</description>
+    </item>
+    
+  </channel>
+</rss>

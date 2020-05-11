@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Go Weekly Trending</title>
+    <description>Weekly Trending of Go in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:23:08 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>evanw/esbuild</title>
+      <link>https://github.com/evanw/esbuild</link>
+      <description>An extremely fast JavaScript bundler and minifier</description>
+    </item>
+    
+    <item>
+      <title>keybase/client</title>
+      <link>https://github.com/keybase/client</link>
+      <description>Keybase Go Library, Client, Service, OS X, iOS, Android, Electron</description>
+    </item>
+    
+    <item>
+      <title>rancher/k3s</title>
+      <link>https://github.com/rancher/k3s</link>
+      <description>Lightweight Kubernetes</description>
+    </item>
+    
+    <item>
+      <title>hoanhan101/ultimate-go</title>
+      <link>https://github.com/hoanhan101/ultimate-go</link>
+      <description>Ultimate Go study guide</description>
+    </item>
+    
+    <item>
+      <title>caddyserver/caddy</title>
+      <link>https://github.com/caddyserver/caddy</link>
+      <description>Fast, multi-platform web server with automatic HTTPS</description>
+    </item>
+    
+    <item>
+      <title>dapr/dapr</title>
+      <link>https://github.com/dapr/dapr</link>
+      <description>Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.</description>
+    </item>
+    
+    <item>
+      <title>kubernetes/enhancements</title>
+      <link>https://github.com/kubernetes/enhancements</link>
+      <description>Enhancements tracking repo for Kubernetes</description>
+    </item>
+    
+    <item>
+      <title>unknwon/the-way-to-go_ZH_CN</title>
+      <link>https://github.com/unknwon/the-way-to-go_ZH_CN</link>
+      <description>《The Way to Go》中文译本，中文正式名《Go 入门指南》</description>
+    </item>
+    
+    <item>
+      <title>minio/minio</title>
+      <link>https://github.com/minio/minio</link>
+      <description>MinIO is a high performance object storage server compatible with Amazon S3 APIs</description>
+    </item>
+    
+    <item>
+      <title>casbin/casbin</title>
+      <link>https://github.com/casbin/casbin</link>
+      <description>An authorization library that supports access control models like ACL, RBAC, ABAC in Golang</description>
+    </item>
+    
+    <item>
+      <title>ory/kratos</title>
+      <link>https://github.com/ory/kratos</link>
+      <description>Never build user login, user registration, 2fa, profile management ever again! Works on any operating system, cloud, with any programming language, user interface, and user experience! Written in Go.</description>
+    </item>
+    
+    <item>
+      <title>kubernetes/autoscaler</title>
+      <link>https://github.com/kubernetes/autoscaler</link>
+      <description>Autoscaling components for Kubernetes</description>
+    </item>
+    
+    <item>
+      <title>flipped-aurora/gin-vue-admin</title>
+      <link>https://github.com/flipped-aurora/gin-vue-admin</link>
+      <description>基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~</description>
+    </item>
+    
+    <item>
+      <title>gohugoio/hugo</title>
+      <link>https://github.com/gohugoio/hugo</link>
+      <description>The world’s fastest framework for building websites.</description>
+    </item>
+    
+    <item>
+      <title>spf13/viper</title>
+      <link>https://github.com/spf13/viper</link>
+      <description>Go configuration with fangs</description>
+    </item>
+    
+    <item>
+      <title>hashicorp/nomad</title>
+      <link>https://github.com/hashicorp/nomad</link>
+      <description>Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.</description>
+    </item>
+    
+    <item>
+      <title>GoAdminGroup/go-admin</title>
+      <link>https://github.com/GoAdminGroup/go-admin</link>
+      <description>A golang framework helps gopher to build a data visualization and admin panel in ten minutes</description>
+    </item>
+    
+    <item>
+      <title>ethereum/go-ethereum</title>
+      <link>https://github.com/ethereum/go-ethereum</link>
+      <description>Official Go implementation of the Ethereum protocol</description>
+    </item>
+    
+    <item>
+      <title>kubernetes-sigs/kustomize</title>
+      <link>https://github.com/kubernetes-sigs/kustomize</link>
+      <description>Customization of kubernetes YAML configurations</description>
+    </item>
+    
+    <item>
+      <title>segmentio/kafka-go</title>
+      <link>https://github.com/segmentio/kafka-go</link>
+      <description>Kafka library in Go</description>
+    </item>
+    
+    <item>
+      <title>gomodule/redigo</title>
+      <link>https://github.com/gomodule/redigo</link>
+      <description>Go client for Redis</description>
+    </item>
+    
+    <item>
+      <title>nektos/act</title>
+      <link>https://github.com/nektos/act</link>
+      <description>Run your GitHub Actions locally 🚀</description>
+    </item>
+    
+    <item>
+      <title>TheAlgorithms/Go</title>
+      <link>https://github.com/TheAlgorithms/Go</link>
+      <description>Algorithms Implemented in GoLang</description>
+    </item>
+    
+    <item>
+      <title>spf13/cobra</title>
+      <link>https://github.com/spf13/cobra</link>
+      <description>A Commander for modern Go CLI interactions</description>
+    </item>
+    
+    <item>
+      <title>esrrhs/pingtunnel</title>
+      <link>https://github.com/esrrhs/pingtunnel</link>
+      <description>流量转发加速工具.a tool that advertises tcp/udp/socks5 traffic as icmp traffic for forwarding.</description>
+    </item>
+    
+  </channel>
+</rss>

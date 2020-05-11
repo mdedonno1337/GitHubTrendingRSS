@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub HTML Weekly Trending</title>
+    <description>Weekly Trending of HTML in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:23:39 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>docker/awesome-compose</title>
+      <link>https://github.com/docker/awesome-compose</link>
+      <description>Awesome Docker Compose samples</description>
+    </item>
+    
+    <item>
+      <title>DarkSecDevelopers/HiddenEye</title>
+      <link>https://github.com/DarkSecDevelopers/HiddenEye</link>
+      <description>Modern Phishing Tool With Advanced Functionality And Multiple Tunnelling Services [ Android-Support-Available ]</description>
+    </item>
+    
+    <item>
+      <title>nndl/nndl.github.io</title>
+      <link>https://github.com/nndl/nndl.github.io</link>
+      <description>《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning</description>
+    </item>
+    
+    <item>
+      <title>mdn/learning-area</title>
+      <link>https://github.com/mdn/learning-area</link>
+      <description>Github repo for the MDN Learning Area.</description>
+    </item>
+    
+    <item>
+      <title>fluid-dev/hexo-theme-fluid</title>
+      <link>https://github.com/fluid-dev/hexo-theme-fluid</link>
+      <description>🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo</description>
+    </item>
+    
+    <item>
+      <title>TZG-official/Jvav</title>
+      <link>https://github.com/TZG-official/Jvav</link>
+      <description>J v a v 与 您</description>
+    </item>
+    
+    <item>
+      <title>thelinuxchoice/shellphish</title>
+      <link>https://github.com/thelinuxchoice/shellphish</link>
+      <description>19 Social Media Phishing Pages #phishing #shellphish #phish</description>
+    </item>
+    
+    <item>
+      <title>rfordatascience/tidytuesday</title>
+      <link>https://github.com/rfordatascience/tidytuesday</link>
+      <description>Official repo for the #tidytuesday project</description>
+    </item>
+    
+    <item>
+      <title>googlecodelabs/tools</title>
+      <link>https://github.com/googlecodelabs/tools</link>
+      <description>Codelabs management &amp; hosting tools</description>
+    </item>
+    
+    <item>
+      <title>jwasham/computer-science-flash-cards</title>
+      <link>https://github.com/jwasham/computer-science-flash-cards</link>
+      <description>Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.</description>
+    </item>
+    
+    <item>
+      <title>portainer/portainer</title>
+      <link>https://github.com/portainer/portainer</link>
+      <description>Making Docker management easy.</description>
+    </item>
+    
+    <item>
+      <title>javascript-tutorial/en.javascript.info</title>
+      <link>https://github.com/javascript-tutorial/en.javascript.info</link>
+      <description>Modern JavaScript Tutorial</description>
+    </item>
+    
+    <item>
+      <title>csev/py4e</title>
+      <link>https://github.com/csev/py4e</link>
+      <description>Web site for www.py4e.com and source to the Python 3.0 textbook</description>
+    </item>
+    
+    <item>
+      <title>coreui/coreui-free-bootstrap-admin-template</title>
+      <link>https://github.com/coreui/coreui-free-bootstrap-admin-template</link>
+      <description>CoreUI is free bootstrap admin template</description>
+    </item>
+    
+    <item>
+      <title>nax3t/webdevbootcamp</title>
+      <link>https://github.com/nax3t/webdevbootcamp</link>
+      <description>All source code for back-end projects from the Web Developer Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>froala/design-blocks</title>
+      <link>https://github.com/froala/design-blocks</link>
+      <description>A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.</description>
+    </item>
+    
+    <item>
+      <title>htr-tech/zphisher</title>
+      <link>https://github.com/htr-tech/zphisher</link>
+      <description>Automated Phishing Tool</description>
+    </item>
+    
+    <item>
+      <title>h5bp/Front-end-Developer-Interview-Questions</title>
+      <link>https://github.com/h5bp/Front-end-Developer-Interview-Questions</link>
+      <description>A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.</description>
+    </item>
+    
+    <item>
+      <title>google/styleguide</title>
+      <link>https://github.com/google/styleguide</link>
+      <description>Style guides for Google-originated open-source projects</description>
+    </item>
+    
+    <item>
+      <title>cod3rcursos/web-moderno</title>
+      <link>https://github.com/cod3rcursos/web-moderno</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leemunroe/responsive-html-email-template</title>
+      <link>https://github.com/leemunroe/responsive-html-email-template</link>
+      <description>A free simple responsive HTML email template</description>
+    </item>
+    
+    <item>
+      <title>coreui/coreui-free-angular-admin-template</title>
+      <link>https://github.com/coreui/coreui-free-angular-admin-template</link>
+      <description>CoreUI Angular is free Angular 2+ admin template based on Bootstrap 4</description>
+    </item>
+    
+    <item>
+      <title>firebase/quickstart-js</title>
+      <link>https://github.com/firebase/quickstart-js</link>
+      <description>Firebase Quickstart Samples for Web</description>
+    </item>
+    
+    <item>
+      <title>privacytoolsIO/privacytools.io</title>
+      <link>https://github.com/privacytoolsIO/privacytools.io</link>
+      <description>🛡🛠 You are being watched. Protect your privacy against global mass surveillance.</description>
+    </item>
+    
+    <item>
+      <title>Igglybuff/awesome-piracy</title>
+      <link>https://github.com/Igglybuff/awesome-piracy</link>
+      <description>A curated list of awesome warez and piracy links</description>
+    </item>
+    
+  </channel>
+</rss>

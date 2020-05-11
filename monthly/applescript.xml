@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub AppleScript Monthly Trending</title>
+    <description>Monthly Trending of AppleScript in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:34:14 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder</title>
+      <link>https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder</link>
+      <description>A Mac tool that finds available delivery slots for Amazon&#39;s Whole Foods delivery and Amazon Fresh services</description>
+    </item>
+    
+  </channel>
+</rss>

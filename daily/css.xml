@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CSS Daily Trending</title>
+    <description>Daily Trending of CSS in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:05:38 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>GoogleChrome/web-vitals-extension</title>
+      <link>https://github.com/GoogleChrome/web-vitals-extension</link>
+      <description>A Chrome extension to measure essential metrics for a healthy site</description>
+    </item>
+    
+    <item>
+      <title>ronggang/transmission-web-control</title>
+      <link>https://github.com/ronggang/transmission-web-control</link>
+      <description>一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.</description>
+    </item>
+    
+    <item>
+      <title>vinceliuice/Mojave-gtk-theme</title>
+      <link>https://github.com/vinceliuice/Mojave-gtk-theme</link>
+      <description>Mojave is a macos Mojave like theme for GTK 3, GTK 2 and Gnome-Shell</description>
+    </item>
+    
+    <item>
+      <title>creativetimofficial/tailwind-starter-kit</title>
+      <link>https://github.com/creativetimofficial/tailwind-starter-kit</link>
+      <description>Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source</description>
+    </item>
+    
+    <item>
+      <title>morpheusthewhite/spicetify-themes</title>
+      <link>https://github.com/morpheusthewhite/spicetify-themes</link>
+      <description>A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli)</description>
+    </item>
+    
+    <item>
+      <title>flutter/website</title>
+      <link>https://github.com/flutter/website</link>
+      <description>Flutter web site</description>
+    </item>
+    
+    <item>
+      <title>TryGhost/Casper</title>
+      <link>https://github.com/TryGhost/Casper</link>
+      <description>The default personal blogging theme for Ghost</description>
+    </item>
+    
+    <item>
+      <title>jdan/98.css</title>
+      <link>https://github.com/jdan/98.css</link>
+      <description>A design system for building faithful recreations of old UIs</description>
+    </item>
+    
+    <item>
+      <title>gohugoio/hugoDocs</title>
+      <link>https://github.com/gohugoio/hugoDocs</link>
+      <description>The source for https://gohugo.io/</description>
+    </item>
+    
+    <item>
+      <title>Tencent/weui-wxss</title>
+      <link>https://github.com/Tencent/weui-wxss</link>
+      <description>A UI library by WeChat official design team, includes the most useful widgets/modules.</description>
+    </item>
+    
+    <item>
+      <title>jonasschmedtmann/advanced-css-course</title>
+      <link>https://github.com/jonasschmedtmann/advanced-css-course</link>
+      <description>Starter files, final projects and FAQ for my Advanced CSS course</description>
+    </item>
+    
+    <item>
+      <title>eddiesigner/liebling</title>
+      <link>https://github.com/eddiesigner/liebling</link>
+      <description>Beautiful and clean Ghost theme that is easy and comfortable to use. To get the latest version please head over the releases page 👉🏼</description>
+    </item>
+    
+    <item>
+      <title>ryanoasis/nerd-fonts</title>
+      <link>https://github.com/ryanoasis/nerd-fonts</link>
+      <description>Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more</description>
+    </item>
+    
+    <item>
+      <title>dunovank/jupyter-themes</title>
+      <link>https://github.com/dunovank/jupyter-themes</link>
+      <description>Custom Jupyter Notebook Themes</description>
+    </item>
+    
+    <item>
+      <title>ImprovedTube/ImprovedTube</title>
+      <link>https://github.com/ImprovedTube/ImprovedTube</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pages-themes/minimal</title>
+      <link>https://github.com/pages-themes/minimal</link>
+      <description>Minimal is a Jekyll theme for GitHub Pages</description>
+    </item>
+    
+    <item>
+      <title>dortania/OpenCore-Desktop-Guide</title>
+      <link>https://github.com/dortania/OpenCore-Desktop-Guide</link>
+      <description>Repo for the OpenCore Desktop Guide</description>
+    </item>
+    
+    <item>
+      <title>Tencent/weui.js</title>
+      <link>https://github.com/Tencent/weui.js</link>
+      <description>A lightweight javascript library for WeUI.</description>
+    </item>
+    
+    <item>
+      <title>missing-semester/missing-semester</title>
+      <link>https://github.com/missing-semester/missing-semester</link>
+      <description>The Missing Semester of Your CS Education 📚</description>
+    </item>
+    
+    <item>
+      <title>seankross/the-unix-workbench</title>
+      <link>https://github.com/seankross/the-unix-workbench</link>
+      <description>🏡 A Book for Anyone to Get Started with Unix</description>
+    </item>
+    
+    <item>
+      <title>chriskempson/tomorrow-theme</title>
+      <link>https://github.com/chriskempson/tomorrow-theme</link>
+      <description>Tomorrow Theme now lives on at https://github.com/chriskempson/base16</description>
+    </item>
+    
+    <item>
+      <title>clementmihailescu/Pathfinding-Visualizer</title>
+      <link>https://github.com/clementmihailescu/Pathfinding-Visualizer</link>
+      <description>A visualization tool for various pathfinding algorithms.</description>
+    </item>
+    
+    <item>
+      <title>jekyll/minima</title>
+      <link>https://github.com/jekyll/minima</link>
+      <description>Minima is a one-size-fits-all Jekyll theme for writers.</description>
+    </item>
+    
+    <item>
+      <title>understrap/understrap</title>
+      <link>https://github.com/understrap/understrap</link>
+      <description>👫 Combines Automattic´s Underscores Starter Theme and Bootstrap 4 - Visit:</description>
+    </item>
+    
+    <item>
+      <title>JordanSchuetz/LearnCS8-Resume</title>
+      <link>https://github.com/JordanSchuetz/LearnCS8-Resume</link>
+      <description>Resume template website for the LearnCS8 Lab 4</description>
+    </item>
+    
+  </channel>
+</rss>

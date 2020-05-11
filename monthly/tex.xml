@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TeX Monthly Trending</title>
+    <description>Monthly Trending of TeX in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:46:24 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>deedy/Deedy-Resume</title>
+      <link>https://github.com/deedy/Deedy-Resume</link>
+      <description>A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student</description>
+    </item>
+    
+    <item>
+      <title>rafalab/dsbook</title>
+      <link>https://github.com/rafalab/dsbook</link>
+      <description>Repository for data science book</description>
+    </item>
+    
+    <item>
+      <title>Wandmalfarbe/pandoc-latex-template</title>
+      <link>https://github.com/Wandmalfarbe/pandoc-latex-template</link>
+      <description>A pandoc LaTeX template to convert markdown files to PDF or LaTeX.</description>
+    </item>
+    
+    <item>
+      <title>rstudio/cheatsheets</title>
+      <link>https://github.com/rstudio/cheatsheets</link>
+      <description>RStudio Cheat Sheets</description>
+    </item>
+    
+    <item>
+      <title>HarisIqbal88/PlotNeuralNet</title>
+      <link>https://github.com/HarisIqbal88/PlotNeuralNet</link>
+      <description>Latex code for making neural networks diagrams</description>
+    </item>
+    
+    <item>
+      <title>zhanwen/MathModel</title>
+      <link>https://github.com/zhanwen/MathModel</link>
+      <description>研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT</description>
+    </item>
+    
+    <item>
+      <title>tuhdo/os01</title>
+      <link>https://github.com/tuhdo/os01</link>
+      <description>Bootstrap yourself to write an OS from scratch. A book for self-learner.</description>
+    </item>
+    
+    <item>
+      <title>xueruini/thuthesis</title>
+      <link>https://github.com/xueruini/thuthesis</link>
+      <description>LaTeX Thesis Template for Tsinghua University</description>
+    </item>
+    
+    <item>
+      <title>matze/mtheme</title>
+      <link>https://github.com/matze/mtheme</link>
+      <description>A modern LaTeX Beamer theme</description>
+    </item>
+    
+    <item>
+      <title>sjtug/SJTUThesis</title>
+      <link>https://github.com/sjtug/SJTUThesis</link>
+      <description>上海交通大学 XeLaTeX 学位论文及课程论文模板 Shanghai Jiao Tong University XeLaTeX Thesis Template</description>
+    </item>
+    
+    <item>
+      <title>lervag/vimtex</title>
+      <link>https://github.com/lervag/vimtex</link>
+      <description>A modern vim plugin for editing LaTeX files.</description>
+    </item>
+    
+    <item>
+      <title>sb2nov/resume</title>
+      <link>https://github.com/sb2nov/resume</link>
+      <description>Software developer resume in Latex</description>
+    </item>
+    
+    <item>
+      <title>dart-lang/language</title>
+      <link>https://github.com/dart-lang/language</link>
+      <description>Design of the Dart language</description>
+    </item>
+    
+  </channel>
+</rss>

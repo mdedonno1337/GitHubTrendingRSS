@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TSQL Weekly Trending</title>
+    <description>Weekly Trending of TSQL in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:31:29 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>BrentOzarULTD/SQL-Server-First-Responder-Kit</title>
+      <link>https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit</link>
+      <description>sp_Blitz, sp_BlitzCache, sp_BlitzFirst, sp_BlitzIndex, and other SQL Server scripts for health checks and performance tuning.</description>
+    </item>
+    
+    <item>
+      <title>skr-shop/manuals</title>
+      <link>https://github.com/skr-shop/manuals</link>
+      <description>Do design No code 📖</description>
+    </item>
+    
+    <item>
+      <title>dr5hn/countries-states-cities-database</title>
+      <link>https://github.com/dr5hn/countries-states-cities-database</link>
+      <description>🌍World countries, states/regions, cities in JSON, SQL, XML, PLIST, YAML and CSV. All Countries, Cities, States with ISO2, ISO3, Country Code, Phone Code, Capital and Currency [Linked with Each Other By ID] [Countries-States-Cities-Database]</description>
+    </item>
+    
+    <item>
+      <title>Yin-Hongwei/music-website</title>
+      <link>https://github.com/Yin-Hongwei/music-website</link>
+      <description>🎧 Vue + SpringBoot + MyBatis 音乐网站</description>
+    </item>
+    
+    <item>
+      <title>olahallengren/sql-server-maintenance-solution</title>
+      <link>https://github.com/olahallengren/sql-server-maintenance-solution</link>
+      <description>SQL Server Maintenance Solution</description>
+    </item>
+    
+    <item>
+      <title>beekeeper-studio/beekeeper-studio</title>
+      <link>https://github.com/beekeeper-studio/beekeeper-studio</link>
+      <description>Cross platform SQL editor and database management app for Windows, Linux, and Mac.</description>
+    </item>
+    
+    <item>
+      <title>TdP-2020/MetroParis</title>
+      <link>https://github.com/TdP-2020/MetroParis</link>
+      <description>Esercizio &quot;Metro Paris&quot; sulla costruzione di grafi</description>
+    </item>
+    
+  </channel>
+</rss>

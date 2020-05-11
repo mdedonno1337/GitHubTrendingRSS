@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub ZenScript Daily Trending</title>
+    <description>Daily Trending of ZenScript in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:18:04 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ET-Team/EnigTech2</title>
+      <link>https://github.com/ET-Team/EnigTech2</link>
+      <description>大型集成科魔类魔改整合包</description>
+    </item>
+    
+    <item>
+      <title>DarkPacks/SevTech-Ages</title>
+      <link>https://github.com/DarkPacks/SevTech-Ages</link>
+      <description>SevTech: Ages is a massive modpack packed with content and progression. This pack focuses on providing the player a long term progression experience with purpose.</description>
+    </item>
+    
+  </channel>
+</rss>

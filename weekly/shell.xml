@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Shell Weekly Trending</title>
+    <description>Weekly Trending of Shell in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:30:00 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>lei-hsia/grokking-system-design</title>
+      <link>https://github.com/lei-hsia/grokking-system-design</link>
+      <description>Thanks to lirenTu@scale</description>
+    </item>
+    
+    <item>
+      <title>getsentry/onpremise</title>
+      <link>https://github.com/getsentry/onpremise</link>
+      <description>Sentry On-Premise setup</description>
+    </item>
+    
+    <item>
+      <title>charlax/professional-programming</title>
+      <link>https://github.com/charlax/professional-programming</link>
+      <description>A collection of full-stack resources for programmers.</description>
+    </item>
+    
+    <item>
+      <title>evertramos/docker-compose-letsencrypt-nginx-proxy-companion</title>
+      <link>https://github.com/evertramos/docker-compose-letsencrypt-nginx-proxy-companion</link>
+      <description>Automated docker nginx proxy integrated with letsencrypt.</description>
+    </item>
+    
+    <item>
+      <title>bats-core/bats-core</title>
+      <link>https://github.com/bats-core/bats-core</link>
+      <description>Bash Automated Testing System</description>
+    </item>
+    
+    <item>
+      <title>romkatv/powerlevel10k</title>
+      <link>https://github.com/romkatv/powerlevel10k</link>
+      <description>A Zsh theme</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/rfcs</title>
+      <link>https://github.com/rust-lang/rfcs</link>
+      <description>RFCs for changes to Rust</description>
+    </item>
+    
+    <item>
+      <title>dotnet/core</title>
+      <link>https://github.com/dotnet/core</link>
+      <description>Home repository for .NET Core</description>
+    </item>
+    
+    <item>
+      <title>mathiasbynens/dotfiles</title>
+      <link>https://github.com/mathiasbynens/dotfiles</link>
+      <description>🔧 .files, including ~/.macos — sensible hacker defaults for macOS</description>
+    </item>
+    
+    <item>
+      <title>aws/containers-roadmap</title>
+      <link>https://github.com/aws/containers-roadmap</link>
+      <description>This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).</description>
+    </item>
+    
+    <item>
+      <title>daliansky/Hackintosh</title>
+      <link>https://github.com/daliansky/Hackintosh</link>
+      <description>Hackintosh long-term maintenance model EFI and installation tutorial</description>
+    </item>
+    
+    <item>
+      <title>hashicorp/vault-helm</title>
+      <link>https://github.com/hashicorp/vault-helm</link>
+      <description>Helm chart to install Vault and other associated components.</description>
+    </item>
+    
+    <item>
+      <title>open-guides/og-aws</title>
+      <link>https://github.com/open-guides/og-aws</link>
+      <description>📙 Amazon Web Services — a practical guide</description>
+    </item>
+    
+    <item>
+      <title>termux/termux-packages</title>
+      <link>https://github.com/termux/termux-packages</link>
+      <description>Android terminal and Linux environment - packages repository.</description>
+    </item>
+    
+    <item>
+      <title>papers-we-love/papers-we-love</title>
+      <link>https://github.com/papers-we-love/papers-we-love</link>
+      <description>Papers from the computer science community to read and discuss.</description>
+    </item>
+    
+    <item>
+      <title>justmeandopensource/kubernetes</title>
+      <link>https://github.com/justmeandopensource/kubernetes</link>
+      <description>Kubernetes playground</description>
+    </item>
+    
+    <item>
+      <title>foxlet/macOS-Simple-KVM</title>
+      <link>https://github.com/foxlet/macOS-Simple-KVM</link>
+      <description>Tools to set up a quick macOS VM in QEMU, accelerated by KVM.</description>
+    </item>
+    
+    <item>
+      <title>nvm-sh/nvm</title>
+      <link>https://github.com/nvm-sh/nvm</link>
+      <description>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</description>
+    </item>
+    
+    <item>
+      <title>ohmybash/oh-my-bash</title>
+      <link>https://github.com/ohmybash/oh-my-bash</link>
+      <description>A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.</description>
+    </item>
+    
+    <item>
+      <title>arismelachroinos/lscript</title>
+      <link>https://github.com/arismelachroinos/lscript</link>
+      <description>The LAZY script will make your life easier, and of course faster.</description>
+    </item>
+    
+    <item>
+      <title>osixia/docker-openldap</title>
+      <link>https://github.com/osixia/docker-openldap</link>
+      <description>A docker image to run OpenLDAP 🐳</description>
+    </item>
+    
+    <item>
+      <title>awslabs/amazon-eks-ami</title>
+      <link>https://github.com/awslabs/amazon-eks-ami</link>
+      <description>Packer configuration for building a custom EKS AMI</description>
+    </item>
+    
+    <item>
+      <title>Spottedleaf/Tuinity</title>
+      <link>https://github.com/Spottedleaf/Tuinity</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphql/graphql-spec</title>
+      <link>https://github.com/graphql/graphql-spec</link>
+      <description>GraphQL is a query language and execution engine tied to any backend service.</description>
+    </item>
+    
+    <item>
+      <title>dennyzhang/cheatsheet-kubernetes-A4</title>
+      <link>https://github.com/dennyzhang/cheatsheet-kubernetes-A4</link>
+      <description>📖 Kubernetes CheatSheets In A4</description>
+    </item>
+    
+  </channel>
+</rss>

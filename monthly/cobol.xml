@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub COBOL Monthly Trending</title>
+    <description>Monthly Trending of COBOL in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:35:27 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>openmainframeproject/cobol-programming-course</title>
+      <link>https://github.com/openmainframeproject/cobol-programming-course</link>
+      <description>Training materials and labs for a &quot;Getting Started&quot; level course on COBOL</description>
+    </item>
+    
+    <item>
+      <title>SonarSource/sonar-scanning-examples</title>
+      <link>https://github.com/SonarSource/sonar-scanning-examples</link>
+      <description>Shows how to use the Scanners</description>
+    </item>
+    
+  </channel>
+</rss>

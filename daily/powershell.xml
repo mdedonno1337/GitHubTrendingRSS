@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PowerShell Daily Trending</title>
+    <description>Daily Trending of PowerShell in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:13:30 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft/Quantum</title>
+      <link>https://github.com/microsoft/Quantum</link>
+      <description>Microsoft Quantum Development Kit Samples</description>
+    </item>
+    
+    <item>
+      <title>dotnet/machinelearning-samples</title>
+      <link>https://github.com/dotnet/machinelearning-samples</link>
+      <description>Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.</description>
+    </item>
+    
+    <item>
+      <title>jamesstringerparsec/Parsec-Cloud-Preparation-Tool</title>
+      <link>https://github.com/jamesstringerparsec/Parsec-Cloud-Preparation-Tool</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/PowerShell-Docs</title>
+      <link>https://github.com/MicrosoftDocs/PowerShell-Docs</link>
+      <description>The official PowerShell documentation sources</description>
+    </item>
+    
+    <item>
+      <title>Azure/azure-quickstart-templates</title>
+      <link>https://github.com/Azure/azure-quickstart-templates</link>
+      <description>Azure Quickstart Templates</description>
+    </item>
+    
+    <item>
+      <title>actions/virtual-environments</title>
+      <link>https://github.com/actions/virtual-environments</link>
+      <description>GitHub Actions virtual environments</description>
+    </item>
+    
+    <item>
+      <title>W4RH4WK/Debloat-Windows-10</title>
+      <link>https://github.com/W4RH4WK/Debloat-Windows-10</link>
+      <description>A collection of Scripts which disable / remove Windows 10 Features and Apps</description>
+    </item>
+    
+    <item>
+      <title>denoland/deno_install</title>
+      <link>https://github.com/denoland/deno_install</link>
+      <description>Deno Binary Installer</description>
+    </item>
+    
+    <item>
+      <title>dotnet/docs</title>
+      <link>https://github.com/dotnet/docs</link>
+      <description>This repository contains .NET Documentation.</description>
+    </item>
+    
+    <item>
+      <title>ahmedkhlief/Ninja</title>
+      <link>https://github.com/ahmedkhlief/Ninja</link>
+      <description>Open source C2 server created for stealth red team operations</description>
+    </item>
+    
+    <item>
+      <title>AliyunContainerService/k8s-for-docker-desktop</title>
+      <link>https://github.com/AliyunContainerService/k8s-for-docker-desktop</link>
+      <description>为Docker Desktop for Mac/Windows开启Kubernetes和Istio - Enable Kubernetes/Istio on Docker Desktop in China</description>
+    </item>
+    
+    <item>
+      <title>WindowsExploits/Exploits</title>
+      <link>https://github.com/WindowsExploits/Exploits</link>
+      <description>Windows Exploits</description>
+    </item>
+    
+    <item>
+      <title>lextm/windowsterminal-shell</title>
+      <link>https://github.com/lextm/windowsterminal-shell</link>
+      <description>Install/uninstall scripts for Windows Terminal context menu items</description>
+    </item>
+    
+    <item>
+      <title>Azure/azure-blueprints</title>
+      <link>https://github.com/Azure/azure-blueprints</link>
+      <description>A library of sample Blueprints that can be easily imported via API or PowerShell</description>
+    </item>
+    
+    <item>
+      <title>Azure/azure-docs-json-samples</title>
+      <link>https://github.com/Azure/azure-docs-json-samples</link>
+      <description>Contains examples of JSON files that are included in Azure documentation.</description>
+    </item>
+    
+    <item>
+      <title>Azure/azure-docs-powershell-samples</title>
+      <link>https://github.com/Azure/azure-docs-powershell-samples</link>
+      <description>Azure Powershell code samples, often used in docs.microsoft.com/Azure developer documentation</description>
+    </item>
+    
+    <item>
+      <title>Azure-Samples/functions-docs-powershell</title>
+      <link>https://github.com/Azure-Samples/functions-docs-powershell</link>
+      <description>PowerShell samples that support Azure Functions docs</description>
+    </item>
+    
+    <item>
+      <title>the-xentropy/xencrypt</title>
+      <link>https://github.com/the-xentropy/xencrypt</link>
+      <description>A PowerShell script anti-virus evasion tool</description>
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/Dynamics-365-Operations.hu-hu</title>
+      <link>https://github.com/MicrosoftDocs/Dynamics-365-Operations.hu-hu</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/Dynamics-365-Operations.lt-lt</title>
+      <link>https://github.com/MicrosoftDocs/Dynamics-365-Operations.lt-lt</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OfficeDev/office-js-docs-pr</title>
+      <link>https://github.com/OfficeDev/office-js-docs-pr</link>
+      <description>Microsoft Office Add-ins Documentation</description>
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/microsoft-365-docs-pr.pt-BR</title>
+      <link>https://github.com/MicrosoftDocs/microsoft-365-docs-pr.pt-BR</link>
+      <description>Internal repo for Microsoft 365 documentation for Portuguese</description>
+    </item>
+    
+    <item>
+      <title>OPS-E2E-PPE/E2E_ProvisionExisting_PPE</title>
+      <link>https://github.com/OPS-E2E-PPE/E2E_ProvisionExisting_PPE</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/microsoft-365-docs-pr.zh-CN</title>
+      <link>https://github.com/MicrosoftDocs/microsoft-365-docs-pr.zh-CN</link>
+      <description>Internal repo for Microsoft 365 documentation for Chinese(Simplified)</description>
+    </item>
+    
+    <item>
+      <title>OfficeDev/msteams-docs.es-ES</title>
+      <link>https://github.com/OfficeDev/msteams-docs.es-ES</link>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

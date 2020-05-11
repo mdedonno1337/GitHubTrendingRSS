@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Nix Daily Trending</title>
+    <description>Daily Trending of Nix in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:12:00 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>NixOS/nixpkgs</title>
+      <link>https://github.com/NixOS/nixpkgs</link>
+      <description>Nix Packages collection</description>
+    </item>
+    
+    <item>
+      <title>rycee/home-manager</title>
+      <link>https://github.com/rycee/home-manager</link>
+      <description>Manage a user environment using Nix</description>
+    </item>
+    
+    <item>
+      <title>jwiegley/nix-config</title>
+      <link>https://github.com/jwiegley/nix-config</link>
+      <description>My local Nix configuration</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Dhall Monthly Trending</title>
+    <description>Monthly Trending of Dhall in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:36:14 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>dhall-lang/dhall-lang</title>
+      <link>https://github.com/dhall-lang/dhall-lang</link>
+      <description>Maintainable configuration files</description>
+    </item>
+    
+  </channel>
+</rss>

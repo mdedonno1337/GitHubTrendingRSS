@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub HTML Monthly Trending</title>
+    <description>Monthly Trending of HTML in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:38:35 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>LAB-MI/deplacement-covid-19</title>
+      <link>https://github.com/LAB-MI/deplacement-covid-19</link>
+      <description>Service de génération de l&#39;attestation de déplacement dérogatoire à présenter dans le cadre du confinement lié au virus covid-19</description>
+    </item>
+    
+    <item>
+      <title>nndl/nndl.github.io</title>
+      <link>https://github.com/nndl/nndl.github.io</link>
+      <description>《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning</description>
+    </item>
+    
+    <item>
+      <title>docker/awesome-compose</title>
+      <link>https://github.com/docker/awesome-compose</link>
+      <description>Awesome Docker Compose samples</description>
+    </item>
+    
+    <item>
+      <title>fengdu78/Coursera-ML-AndrewNg-Notes</title>
+      <link>https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes</link>
+      <description>吴恩达老师的机器学习课程个人笔记</description>
+    </item>
+    
+    <item>
+      <title>jwasham/computer-science-flash-cards</title>
+      <link>https://github.com/jwasham/computer-science-flash-cards</link>
+      <description>Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.</description>
+    </item>
+    
+    <item>
+      <title>microsoft/forecasting</title>
+      <link>https://github.com/microsoft/forecasting</link>
+      <description>Time Series Forecasting Best Practices &amp; Examples</description>
+    </item>
+    
+    <item>
+      <title>nax3t/webdevbootcamp</title>
+      <link>https://github.com/nax3t/webdevbootcamp</link>
+      <description>All source code for back-end projects from the Web Developer Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>freddier/hyperblog</title>
+      <link>https://github.com/freddier/hyperblog</link>
+      <description>Un blog increíble para el curso de Git y Github de Platzi</description>
+    </item>
+    
+    <item>
+      <title>gcushen/hugo-academic</title>
+      <link>https://github.com/gcushen/hugo-academic</link>
+      <description>📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!</description>
+    </item>
+    
+    <item>
+      <title>firebase/quickstart-js</title>
+      <link>https://github.com/firebase/quickstart-js</link>
+      <description>Firebase Quickstart Samples for Web</description>
+    </item>
+    
+    <item>
+      <title>thelinuxchoice/shellphish</title>
+      <link>https://github.com/thelinuxchoice/shellphish</link>
+      <description>19 Social Media Phishing Pages #phishing #shellphish #phish</description>
+    </item>
+    
+    <item>
+      <title>fengdu78/deeplearning_ai_books</title>
+      <link>https://github.com/fengdu78/deeplearning_ai_books</link>
+      <description>deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）</description>
+    </item>
+    
+    <item>
+      <title>maple3142/GDIndex</title>
+      <link>https://github.com/maple3142/GDIndex</link>
+      <description>A Google Drive Index built with Vue Running on CloudFlare Workers</description>
+    </item>
+    
+    <item>
+      <title>spotify/web-api-auth-examples</title>
+      <link>https://github.com/spotify/web-api-auth-examples</link>
+      <description>Basic examples to authenticate and fetch data using the Spotify Web API</description>
+    </item>
+    
+    <item>
+      <title>jaywcjlove/linux-command</title>
+      <link>https://github.com/jaywcjlove/linux-command</link>
+      <description>Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux</description>
+    </item>
+    
+    <item>
+      <title>mdn/learning-area</title>
+      <link>https://github.com/mdn/learning-area</link>
+      <description>Github repo for the MDN Learning Area.</description>
+    </item>
+    
+    <item>
+      <title>RayTracing/raytracing.github.io</title>
+      <link>https://github.com/RayTracing/raytracing.github.io</link>
+      <description>Main Repo / Main Web Site</description>
+    </item>
+    
+    <item>
+      <title>thelinuxchoice/blackeye</title>
+      <link>https://github.com/thelinuxchoice/blackeye</link>
+      <description>The most complete Phishing Tool, with 32 templates +1 customizable</description>
+    </item>
+    
+    <item>
+      <title>mGalarnyk/datasciencecoursera</title>
+      <link>https://github.com/mGalarnyk/datasciencecoursera</link>
+      <description>Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions.</description>
+    </item>
+    
+    <item>
+      <title>fluid-dev/hexo-theme-fluid</title>
+      <link>https://github.com/fluid-dev/hexo-theme-fluid</link>
+      <description>🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo</description>
+    </item>
+    
+    <item>
+      <title>pluralsight/web-dev-starter</title>
+      <link>https://github.com/pluralsight/web-dev-starter</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DarkSecDevelopers/HiddenEye</title>
+      <link>https://github.com/DarkSecDevelopers/HiddenEye</link>
+      <description>Modern Phishing Tool With Advanced Functionality And Multiple Tunnelling Services [ Android-Support-Available ]</description>
+    </item>
+    
+    <item>
+      <title>google/styleguide</title>
+      <link>https://github.com/google/styleguide</link>
+      <description>Style guides for Google-originated open-source projects</description>
+    </item>
+    
+    <item>
+      <title>wesbos/JavaScript30</title>
+      <link>https://github.com/wesbos/JavaScript30</link>
+      <description>30 Day Vanilla JS Challenge</description>
+    </item>
+    
+    <item>
+      <title>csev/py4e</title>
+      <link>https://github.com/csev/py4e</link>
+      <description>Web site for www.py4e.com and source to the Python 3.0 textbook</description>
+    </item>
+    
+  </channel>
+</rss>

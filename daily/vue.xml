@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Vue Daily Trending</title>
+    <description>Daily Trending of Vue in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:17:14 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>chuzhixin/vue-admin-beautiful</title>
+      <link>https://github.com/chuzhixin/vue-admin-beautiful</link>
+      <description>vue-admin-beautiful是一款绝佳的前端开发框架（同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力</description>
+    </item>
+    
+    <item>
+      <title>vueComponent/ant-design-vue-pro</title>
+      <link>https://github.com/vueComponent/ant-design-vue-pro</link>
+      <description>👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!</description>
+    </item>
+    
+    <item>
+      <title>PanJiaChen/vue-element-admin</title>
+      <link>https://github.com/PanJiaChen/vue-element-admin</link>
+      <description>🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin</description>
+    </item>
+    
+    <item>
+      <title>fofapro/vulfocus</title>
+      <link>https://github.com/fofapro/vulfocus</link>
+      <description>🚀Vulfocus 是一个漏洞集成平台，将漏洞环境 docker 镜像，放入即可使用，开箱即用。</description>
+    </item>
+    
+    <item>
+      <title>taylorchen709/vue-admin</title>
+      <link>https://github.com/taylorchen709/vue-admin</link>
+      <description>admin template based on vuejs2 and element.</description>
+    </item>
+    
+    <item>
+      <title>ElemeFE/element</title>
+      <link>https://github.com/ElemeFE/element</link>
+      <description>A Vue.js 2.0 UI Toolkit for Web</description>
+    </item>
+    
+    <item>
+      <title>macrozheng/mall-admin-web</title>
+      <link>https://github.com/macrozheng/mall-admin-web</link>
+      <description>mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。</description>
+    </item>
+    
+    <item>
+      <title>vueComponent/ant-design-vue</title>
+      <link>https://github.com/vueComponent/ant-design-vue</link>
+      <description>An enterprise-class UI components based on Ant Design and Vue. 🐜</description>
+    </item>
+    
+    <item>
+      <title>iview/iview-admin</title>
+      <link>https://github.com/iview/iview-admin</link>
+      <description>Vue 2.0 admin management system template based on iView</description>
+    </item>
+    
+    <item>
+      <title>lin-xin/vue-manage-system</title>
+      <link>https://github.com/lin-xin/vue-manage-system</link>
+      <description>基于vue + element的后台管理系统解决方案</description>
+    </item>
+    
+    <item>
+      <title>chaitin/xray</title>
+      <link>https://github.com/chaitin/xray</link>
+      <description>一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档</description>
+    </item>
+    
+    <item>
+      <title>liyasthomas/postwoman</title>
+      <link>https://github.com/liyasthomas/postwoman</link>
+      <description>👽 A free, fast and beautiful API request builder (web alternative to Postman) https://postwoman.io</description>
+    </item>
+    
+    <item>
+      <title>manueljlz/gcphone</title>
+      <link>https://github.com/manueljlz/gcphone</link>
+      <description>Telephone for FiveM by ElBichop</description>
+    </item>
+    
+    <item>
+      <title>bestony/logoly</title>
+      <link>https://github.com/bestony/logoly</link>
+      <description>A Pornhub Flavour Logo Generator</description>
+    </item>
+    
+    <item>
+      <title>weilanwl/ColorUI</title>
+      <link>https://github.com/weilanwl/ColorUI</link>
+      <description>鲜亮的高饱和色彩，专注视觉的小程序组件库</description>
+    </item>
+    
+    <item>
+      <title>elunez/eladmin-web</title>
+      <link>https://github.com/elunez/eladmin-web</link>
+      <description>eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由</description>
+    </item>
+    
+    <item>
+      <title>coreui/coreui-free-vue-admin-template</title>
+      <link>https://github.com/coreui/coreui-free-vue-admin-template</link>
+      <description>CoreUI Vue is free Vue admin template based on Bootstrap 4</description>
+    </item>
+    
+    <item>
+      <title>hinesboy/mavonEditor</title>
+      <link>https://github.com/hinesboy/mavonEditor</link>
+      <description>mavonEditor - A markdown editor based on Vue that supports a variety of personalized features</description>
+    </item>
+    
+    <item>
+      <title>xyxiao001/vue-cropper</title>
+      <link>https://github.com/xyxiao001/vue-cropper</link>
+      <description>A simple picture clipping plugin for vue</description>
+    </item>
+    
+    <item>
+      <title>Hunlongyu/ZY-Player</title>
+      <link>https://github.com/Hunlongyu/ZY-Player</link>
+      <description>▶️ 跨平台桌面端视频资源播放器.高颜值,不收费. 🎞</description>
+    </item>
+    
+    <item>
+      <title>stavyan/TinyShop-UniApp</title>
+      <link>https://github.com/stavyan/TinyShop-UniApp</link>
+      <description>基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。</description>
+    </item>
+    
+    <item>
+      <title>iview/iview</title>
+      <link>https://github.com/iview/iview</link>
+      <description>A high quality UI Toolkit built on Vue.js 2.0</description>
+    </item>
+    
+    <item>
+      <title>DataV-Team/DataV</title>
+      <link>https://github.com/DataV-Team/DataV</link>
+      <description>Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)</description>
+    </item>
+    
+    <item>
+      <title>airyland/vux</title>
+      <link>https://github.com/airyland/vux</link>
+      <description>Mobile UI Components based on Vue &amp; WeUI</description>
+    </item>
+    
+    <item>
+      <title>view-design/ViewUI</title>
+      <link>https://github.com/view-design/ViewUI</link>
+      <description>A high quality UI Toolkit built on Vue.js 2.0</description>
+    </item>
+    
+  </channel>
+</rss>

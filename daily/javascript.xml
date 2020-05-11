@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub JavaScript Daily Trending</title>
+    <description>Daily Trending of JavaScript in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:09:25 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>BretFisher/udemy-docker-mastery</title>
+      <link>https://github.com/BretFisher/udemy-docker-mastery</link>
+      <description>Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud</description>
+    </item>
+    
+    <item>
+      <title>tannerlinsley/react-virtual</title>
+      <link>https://github.com/tannerlinsley/react-virtual</link>
+      <description>⚛️ Hooks for virtualizing scrollable elements in React</description>
+    </item>
+    
+    <item>
+      <title>pcottle/learnGitBranching</title>
+      <link>https://github.com/pcottle/learnGitBranching</link>
+      <description>An interactive git visualization to challenge and educate!</description>
+    </item>
+    
+    <item>
+      <title>mrdoob/three.js</title>
+      <link>https://github.com/mrdoob/three.js</link>
+      <description>JavaScript 3D library.</description>
+    </item>
+    
+    <item>
+      <title>ljianshu/Blog</title>
+      <link>https://github.com/ljianshu/Blog</link>
+      <description>关注基础知识，打造优质前端博客，公众号[前端工匠]的作者</description>
+    </item>
+    
+    <item>
+      <title>vuejs/vue</title>
+      <link>https://github.com/vuejs/vue</link>
+      <description>🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
+    </item>
+    
+    <item>
+      <title>NobyDa/Script</title>
+      <link>https://github.com/NobyDa/Script</link>
+      <description>This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.</description>
+    </item>
+    
+    <item>
+      <title>twbs/bootstrap</title>
+      <link>https://github.com/twbs/bootstrap</link>
+      <description>The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.</description>
+    </item>
+    
+    <item>
+      <title>primer/github-vscode-theme</title>
+      <link>https://github.com/primer/github-vscode-theme</link>
+      <description>GitHub&#39;s VS Code theme</description>
+    </item>
+    
+    <item>
+      <title>microsoft/playwright</title>
+      <link>https://github.com/microsoft/playwright</link>
+      <description>Node library to automate Chromium, Firefox and WebKit with a single API</description>
+    </item>
+    
+    <item>
+      <title>apache/incubator-echarts</title>
+      <link>https://github.com/apache/incubator-echarts</link>
+      <description>A powerful, interactive charting and visualization library for browser</description>
+    </item>
+    
+    <item>
+      <title>agalwood/Motrix</title>
+      <link>https://github.com/agalwood/Motrix</link>
+      <description>A full-featured download manager.</description>
+    </item>
+    
+    <item>
+      <title>discordjs/discord.js</title>
+      <link>https://github.com/discordjs/discord.js</link>
+      <description>A powerful JavaScript library for interacting with the Discord API</description>
+    </item>
+    
+    <item>
+      <title>Shopify/shopify-demo-app-node-react</title>
+      <link>https://github.com/Shopify/shopify-demo-app-node-react</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jonasschmedtmann/complete-javascript-course</title>
+      <link>https://github.com/jonasschmedtmann/complete-javascript-course</link>
+      <description>Starter files, final projects and FAQ for my Complete JavaScript course</description>
+    </item>
+    
+    <item>
+      <title>iptv-org/iptv</title>
+      <link>https://github.com/iptv-org/iptv</link>
+      <description>Collection of 8000+ publicly available IPTV channels from all over the world</description>
+    </item>
+    
+    <item>
+      <title>cocos-creator/engine</title>
+      <link>https://github.com/cocos-creator/engine</link>
+      <description>Cocos Creator is a complete package of game development tools and workflow, including a game engine, resource management, scene editing, game preview, debug and publish one project to multiple platforms.</description>
+    </item>
+    
+    <item>
+      <title>trekhleb/javascript-algorithms</title>
+      <link>https://github.com/trekhleb/javascript-algorithms</link>
+      <description>📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings</description>
+    </item>
+    
+    <item>
+      <title>zeit/next.js</title>
+      <link>https://github.com/zeit/next.js</link>
+      <description>The React Framework</description>
+    </item>
+    
+    <item>
+      <title>SmallComfort/vue-ssr-jit</title>
+      <link>https://github.com/SmallComfort/vue-ssr-jit</link>
+      <description>A just in time compilation technique for server-side rendering</description>
+    </item>
+    
+    <item>
+      <title>chris-on-code/20-react-apps</title>
+      <link>https://github.com/chris-on-code/20-react-apps</link>
+      <description>The apps for Make 20 React Apps</description>
+    </item>
+    
+    <item>
+      <title>sveltejs/template</title>
+      <link>https://github.com/sveltejs/template</link>
+      <description>Template for building basic applications with Svelte</description>
+    </item>
+    
+    <item>
+      <title>zadam/trilium</title>
+      <link>https://github.com/zadam/trilium</link>
+      <description>Build your personal knowledge base with Trilium Notes</description>
+    </item>
+    
+    <item>
+      <title>atom/atom</title>
+      <link>https://github.com/atom/atom</link>
+      <description>The hackable text editor</description>
+    </item>
+    
+    <item>
+      <title>bchiang7/v4</title>
+      <link>https://github.com/bchiang7/v4</link>
+      <description>Fourth iteration of my personal website</description>
+    </item>
+    
+  </channel>
+</rss>

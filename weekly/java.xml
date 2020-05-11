@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Java Weekly Trending</title>
+    <description>Weekly Trending of Java in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:24:16 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>MalitsPlus/ShizuruNotes</title>
+      <link>https://github.com/MalitsPlus/ShizuruNotes</link>
+      <description>An unofficial Android tool application of the game &quot;Princess Connect Re:Dive&quot;</description>
+    </item>
+    
+    <item>
+      <title>TheAlgorithms/Java</title>
+      <link>https://github.com/TheAlgorithms/Java</link>
+      <description>All Algorithms implemented in Java</description>
+    </item>
+    
+    <item>
+      <title>Tencent/QMUI_Android</title>
+      <link>https://github.com/Tencent/QMUI_Android</link>
+      <description>提高 Android UI 开发效率的 UI 库</description>
+    </item>
+    
+    <item>
+      <title>NationalSecurityAgency/ghidra</title>
+      <link>https://github.com/NationalSecurityAgency/ghidra</link>
+      <description>Ghidra is a software reverse engineering (SRE) framework</description>
+    </item>
+    
+    <item>
+      <title>TeamNewPipe/NewPipe</title>
+      <link>https://github.com/TeamNewPipe/NewPipe</link>
+      <description>A libre lightweight streaming front-end for Android.</description>
+    </item>
+    
+    <item>
+      <title>elunez/eladmin</title>
+      <link>https://github.com/elunez/eladmin</link>
+      <description>项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由</description>
+    </item>
+    
+    <item>
+      <title>Anuken/Mindustry</title>
+      <link>https://github.com/Anuken/Mindustry</link>
+      <description>A sandbox tower defense game</description>
+    </item>
+    
+    <item>
+      <title>MisterBooo/LeetCodeAnimation</title>
+      <link>https://github.com/MisterBooo/LeetCodeAnimation</link>
+      <description>Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）</description>
+    </item>
+    
+    <item>
+      <title>newbee-ltd/newbee-mall</title>
+      <link>https://github.com/newbee-ltd/newbee-mall</link>
+      <description>newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。</description>
+    </item>
+    
+    <item>
+      <title>hyb1996/Auto.js</title>
+      <link>https://github.com/hyb1996/Auto.js</link>
+      <description>A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)</description>
+    </item>
+    
+    <item>
+      <title>alibaba/easyexcel</title>
+      <link>https://github.com/alibaba/easyexcel</link>
+      <description>快速、简单避免OOM的java处理Excel工具</description>
+    </item>
+    
+    <item>
+      <title>zhangdaiscott/jeecg-boot</title>
+      <link>https://github.com/zhangdaiscott/jeecg-boot</link>
+      <description>基于代码生成器的低代码开发平台，开源界“小普元”超越传统商业开发平台！前后端分离架构：SpringBoot 2.x，Ant Design&amp;Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-&gt; 代码生成-&gt; 手工MERGE)，帮助Java项目解决70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。</description>
+    </item>
+    
+    <item>
+      <title>apache/beam</title>
+      <link>https://github.com/apache/beam</link>
+      <description>Apache Beam is a unified programming model for Batch and Streaming</description>
+    </item>
+    
+    <item>
+      <title>cats-oss/android-gpuimage</title>
+      <link>https://github.com/cats-oss/android-gpuimage</link>
+      <description>Android filters based on OpenGL (idea from GPUImage for iOS)</description>
+    </item>
+    
+    <item>
+      <title>fabric8io/kubernetes-client</title>
+      <link>https://github.com/fabric8io/kubernetes-client</link>
+      <description>Java client for Kubernetes &amp; OpenShift</description>
+    </item>
+    
+    <item>
+      <title>quarkusio/quarkus</title>
+      <link>https://github.com/quarkusio/quarkus</link>
+      <description>Quarkus: Supersonic Subatomic Java.</description>
+    </item>
+    
+    <item>
+      <title>spring-projects/spring-framework</title>
+      <link>https://github.com/spring-projects/spring-framework</link>
+      <description>Spring Framework</description>
+    </item>
+    
+    <item>
+      <title>2020GetGoodOffer/test</title>
+      <link>https://github.com/2020GetGoodOffer/test</link>
+      <description>Java复习合集</description>
+    </item>
+    
+    <item>
+      <title>apache/zookeeper</title>
+      <link>https://github.com/apache/zookeeper</link>
+      <description>Mirror of Apache Hadoop ZooKeeper</description>
+    </item>
+    
+    <item>
+      <title>Netflix/Hystrix</title>
+      <link>https://github.com/Netflix/Hystrix</link>
+      <description>Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.</description>
+    </item>
+    
+    <item>
+      <title>google/guava</title>
+      <link>https://github.com/google/guava</link>
+      <description>Google core libraries for Java</description>
+    </item>
+    
+    <item>
+      <title>google/grafika</title>
+      <link>https://github.com/google/grafika</link>
+      <description>Grafika test app</description>
+    </item>
+    
+    <item>
+      <title>macrozheng/mall-swarm</title>
+      <link>https://github.com/macrozheng/mall-swarm</link>
+      <description>mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。</description>
+    </item>
+    
+    <item>
+      <title>Azure/azure-sdk-for-java</title>
+      <link>https://github.com/Azure/azure-sdk-for-java</link>
+      <description>This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.</description>
+    </item>
+    
+    <item>
+      <title>YunaiV/SpringBoot-Labs</title>
+      <link>https://github.com/YunaiV/SpringBoot-Labs</link>
+      <description>一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024</description>
+    </item>
+    
+  </channel>
+</rss>

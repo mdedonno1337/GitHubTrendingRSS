@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Swift Weekly Trending</title>
+    <description>Weekly Trending of Swift in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:30:56 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Dimillian/ACHNBrowserUI</title>
+      <link>https://github.com/Dimillian/ACHNBrowserUI</link>
+      <description>Animal Crossing New Horizon items catalog in SwiftUI</description>
+    </item>
+    
+    <item>
+      <title>vapor/vapor</title>
+      <link>https://github.com/vapor/vapor</link>
+      <description>💧 A server-side Swift web framework.</description>
+    </item>
+    
+    <item>
+      <title>Alamofire/Alamofire</title>
+      <link>https://github.com/Alamofire/Alamofire</link>
+      <description>Elegant HTTP Networking in Swift</description>
+    </item>
+    
+    <item>
+      <title>ReactiveX/RxSwift</title>
+      <link>https://github.com/ReactiveX/RxSwift</link>
+      <description>Reactive Programming in Swift</description>
+    </item>
+    
+    <item>
+      <title>SwifterSwift/SwifterSwift</title>
+      <link>https://github.com/SwifterSwift/SwifterSwift</link>
+      <description>A handy collection of more than 500 native Swift extensions to boost your productivity.</description>
+    </item>
+    
+    <item>
+      <title>raywenderlich/swift-algorithm-club</title>
+      <link>https://github.com/raywenderlich/swift-algorithm-club</link>
+      <description>Algorithms and data structures in Swift, with explanations!</description>
+    </item>
+    
+    <item>
+      <title>twostraws/HackingWithSwift</title>
+      <link>https://github.com/twostraws/HackingWithSwift</link>
+      <description>The project source code for hackingwithswift.com</description>
+    </item>
+    
+    <item>
+      <title>SwipeCellKit/SwipeCellKit</title>
+      <link>https://github.com/SwipeCellKit/SwipeCellKit</link>
+      <description>Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.</description>
+    </item>
+    
+    <item>
+      <title>Quick/Nimble</title>
+      <link>https://github.com/Quick/Nimble</link>
+      <description>A Matcher Framework for Swift and Objective-C</description>
+    </item>
+    
+    <item>
+      <title>apollographql/apollo-ios</title>
+      <link>https://github.com/apollographql/apollo-ios</link>
+      <description>📱 A strongly-typed, caching GraphQL client for iOS, written in Swift</description>
+    </item>
+    
+    <item>
+      <title>malcommac/SwiftDate</title>
+      <link>https://github.com/malcommac/SwiftDate</link>
+      <description>Parse, validate, manipulate, and display dates, time and timezones in Swift</description>
+    </item>
+    
+    <item>
+      <title>matteocrippa/awesome-swift</title>
+      <link>https://github.com/matteocrippa/awesome-swift</link>
+      <description>A collaborative list of awesome Swift libraries and resources. Feel free to contribute!</description>
+    </item>
+    
+    <item>
+      <title>shogo4405/HaishinKit.swift</title>
+      <link>https://github.com/shogo4405/HaishinKit.swift</link>
+      <description>Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.</description>
+    </item>
+    
+    <item>
+      <title>mozilla-mobile/firefox-ios</title>
+      <link>https://github.com/mozilla-mobile/firefox-ios</link>
+      <description>Firefox for iOS</description>
+    </item>
+    
+    <item>
+      <title>Dimillian/MovieSwiftUI</title>
+      <link>https://github.com/Dimillian/MovieSwiftUI</link>
+      <description>SwiftUI &amp; Combine app using MovieDB API. With a custom Flux (Redux) implementation.</description>
+    </item>
+    
+    <item>
+      <title>huri000/SwiftEntryKit</title>
+      <link>https://github.com/huri000/SwiftEntryKit</link>
+      <description>SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.</description>
+    </item>
+    
+    <item>
+      <title>SnapKit/SnapKit</title>
+      <link>https://github.com/SnapKit/SnapKit</link>
+      <description>A Swift Autolayout DSL for iOS &amp; OS X</description>
+    </item>
+    
+    <item>
+      <title>pigigaldi/Pock</title>
+      <link>https://github.com/pigigaldi/Pock</link>
+      <description>Display macOS Dock in Touch Bar</description>
+    </item>
+    
+    <item>
+      <title>pointfreeco/swift-snapshot-testing</title>
+      <link>https://github.com/pointfreeco/swift-snapshot-testing</link>
+      <description>📸 Delightful Swift snapshot testing.</description>
+    </item>
+    
+    <item>
+      <title>RevenueCat/purchases-ios</title>
+      <link>https://github.com/RevenueCat/purchases-ios</link>
+      <description>iOS subscriptions and purchases made easy.</description>
+    </item>
+    
+    <item>
+      <title>onevcat/Kingfisher</title>
+      <link>https://github.com/onevcat/Kingfisher</link>
+      <description>A lightweight, pure-Swift library for downloading and caching images from the web.</description>
+    </item>
+    
+    <item>
+      <title>PopcornTimeTV/PopcornTimeTV</title>
+      <link>https://github.com/PopcornTimeTV/PopcornTimeTV</link>
+      <description>Popcorn Time for Apple TV 4, iPhone and iPad</description>
+    </item>
+    
+    <item>
+      <title>krzyzanowskim/CryptoSwift</title>
+      <link>https://github.com/krzyzanowskim/CryptoSwift</link>
+      <description>CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift</description>
+    </item>
+    
+    <item>
+      <title>JohnSundell/Publish</title>
+      <link>https://github.com/JohnSundell/Publish</link>
+      <description>A static site generator for Swift developers</description>
+    </item>
+    
+    <item>
+      <title>dkhamsing/open-source-ios-apps</title>
+      <link>https://github.com/dkhamsing/open-source-ios-apps</link>
+      <description>📱 Collaborative List of Open-Source iOS Apps</description>
+    </item>
+    
+  </channel>
+</rss>

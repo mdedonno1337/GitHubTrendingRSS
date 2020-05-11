@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Go Daily Trending</title>
+    <description>Daily Trending of Go in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:07:58 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ethereum/go-ethereum</title>
+      <link>https://github.com/ethereum/go-ethereum</link>
+      <description>Official Go implementation of the Ethereum protocol</description>
+    </item>
+    
+    <item>
+      <title>gohugoio/hugo</title>
+      <link>https://github.com/gohugoio/hugo</link>
+      <description>The world’s fastest framework for building websites.</description>
+    </item>
+    
+    <item>
+      <title>v2ray/v2ray-core</title>
+      <link>https://github.com/v2ray/v2ray-core</link>
+      <description>A platform for building proxies to bypass network restrictions.</description>
+    </item>
+    
+    <item>
+      <title>keybase/client</title>
+      <link>https://github.com/keybase/client</link>
+      <description>Keybase Go Library, Client, Service, OS X, iOS, Android, Electron</description>
+    </item>
+    
+    <item>
+      <title>tomnomnom/assetfinder</title>
+      <link>https://github.com/tomnomnom/assetfinder</link>
+      <description>Find domains and subdomains related to a given domain</description>
+    </item>
+    
+    <item>
+      <title>etcd-io/etcd</title>
+      <link>https://github.com/etcd-io/etcd</link>
+      <description>Distributed reliable key-value store for the most critical data of a distributed system</description>
+    </item>
+    
+    <item>
+      <title>devspace-cloud/devspace</title>
+      <link>https://github.com/devspace-cloud/devspace</link>
+      <description>DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>Cretezy/dSock</title>
+      <link>https://github.com/Cretezy/dSock</link>
+      <description>Distributed WebSocket broker</description>
+    </item>
+    
+    <item>
+      <title>aceld/zinx</title>
+      <link>https://github.com/aceld/zinx</link>
+      <description>基于Golang轻量级TCP并发服务器框架</description>
+    </item>
+    
+    <item>
+      <title>cloudreve/Cloudreve</title>
+      <link>https://github.com/cloudreve/Cloudreve</link>
+      <description>🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)</description>
+    </item>
+    
+    <item>
+      <title>heroiclabs/nakama</title>
+      <link>https://github.com/heroiclabs/nakama</link>
+      <description>Distributed server for social and realtime games and apps.</description>
+    </item>
+    
+    <item>
+      <title>unknwon/the-way-to-go_ZH_CN</title>
+      <link>https://github.com/unknwon/the-way-to-go_ZH_CN</link>
+      <description>《The Way to Go》中文译本，中文正式名《Go 入门指南》</description>
+    </item>
+    
+    <item>
+      <title>lucperkins/rek</title>
+      <link>https://github.com/lucperkins/rek</link>
+      <description>An easy HTTP client for Go. Inspired by the immortal Requests.</description>
+    </item>
+    
+    <item>
+      <title>chai2010/advanced-go-programming-book</title>
+      <link>https://github.com/chai2010/advanced-go-programming-book</link>
+      <description>📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)</description>
+    </item>
+    
+    <item>
+      <title>CodisLabs/codis</title>
+      <link>https://github.com/CodisLabs/codis</link>
+      <description>Proxy based Redis cluster solution supporting pipeline and scaling dynamically</description>
+    </item>
+    
+    <item>
+      <title>Jrohy/trojan</title>
+      <link>https://github.com/Jrohy/trojan</link>
+      <description>trojan多用户管理部署程序, 支持web页面管理</description>
+    </item>
+    
+    <item>
+      <title>golang/go</title>
+      <link>https://github.com/golang/go</link>
+      <description>The Go programming language</description>
+    </item>
+    
+    <item>
+      <title>kubevirt/kubevirt</title>
+      <link>https://github.com/kubevirt/kubevirt</link>
+      <description>Kubernetes Virtualization API and runtime in order to define and manage virtual machines.</description>
+    </item>
+    
+    <item>
+      <title>gdrive-org/gdrive</title>
+      <link>https://github.com/gdrive-org/gdrive</link>
+      <description>Google Drive CLI Client</description>
+    </item>
+    
+    <item>
+      <title>syncthing/syncthing</title>
+      <link>https://github.com/syncthing/syncthing</link>
+      <description>Open Source Continuous File Synchronization</description>
+    </item>
+    
+    <item>
+      <title>esrrhs/pingtunnel</title>
+      <link>https://github.com/esrrhs/pingtunnel</link>
+      <description>流量转发加速工具.a tool that advertises tcp/udp/socks5 traffic as icmp traffic for forwarding.</description>
+    </item>
+    
+    <item>
+      <title>cdr/sshcode</title>
+      <link>https://github.com/cdr/sshcode</link>
+      <description>Run VS Code on any server over SSH.</description>
+    </item>
+    
+    <item>
+      <title>pion/turn</title>
+      <link>https://github.com/pion/turn</link>
+      <description>Pion TURN, an API for building TURN clients and servers</description>
+    </item>
+    
+    <item>
+      <title>asalih/guardian</title>
+      <link>https://github.com/asalih/guardian</link>
+      <description>Open Source Web Application Firewall</description>
+    </item>
+    
+    <item>
+      <title>grpc-ecosystem/go-grpc-middleware</title>
+      <link>https://github.com/grpc-ecosystem/go-grpc-middleware</link>
+      <description>Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.</description>
+    </item>
+    
+  </channel>
+</rss>

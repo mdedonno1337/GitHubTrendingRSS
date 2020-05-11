@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Starlark Monthly Trending</title>
+    <description>Monthly Trending of Starlark in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:45:39 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>googleapis/googleapis</title>
+      <link>https://github.com/googleapis/googleapis</link>
+      <description>Public interface definitions of Google APIs.</description>
+    </item>
+    
+  </channel>
+</rss>

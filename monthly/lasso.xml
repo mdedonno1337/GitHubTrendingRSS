@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Lasso Monthly Trending</title>
+    <description>Monthly Trending of Lasso in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:40:00 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>plotly/dash-sample-apps</title>
+      <link>https://github.com/plotly/dash-sample-apps</link>
+      <description>Apps hosted in the Dash Gallery</description>
+    </item>
+    
+  </channel>
+</rss>

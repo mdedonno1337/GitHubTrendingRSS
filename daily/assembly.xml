@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Assembly Daily Trending</title>
+    <description>Daily Trending of Assembly in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:04:08 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pret/pokecrystal</title>
+      <link>https://github.com/pret/pokecrystal</link>
+      <description>disassembly of Pokémon Crystal</description>
+    </item>
+    
+    <item>
+      <title>mtuomi/SecondReality</title>
+      <link>https://github.com/mtuomi/SecondReality</link>
+      <description>Source code and data of Second Reality by Future Crew in 1993</description>
+    </item>
+    
+    <item>
+      <title>chrislgarry/Apollo-11</title>
+      <link>https://github.com/chrislgarry/Apollo-11</link>
+      <description>Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.</description>
+    </item>
+    
+    <item>
+      <title>callofduty4x/CoD4x_Server</title>
+      <link>https://github.com/callofduty4x/CoD4x_Server</link>
+      <description>Extended Call of Duty 4 server</description>
+    </item>
+    
+    <item>
+      <title>zeldaret/oot</title>
+      <link>https://github.com/zeldaret/oot</link>
+      <description>A decompilation of Ocarina of Time: Master Quest (debug) brought to you by a bunch of clever folks.</description>
+    </item>
+    
+    <item>
+      <title>bitdump/BLHeli</title>
+      <link>https://github.com/bitdump/BLHeli</link>
+      <description>BLHeli for brushless ESC firmware</description>
+    </item>
+    
+    <item>
+      <title>microsoft/MS-DOS</title>
+      <link>https://github.com/microsoft/MS-DOS</link>
+      <description>The original sources of MS-DOS 1.25 and 2.0, for reference purposes</description>
+    </item>
+    
+    <item>
+      <title>leachim6/hello-world</title>
+      <link>https://github.com/leachim6/hello-world</link>
+      <description>Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Dockerfile Daily Trending</title>
+    <description>Daily Trending of Dockerfile in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:06:10 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>cloudfoundry/cflinuxfs3</title>
+      <link>https://github.com/cloudfoundry/cflinuxfs3</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>laradock/laradock</title>
+      <link>https://github.com/laradock/laradock</link>
+      <description>Full PHP development environment for Docker.</description>
+    </item>
+    
+    <item>
+      <title>aschmelyun/docker-compose-laravel</title>
+      <link>https://github.com/aschmelyun/docker-compose-laravel</link>
+      <description>A docker-compose workflow for local Laravel development</description>
+    </item>
+    
+    <item>
+      <title>microsoft/vscode-dev-containers</title>
+      <link>https://github.com/microsoft/vscode-dev-containers</link>
+      <description>A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Online</description>
+    </item>
+    
+    <item>
+      <title>Zenika/alpine-chrome</title>
+      <link>https://github.com/Zenika/alpine-chrome</link>
+      <description>Chrome Headless docker images built upon alpine official image</description>
+    </item>
+    
+    <item>
+      <title>linuxserver/docker-letsencrypt</title>
+      <link>https://github.com/linuxserver/docker-letsencrypt</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>appleboy/ssh-action</title>
+      <link>https://github.com/appleboy/ssh-action</link>
+      <description>GitHub Actions for executing remote ssh commands.</description>
+    </item>
+    
+    <item>
+      <title>bosh-packages/cf-cli-release</title>
+      <link>https://github.com/bosh-packages/cf-cli-release</link>
+      <description>BOSH release of Cloud Foundry CLI</description>
+    </item>
+    
+  </channel>
+</rss>

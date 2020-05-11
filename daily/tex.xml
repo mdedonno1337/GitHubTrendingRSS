@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TeX Daily Trending</title>
+    <description>Daily Trending of TeX in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:16:22 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>deedy/Deedy-Resume</title>
+      <link>https://github.com/deedy/Deedy-Resume</link>
+      <description>A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student</description>
+    </item>
+    
+    <item>
+      <title>xueruini/thuthesis</title>
+      <link>https://github.com/xueruini/thuthesis</link>
+      <description>LaTeX Thesis Template for Tsinghua University</description>
+    </item>
+    
+    <item>
+      <title>HarisIqbal88/PlotNeuralNet</title>
+      <link>https://github.com/HarisIqbal88/PlotNeuralNet</link>
+      <description>Latex code for making neural networks diagrams</description>
+    </item>
+    
+    <item>
+      <title>hmemcpy/milewski-ctfp-pdf</title>
+      <link>https://github.com/hmemcpy/milewski-ctfp-pdf</link>
+      <description>Bartosz Milewski&#39;s &#39;Category Theory for Programmers&#39; unofficial PDF and LaTeX source</description>
+    </item>
+    
+    <item>
+      <title>midas-network/COVID-19</title>
+      <link>https://github.com/midas-network/COVID-19</link>
+      <description>2019 novel coronavirus repository</description>
+    </item>
+    
+    <item>
+      <title>zhixuan-lin/cs229-ps-2018</title>
+      <link>https://github.com/zhixuan-lin/cs229-ps-2018</link>
+      <description>My solutions to the problem sets of Stanford cs229, 2018</description>
+    </item>
+    
+    <item>
+      <title>posquit0/Awesome-CV</title>
+      <link>https://github.com/posquit0/Awesome-CV</link>
+      <description>📄 Awesome CV is LaTeX template for your outstanding job application</description>
+    </item>
+    
+    <item>
+      <title>exacity/deeplearningbook-chinese</title>
+      <link>https://github.com/exacity/deeplearningbook-chinese</link>
+      <description>Deep Learning Book Chinese Translation</description>
+    </item>
+    
+    <item>
+      <title>terryum/awesome-deep-learning-papers</title>
+      <link>https://github.com/terryum/awesome-deep-learning-papers</link>
+      <description>The most cited deep learning papers</description>
+    </item>
+    
+    <item>
+      <title>lervag/vimtex</title>
+      <link>https://github.com/lervag/vimtex</link>
+      <description>A modern vim plugin for editing LaTeX files.</description>
+    </item>
+    
+    <item>
+      <title>ustctug/ustcthesis</title>
+      <link>https://github.com/ustctug/ustcthesis</link>
+      <description>LaTeX template for USTC thesis</description>
+    </item>
+    
+    <item>
+      <title>lib-pku/libpku</title>
+      <link>https://github.com/lib-pku/libpku</link>
+      <description>贵校课程资料民间整理</description>
+    </item>
+    
+    <item>
+      <title>yihui/rmarkdown-cookbook</title>
+      <link>https://github.com/yihui/rmarkdown-cookbook</link>
+      <description>[WIP] R Markdown Cookbook. A range of tips and tricks to make better use of R Markdown.</description>
+    </item>
+    
+    <item>
+      <title>ml874/Data-Science-Cheatsheet</title>
+      <link>https://github.com/ml874/Data-Science-Cheatsheet</link>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

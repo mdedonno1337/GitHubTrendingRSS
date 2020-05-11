@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub C++ Weekly Trending</title>
+    <description>Weekly Trending of C++ in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:20:09 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>mrc-ide/covid-sim</title>
+      <link>https://github.com/mrc-ide/covid-sim</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amhndu/SimpleNES</title>
+      <link>https://github.com/amhndu/SimpleNES</link>
+      <description>An NES emulator in C++</description>
+    </item>
+    
+    <item>
+      <title>ocornut/imgui</title>
+      <link>https://github.com/ocornut/imgui</link>
+      <description>Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies</description>
+    </item>
+    
+    <item>
+      <title>PCSX2/pcsx2</title>
+      <link>https://github.com/PCSX2/pcsx2</link>
+      <description>PCSX2 - The Playstation 2 Emulator</description>
+    </item>
+    
+    <item>
+      <title>google/googletest</title>
+      <link>https://github.com/google/googletest</link>
+      <description>Googletest - Google Testing and Mocking Framework</description>
+    </item>
+    
+    <item>
+      <title>microsoft/terminal</title>
+      <link>https://github.com/microsoft/terminal</link>
+      <description>The new Windows Terminal and the original Windows console host, all in the same place!</description>
+    </item>
+    
+    <item>
+      <title>ouyanghuiyu/chineseocr_lite</title>
+      <link>https://github.com/ouyanghuiyu/chineseocr_lite</link>
+      <description>超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M</description>
+    </item>
+    
+    <item>
+      <title>commaai/openpilot</title>
+      <link>https://github.com/commaai/openpilot</link>
+      <description>open source driving agent</description>
+    </item>
+    
+    <item>
+      <title>CleverRaven/Cataclysm-DDA</title>
+      <link>https://github.com/CleverRaven/Cataclysm-DDA</link>
+      <description>Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.</description>
+    </item>
+    
+    <item>
+      <title>NVIDIAGameWorks/kaolin</title>
+      <link>https://github.com/NVIDIAGameWorks/kaolin</link>
+      <description>A PyTorch Library for Accelerating 3D Deep Learning Research</description>
+    </item>
+    
+    <item>
+      <title>barry-ran/QtScrcpy</title>
+      <link>https://github.com/barry-ran/QtScrcpy</link>
+      <description>Android real-time display control software</description>
+    </item>
+    
+    <item>
+      <title>beefytech/Beef</title>
+      <link>https://github.com/beefytech/Beef</link>
+      <description>Beef Programming Language</description>
+    </item>
+    
+    <item>
+      <title>microsoft/AirSim</title>
+      <link>https://github.com/microsoft/AirSim</link>
+      <description>Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI &amp; Research</description>
+    </item>
+    
+    <item>
+      <title>SerenityOS/serenity</title>
+      <link>https://github.com/SerenityOS/serenity</link>
+      <description>The Serenity Operating System 🐞</description>
+    </item>
+    
+    <item>
+      <title>tamlok/vnote</title>
+      <link>https://github.com/tamlok/vnote</link>
+      <description>A note-taking application that knows programmers and Markdown better.</description>
+    </item>
+    
+    <item>
+      <title>microsoft/PowerToys</title>
+      <link>https://github.com/microsoft/PowerToys</link>
+      <description>Windows system utilities to maximize productivity</description>
+    </item>
+    
+    <item>
+      <title>llvm/llvm-project</title>
+      <link>https://github.com/llvm/llvm-project</link>
+      <description>The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.</description>
+    </item>
+    
+    <item>
+      <title>dmlc/xgboost</title>
+      <link>https://github.com/dmlc/xgboost</link>
+      <description>Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow</description>
+    </item>
+    
+    <item>
+      <title>CMU-Perceptual-Computing-Lab/openpose</title>
+      <link>https://github.com/CMU-Perceptual-Computing-Lab/openpose</link>
+      <description>OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation</description>
+    </item>
+    
+    <item>
+      <title>electron/electron</title>
+      <link>https://github.com/electron/electron</link>
+      <description>Build cross-platform desktop apps with JavaScript, HTML, and CSS</description>
+    </item>
+    
+    <item>
+      <title>telegramdesktop/tdesktop</title>
+      <link>https://github.com/telegramdesktop/tdesktop</link>
+      <description>Telegram Desktop messaging app</description>
+    </item>
+    
+    <item>
+      <title>nlohmann/json</title>
+      <link>https://github.com/nlohmann/json</link>
+      <description>JSON for Modern C++</description>
+    </item>
+    
+    <item>
+      <title>bitcoin/bitcoin</title>
+      <link>https://github.com/bitcoin/bitcoin</link>
+      <description>Bitcoin Core integration/staging tree</description>
+    </item>
+    
+    <item>
+      <title>ApolloAuto/apollo</title>
+      <link>https://github.com/ApolloAuto/apollo</link>
+      <description>An open autonomous driving platform</description>
+    </item>
+    
+    <item>
+      <title>xmrig/xmrig</title>
+      <link>https://github.com/xmrig/xmrig</link>
+      <description>RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner</description>
+    </item>
+    
+  </channel>
+</rss>

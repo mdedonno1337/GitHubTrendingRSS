@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Julia Monthly Trending</title>
+    <description>Monthly Trending of Julia in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:39:38 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>JuliaLang/julia</title>
+      <link>https://github.com/JuliaLang/julia</link>
+      <description>The Julia Language: A fresh approach to technical computing.</description>
+    </item>
+    
+    <item>
+      <title>FluxML/Flux.jl</title>
+      <link>https://github.com/FluxML/Flux.jl</link>
+      <description>Relax! Flux is the ML library that doesn&#39;t make you tensor</description>
+    </item>
+    
+  </channel>
+</rss>

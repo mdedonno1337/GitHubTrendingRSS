@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Smarty Monthly Trending</title>
+    <description>Monthly Trending of Smarty in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:45:14 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>bitnami/charts</title>
+      <link>https://github.com/bitnami/charts</link>
+      <description>Helm Charts</description>
+    </item>
+    
+    <item>
+      <title>lyft/amundsen</title>
+      <link>https://github.com/lyft/amundsen</link>
+      <description>Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.</description>
+    </item>
+    
+    <item>
+      <title>rubyhan1314/Golang-100-Days</title>
+      <link>https://github.com/rubyhan1314/Golang-100-Days</link>
+      <description>Golang - 100天从新手到大师</description>
+    </item>
+    
+    <item>
+      <title>Matvey-Kuk/monitring-webinar</title>
+      <link>https://github.com/Matvey-Kuk/monitring-webinar</link>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

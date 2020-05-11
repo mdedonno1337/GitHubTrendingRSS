@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub R Monthly Trending</title>
+    <description>Monthly Trending of R in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:43:49 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>swirldev/swirl_courses</title>
+      <link>https://github.com/swirldev/swirl_courses</link>
+      <description>🎓 A collection of interactive courses for the swirl R package.</description>
+    </item>
+    
+    <item>
+      <title>genomicsclass/dagdata</title>
+      <link>https://github.com/genomicsclass/dagdata</link>
+      <description>Data for the HarvardX courses: PH525x</description>
+    </item>
+    
+    <item>
+      <title>genomicsclass/labs</title>
+      <link>https://github.com/genomicsclass/labs</link>
+      <description>Rmd source files for the HarvardX series PH525x</description>
+    </item>
+    
+    <item>
+      <title>tidyverse/dplyr</title>
+      <link>https://github.com/tidyverse/dplyr</link>
+      <description>dplyr: A grammar of data manipulation</description>
+    </item>
+    
+    <item>
+      <title>tidyverse/ggplot2</title>
+      <link>https://github.com/tidyverse/ggplot2</link>
+      <description>An implementation of the Grammar of Graphics in R</description>
+    </item>
+    
+    <item>
+      <title>rmcelreath/rethinking</title>
+      <link>https://github.com/rmcelreath/rethinking</link>
+      <description>Statistical Rethinking course and book package</description>
+    </item>
+    
+    <item>
+      <title>satijalab/seurat</title>
+      <link>https://github.com/satijalab/seurat</link>
+      <description>R toolkit for single cell genomics</description>
+    </item>
+    
+    <item>
+      <title>r-lib/httr</title>
+      <link>https://github.com/r-lib/httr</link>
+      <description>httr: a friendly http package for R</description>
+    </item>
+    
+    <item>
+      <title>hadley/r4ds</title>
+      <link>https://github.com/hadley/r4ds</link>
+      <description>R for data science: a book</description>
+    </item>
+    
+    <item>
+      <title>rstudio/bookdown</title>
+      <link>https://github.com/rstudio/bookdown</link>
+      <description>Authoring Books and Technical Documents with R Markdown</description>
+    </item>
+    
+    <item>
+      <title>rstudio/rmarkdown</title>
+      <link>https://github.com/rstudio/rmarkdown</link>
+      <description>Dynamic Documents for R</description>
+    </item>
+    
+    <item>
+      <title>wxwx1993/PM_COVID</title>
+      <link>https://github.com/wxwx1993/PM_COVID</link>
+      <description>Public Available Code and Data to Reproduce Analyses in &quot;Exposure to air pollution and COVID-19 mortality in the United States&quot;.</description>
+    </item>
+    
+  </channel>
+</rss>

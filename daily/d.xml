@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub D Daily Trending</title>
+    <description>Daily Trending of D in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:05:46 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>dlang/phobos</title>
+      <link>https://github.com/dlang/phobos</link>
+      <description>The standard library of the D programming language</description>
+    </item>
+    
+  </channel>
+</rss>

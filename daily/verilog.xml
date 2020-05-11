@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Verilog Daily Trending</title>
+    <description>Daily Trending of Verilog in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:17:06 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>SI-RISCV/e200_opensource</title>
+      <link>https://github.com/SI-RISCV/e200_opensource</link>
+      <description>The Ultra-Low Power RISC Core</description>
+    </item>
+    
+  </channel>
+</rss>

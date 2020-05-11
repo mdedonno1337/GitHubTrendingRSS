@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub C Daily Trending</title>
+    <description>Daily Trending of C in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:04:38 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>cloudwu/skynet</title>
+      <link>https://github.com/cloudwu/skynet</link>
+      <description>A lightweight online game framework</description>
+    </item>
+    
+    <item>
+      <title>sm64pc/sm64pc</title>
+      <link>https://github.com/sm64pc/sm64pc</link>
+      <description>OpenGL adaptation of n64decomp/sm64.</description>
+    </item>
+    
+    <item>
+      <title>id-Software/DOOM</title>
+      <link>https://github.com/id-Software/DOOM</link>
+      <description>DOOM Open Source Release</description>
+    </item>
+    
+    <item>
+      <title>AppleIntelWifi/adapter</title>
+      <link>https://github.com/AppleIntelWifi/adapter</link>
+      <description>Kext providing initial support for Intel wireless devices</description>
+    </item>
+    
+    <item>
+      <title>coolsnowwolf/lede</title>
+      <link>https://github.com/coolsnowwolf/lede</link>
+      <description>Lean&#39;s OpenWrt source</description>
+    </item>
+    
+    <item>
+      <title>esp8266/Arduino</title>
+      <link>https://github.com/esp8266/Arduino</link>
+      <description>ESP8266 core for Arduino</description>
+    </item>
+    
+    <item>
+      <title>ldcsaa/HP-Socket</title>
+      <link>https://github.com/ldcsaa/HP-Socket</link>
+      <description>High Performance TCP/UDP/HTTP Communication Component</description>
+    </item>
+    
+    <item>
+      <title>starrtc/starrtc-server</title>
+      <link>https://github.com/starrtc/starrtc-server</link>
+      <description>免费IM系统，IM即时通信消息系统(含一对一文字聊天，群聊，聊天室)，免费一对一voip实时通话，录屏，webrtc服务端，免费直播连麦，互动直播，视频直播，RTSP拉流，RTMP推流，语音对讲，免费在线会议，视频会议等服务端程序，支持物联网平台，✨万水千山总是情，来个star行不行✨</description>
+    </item>
+    
+    <item>
+      <title>The-Cracker-Technology/ANDRAX-Mobile-Pentest</title>
+      <link>https://github.com/The-Cracker-Technology/ANDRAX-Mobile-Pentest</link>
+      <description>ANDRAX Advanced Penetration Testing Platform for Android Smartphones</description>
+    </item>
+    
+    <item>
+      <title>qmk/qmk_firmware</title>
+      <link>https://github.com/qmk/qmk_firmware</link>
+      <description>Open-source keyboard firmware for Atmel AVR and Arm USB families</description>
+    </item>
+    
+    <item>
+      <title>numpy/numpy</title>
+      <link>https://github.com/numpy/numpy</link>
+      <description>The fundamental package for scientific computing with Python.</description>
+    </item>
+    
+    <item>
+      <title>RikkaApps/Riru</title>
+      <link>https://github.com/RikkaApps/Riru</link>
+      <description>Inject zygote process by replace libmemtrack</description>
+    </item>
+    
+    <item>
+      <title>nothings/stb</title>
+      <link>https://github.com/nothings/stb</link>
+      <description>stb single-file public domain libraries for C/C++</description>
+    </item>
+    
+    <item>
+      <title>FFmpeg/FFmpeg</title>
+      <link>https://github.com/FFmpeg/FFmpeg</link>
+      <description>Mirror of git://source.ffmpeg.org/ffmpeg.git</description>
+    </item>
+    
+    <item>
+      <title>libuv/libuv</title>
+      <link>https://github.com/libuv/libuv</link>
+      <description>Cross-platform asynchronous I/O</description>
+    </item>
+    
+    <item>
+      <title>pygame/pygame</title>
+      <link>https://github.com/pygame/pygame</link>
+      <description>pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.</description>
+    </item>
+    
+    <item>
+      <title>nodejs/http-parser</title>
+      <link>https://github.com/nodejs/http-parser</link>
+      <description>http request/response parser for c</description>
+    </item>
+    
+    <item>
+      <title>taosdata/TDengine</title>
+      <link>https://github.com/taosdata/TDengine</link>
+      <description>An open-source big data platform designed and optimized for the Internet of Things (IoT).</description>
+    </item>
+    
+    <item>
+      <title>cfenollosa/os-tutorial</title>
+      <link>https://github.com/cfenollosa/os-tutorial</link>
+      <description>How to create an OS from scratch</description>
+    </item>
+    
+    <item>
+      <title>CloverHackyColor/CloverBootloader</title>
+      <link>https://github.com/CloverHackyColor/CloverBootloader</link>
+      <description>Bootloader for macOS, Windows and Linux in UEFI and in legacy mode</description>
+    </item>
+    
+    <item>
+      <title>bigtreetech/BIGTREETECH-TouchScreenFirmware</title>
+      <link>https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware</link>
+      <description>support TFT35 V1.0/V1.1/V1.2/V2.0/V3.0, TFT28, TFT24 V1.1</description>
+    </item>
+    
+    <item>
+      <title>yshui/picom</title>
+      <link>https://github.com/yshui/picom</link>
+      <description>A lightweight compositor for X11 (previously a compton fork)</description>
+    </item>
+    
+    <item>
+      <title>MarlinFirmware/Configurations</title>
+      <link>https://github.com/MarlinFirmware/Configurations</link>
+      <description>Configurations for Marlin Firmware</description>
+    </item>
+    
+    <item>
+      <title>espressif/esp-idf</title>
+      <link>https://github.com/espressif/esp-idf</link>
+      <description>Espressif IoT Development Framework. Official development framework for ESP32.</description>
+    </item>
+    
+    <item>
+      <title>greenplum-db/gpdb</title>
+      <link>https://github.com/greenplum-db/gpdb</link>
+      <description>Greenplum Database</description>
+    </item>
+    
+  </channel>
+</rss>

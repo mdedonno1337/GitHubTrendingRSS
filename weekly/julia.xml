@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Julia Weekly Trending</title>
+    <description>Weekly Trending of Julia in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:24:43 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>JuliaLang/julia</title>
+      <link>https://github.com/JuliaLang/julia</link>
+      <description>The Julia Language: A fresh approach to technical computing.</description>
+    </item>
+    
+    <item>
+      <title>FluxML/Flux.jl</title>
+      <link>https://github.com/FluxML/Flux.jl</link>
+      <description>Relax! Flux is the ML library that doesn&#39;t make you tensor</description>
+    </item>
+    
+    <item>
+      <title>JuliaPlots/Plots.jl</title>
+      <link>https://github.com/JuliaPlots/Plots.jl</link>
+      <description>Powerful convenience for Julia visualizations and data analysis</description>
+    </item>
+    
+    <item>
+      <title>JuliaLang/IJulia.jl</title>
+      <link>https://github.com/JuliaLang/IJulia.jl</link>
+      <description>Julia kernel for Jupyter</description>
+    </item>
+    
+    <item>
+      <title>JuliaLang/PackageCompiler.jl</title>
+      <link>https://github.com/JuliaLang/PackageCompiler.jl</link>
+      <description>Compile your Julia Package</description>
+    </item>
+    
+  </channel>
+</rss>

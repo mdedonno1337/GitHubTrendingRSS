@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub All Languages Weekly Trending</title>
+    <description>Weekly Trending of All Languages in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:18:23 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>mrc-ide/covid-sim</title>
+      <link>https://github.com/mrc-ide/covid-sim</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google/googletest</title>
+      <link>https://github.com/google/googletest</link>
+      <description>Googletest - Google Testing and Mocking Framework</description>
+    </item>
+    
+    <item>
+      <title>amhndu/SimpleNES</title>
+      <link>https://github.com/amhndu/SimpleNES</link>
+      <description>An NES emulator in C++</description>
+    </item>
+    
+    <item>
+      <title>docker/awesome-compose</title>
+      <link>https://github.com/docker/awesome-compose</link>
+      <description>Awesome Docker Compose samples</description>
+    </item>
+    
+    <item>
+      <title>evanw/esbuild</title>
+      <link>https://github.com/evanw/esbuild</link>
+      <description>An extremely fast JavaScript bundler and minifier</description>
+    </item>
+    
+    <item>
+      <title>Dimillian/ACHNBrowserUI</title>
+      <link>https://github.com/Dimillian/ACHNBrowserUI</link>
+      <description>Animal Crossing New Horizon items catalog in SwiftUI</description>
+    </item>
+    
+    <item>
+      <title>entynetproject/ghost</title>
+      <link>https://github.com/entynetproject/ghost</link>
+      <description>Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration.</description>
+    </item>
+    
+    <item>
+      <title>n64decomp/sm64</title>
+      <link>https://github.com/n64decomp/sm64</link>
+      <description>A Super Mario 64 decompilation, brought to you by a bunch of clever folks.</description>
+    </item>
+    
+    <item>
+      <title>openai/jukebox</title>
+      <link>https://github.com/openai/jukebox</link>
+      <description>Code for &quot;Jukebox: A Generative Model for Music&quot;</description>
+    </item>
+    
+    <item>
+      <title>denoland/deno</title>
+      <link>https://github.com/denoland/deno</link>
+      <description>A secure JavaScript and TypeScript runtime</description>
+    </item>
+    
+    <item>
+      <title>mdevils/typescript-exercises</title>
+      <link>https://github.com/mdevils/typescript-exercises</link>
+      <description>A collection of challenging TypeScript exercises</description>
+    </item>
+    
+    <item>
+      <title>alexgand/springer_free_books</title>
+      <link>https://github.com/alexgand/springer_free_books</link>
+      <description>Python script to download all Springer books released for free during the 2020 COVID-19 quarantine</description>
+    </item>
+    
+    <item>
+      <title>facebookresearch/ParlAI</title>
+      <link>https://github.com/facebookresearch/ParlAI</link>
+      <description>A framework for training and evaluating AI models on a variety of openly available dialogue datasets.</description>
+    </item>
+    
+    <item>
+      <title>ksindi/managers-playbook</title>
+      <link>https://github.com/ksindi/managers-playbook</link>
+      <description>📖 Heuristics for effective management</description>
+    </item>
+    
+    <item>
+      <title>jackfrued/Python-100-Days</title>
+      <link>https://github.com/jackfrued/Python-100-Days</link>
+      <description>Python - 100天从新手到大师</description>
+    </item>
+    
+    <item>
+      <title>ventoy/Ventoy</title>
+      <link>https://github.com/ventoy/Ventoy</link>
+      <description>A new bootable USB solution.</description>
+    </item>
+    
+    <item>
+      <title>caddyserver/caddy</title>
+      <link>https://github.com/caddyserver/caddy</link>
+      <description>Fast, multi-platform web server with automatic HTTPS</description>
+    </item>
+    
+    <item>
+      <title>jwasham/coding-interview-university</title>
+      <link>https://github.com/jwasham/coding-interview-university</link>
+      <description>A complete computer science study plan to become a software engineer.</description>
+    </item>
+    
+    <item>
+      <title>frappe/erpnext</title>
+      <link>https://github.com/frappe/erpnext</link>
+      <description>Open Source Alternative to SAP</description>
+    </item>
+    
+    <item>
+      <title>hoanhan101/ultimate-go</title>
+      <link>https://github.com/hoanhan101/ultimate-go</link>
+      <description>Ultimate Go study guide</description>
+    </item>
+    
+    <item>
+      <title>Tencent/QMUI_Android</title>
+      <link>https://github.com/Tencent/QMUI_Android</link>
+      <description>提高 Android UI 开发效率的 UI 库</description>
+    </item>
+    
+    <item>
+      <title>TeamNewPipe/NewPipe</title>
+      <link>https://github.com/TeamNewPipe/NewPipe</link>
+      <description>A libre lightweight streaming front-end for Android.</description>
+    </item>
+    
+    <item>
+      <title>lyswhut/lx-music-desktop</title>
+      <link>https://github.com/lyswhut/lx-music-desktop</link>
+      <description>一个基于 electron 的音乐软件</description>
+    </item>
+    
+    <item>
+      <title>jasontaylordev/NorthwindTraders</title>
+      <link>https://github.com/jasontaylordev/NorthwindTraders</link>
+      <description>Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.</description>
+    </item>
+    
+    <item>
+      <title>microsoft/playwright</title>
+      <link>https://github.com/microsoft/playwright</link>
+      <description>Node library to automate Chromium, Firefox and WebKit with a single API</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub C# Weekly Trending</title>
+    <description>Weekly Trending of C# in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:19:59 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>jasontaylordev/NorthwindTraders</title>
+      <link>https://github.com/jasontaylordev/NorthwindTraders</link>
+      <description>Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.</description>
+    </item>
+    
+    <item>
+      <title>jasontaylordev/CleanArchitecture</title>
+      <link>https://github.com/jasontaylordev/CleanArchitecture</link>
+      <description>Clean Architecture Solution Template for Angular 9 and .NET Core 3.1</description>
+    </item>
+    
+    <item>
+      <title>microsoft/microsoft-ui-xaml</title>
+      <link>https://github.com/microsoft/microsoft-ui-xaml</link>
+      <description>Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications</description>
+    </item>
+    
+    <item>
+      <title>samhogan/Minecraft-Unity3D</title>
+      <link>https://github.com/samhogan/Minecraft-Unity3D</link>
+      <description>A basic minecraft clone made with unity in 24 hours</description>
+    </item>
+    
+    <item>
+      <title>abpframework/abp</title>
+      <link>https://github.com/abpframework/abp</link>
+      <description>Open Source Web Application Framework for ASP.NET Core</description>
+    </item>
+    
+    <item>
+      <title>MaterialDesignInXAML/MaterialDesignInXamlToolkit</title>
+      <link>https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit</link>
+      <description>Google&#39;s Material Design in XAML &amp; WPF, for C# &amp; VB.Net.</description>
+    </item>
+    
+    <item>
+      <title>Unity-Technologies/arfoundation-samples</title>
+      <link>https://github.com/Unity-Technologies/arfoundation-samples</link>
+      <description>Example content for Unity projects based on AR Foundation</description>
+    </item>
+    
+    <item>
+      <title>NetchX/Netch</title>
+      <link>https://github.com/NetchX/Netch</link>
+      <description>Game accelerator. Support Socks5, Shadowsocks, ShadowsocksR, V2Ray, Trojan proxies. UDP NAT FullCone</description>
+    </item>
+    
+    <item>
+      <title>nopSolutions/nopCommerce</title>
+      <link>https://github.com/nopSolutions/nopCommerce</link>
+      <description>The most popular open source ecommerce shopping cart solution based on ASP.NET Core</description>
+    </item>
+    
+    <item>
+      <title>enkodellc/blazorboilerplate</title>
+      <link>https://github.com/enkodellc/blazorboilerplate</link>
+      <description>Blazor Boilerplate / Starter Template with MatBlazor</description>
+    </item>
+    
+    <item>
+      <title>MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure</title>
+      <link>https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure</link>
+      <description>AZ-204: Developing solutions for Microsoft Azure</description>
+    </item>
+    
+    <item>
+      <title>QuantConnect/Lean</title>
+      <link>https://github.com/QuantConnect/Lean</link>
+      <description>Lean Algorithmic Trading Engine by QuantConnect (C#, Python, F#)</description>
+    </item>
+    
+    <item>
+      <title>Azure/azure-sdk-for-net</title>
+      <link>https://github.com/Azure/azure-sdk-for-net</link>
+      <description>This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.</description>
+    </item>
+    
+    <item>
+      <title>HearthSim/Hearthstone-Deck-Tracker</title>
+      <link>https://github.com/HearthSim/Hearthstone-Deck-Tracker</link>
+      <description>A deck tracker and deck manager for Hearthstone on Windows</description>
+    </item>
+    
+    <item>
+      <title>openhardwaremonitor/openhardwaremonitor</title>
+      <link>https://github.com/openhardwaremonitor/openhardwaremonitor</link>
+      <description>Open Hardware Monitor</description>
+    </item>
+    
+    <item>
+      <title>dotnet/extensions</title>
+      <link>https://github.com/dotnet/extensions</link>
+      <description>.NET APIs for commonly used programming patterns and utilities, such as dependency injection, logging, and configuration.</description>
+    </item>
+    
+    <item>
+      <title>xamarin/Xamarin.Forms</title>
+      <link>https://github.com/xamarin/Xamarin.Forms</link>
+      <description>Xamarin.Forms Official Home</description>
+    </item>
+    
+    <item>
+      <title>dotnet/docfx</title>
+      <link>https://github.com/dotnet/docfx</link>
+      <description>Tools for building and publishing API documentation for .NET projects</description>
+    </item>
+    
+    <item>
+      <title>thangchung/awesome-dotnet-core</title>
+      <link>https://github.com/thangchung/awesome-dotnet-core</link>
+      <description>🐝 A collection of awesome .NET core libraries, tools, frameworks and software</description>
+    </item>
+    
+    <item>
+      <title>ardalis/CleanArchitecture</title>
+      <link>https://github.com/ardalis/CleanArchitecture</link>
+      <description>A starting point for Clean Architecture with ASP.NET Core</description>
+    </item>
+    
+    <item>
+      <title>crest-ocean/crest</title>
+      <link>https://github.com/crest-ocean/crest</link>
+      <description>An advanced ocean system implemented in Unity3D</description>
+    </item>
+    
+    <item>
+      <title>Kinnara/ModernWpf</title>
+      <link>https://github.com/Kinnara/ModernWpf</link>
+      <description>Modern styles and controls for your WPF applications</description>
+    </item>
+    
+    <item>
+      <title>thangchung/clean-code-dotnet</title>
+      <link>https://github.com/thangchung/clean-code-dotnet</link>
+      <description>🛁 Clean Code concepts and tools adapted for .NET</description>
+    </item>
+    
+    <item>
+      <title>xamarin/xamarin-forms-samples</title>
+      <link>https://github.com/xamarin/xamarin-forms-samples</link>
+      <description>Sample apps built using the Xamarin.Forms framework</description>
+    </item>
+    
+    <item>
+      <title>dotnet/AspNetCore.Docs</title>
+      <link>https://github.com/dotnet/AspNetCore.Docs</link>
+      <description>Documentation for ASP.NET Core</description>
+    </item>
+    
+  </channel>
+</rss>

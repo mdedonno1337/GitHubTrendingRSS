@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Visual Basic .NET Weekly Trending</title>
+    <description>Weekly Trending of Visual Basic .NET in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:32:03 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ImminentFate/CompactGUI</title>
+      <link>https://github.com/ImminentFate/CompactGUI</link>
+      <description>Visual Interface for the Windows 10 Compact Function</description>
+    </item>
+    
+  </channel>
+</rss>

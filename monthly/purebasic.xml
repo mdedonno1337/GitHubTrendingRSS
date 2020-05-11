@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PureBasic Monthly Trending</title>
+    <description>Monthly Trending of PureBasic in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:43:32 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>alibaba/x-deeplearning</title>
+      <link>https://github.com/alibaba/x-deeplearning</link>
+      <description>An industrial deep learning framework for high-dimension sparse data</description>
+    </item>
+    
+  </channel>
+</rss>

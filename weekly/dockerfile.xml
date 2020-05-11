@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Dockerfile Weekly Trending</title>
+    <description>Weekly Trending of Dockerfile in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:21:35 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>yankils/Simple-DevOps-Project</title>
+      <link>https://github.com/yankils/Simple-DevOps-Project</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microsoft/vscode-dev-containers</title>
+      <link>https://github.com/microsoft/vscode-dev-containers</link>
+      <description>A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Online</description>
+    </item>
+    
+    <item>
+      <title>quintoandar/docker-firebase-tools</title>
+      <link>https://github.com/quintoandar/docker-firebase-tools</link>
+      <description>Docker image to assist deployments of Firebase projects.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Batchfile Weekly Trending</title>
+    <description>Weekly Trending of Batchfile in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:19:41 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>kkkgo/KMS_VL_ALL</title>
+      <link>https://github.com/kkkgo/KMS_VL_ALL</link>
+      <description>🔑KMS_VL_ALL - Smart Activation Script</description>
+    </item>
+    
+    <item>
+      <title>ananjaser1211/FloydQ_Reports</title>
+      <link>https://github.com/ananjaser1211/FloydQ_Reports</link>
+      <description>BUG Reporting for Exynos8890 OneUI 2.0 Project</description>
+    </item>
+    
+    <item>
+      <title>mtester270/archivczskpremium</title>
+      <link>https://github.com/mtester270/archivczskpremium</link>
+      <description>Premium</description>
+    </item>
+    
+  </channel>
+</rss>

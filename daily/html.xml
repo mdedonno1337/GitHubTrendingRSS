@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub HTML Daily Trending</title>
+    <description>Daily Trending of HTML in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:08:38 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>thelinuxchoice/blackeye</title>
+      <link>https://github.com/thelinuxchoice/blackeye</link>
+      <description>The most complete Phishing Tool, with 32 templates +1 customizable</description>
+    </item>
+    
+    <item>
+      <title>sprov065/v2-ui</title>
+      <link>https://github.com/sprov065/v2-ui</link>
+      <description>支持多协议多用户的 v2ray 面板，Support multi-protocol multi-user v2ray panel</description>
+    </item>
+    
+    <item>
+      <title>bjmashibing/java</title>
+      <link>https://github.com/bjmashibing/java</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thelinuxchoice/shellphish</title>
+      <link>https://github.com/thelinuxchoice/shellphish</link>
+      <description>19 Social Media Phishing Pages #phishing #shellphish #phish</description>
+    </item>
+    
+    <item>
+      <title>googlecodelabs/tools</title>
+      <link>https://github.com/googlecodelabs/tools</link>
+      <description>Codelabs management &amp; hosting tools</description>
+    </item>
+    
+    <item>
+      <title>shishan100/Java-Interview-Advanced</title>
+      <link>https://github.com/shishan100/Java-Interview-Advanced</link>
+      <description>中华石杉--互联网Java进阶面试训练营</description>
+    </item>
+    
+    <item>
+      <title>luizdepra/hugo-coder</title>
+      <link>https://github.com/luizdepra/hugo-coder</link>
+      <description>A minimalist blog theme for hugo.</description>
+    </item>
+    
+    <item>
+      <title>fengdu78/deeplearning_ai_books</title>
+      <link>https://github.com/fengdu78/deeplearning_ai_books</link>
+      <description>deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）</description>
+    </item>
+    
+    <item>
+      <title>github/personal-website</title>
+      <link>https://github.com/github/personal-website</link>
+      <description>Code that&#39;ll help you kickstart a personal website that showcases your work as a software developer.</description>
+    </item>
+    
+    <item>
+      <title>maxpl0it/CVE-2020-0674-Exploit</title>
+      <link>https://github.com/maxpl0it/CVE-2020-0674-Exploit</link>
+      <description>This is an exploit for CVE-2020-0674 that runs on the x64 version of IE 8, 9, 10, and 11 on Windows 7.</description>
+    </item>
+    
+    <item>
+      <title>freddier/hyperblog</title>
+      <link>https://github.com/freddier/hyperblog</link>
+      <description>Un blog increíble para el curso de Git y Github de Platzi</description>
+    </item>
+    
+    <item>
+      <title>jjeejj/geektime2pdf</title>
+      <link>https://github.com/jjeejj/geektime2pdf</link>
+      <description>极客时间专栏文章 转为 PDF 包含评论 音频</description>
+    </item>
+    
+    <item>
+      <title>fengdu78/Coursera-ML-AndrewNg-Notes</title>
+      <link>https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes</link>
+      <description>吴恩达老师的机器学习课程个人笔记</description>
+    </item>
+    
+    <item>
+      <title>DeviaVir/zenbot</title>
+      <link>https://github.com/DeviaVir/zenbot</link>
+      <description>Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.</description>
+    </item>
+    
+    <item>
+      <title>mdn/learning-area</title>
+      <link>https://github.com/mdn/learning-area</link>
+      <description>Github repo for the MDN Learning Area.</description>
+    </item>
+    
+    <item>
+      <title>londonappbrewery/TinDog-Start</title>
+      <link>https://github.com/londonappbrewery/TinDog-Start</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript-tutorial/en.javascript.info</title>
+      <link>https://github.com/javascript-tutorial/en.javascript.info</link>
+      <description>Modern JavaScript Tutorial</description>
+    </item>
+    
+    <item>
+      <title>twitter/twemoji</title>
+      <link>https://github.com/twitter/twemoji</link>
+      <description>Emoji for everyone. https://twemoji.twitter.com/</description>
+    </item>
+    
+    <item>
+      <title>thelinuxchoice/lockphish</title>
+      <link>https://github.com/thelinuxchoice/lockphish</link>
+      <description>Lockphish is a tool for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode</description>
+    </item>
+    
+    <item>
+      <title>tencentyun/qcloud-documents</title>
+      <link>https://github.com/tencentyun/qcloud-documents</link>
+      <description>腾讯云官方文档</description>
+    </item>
+    
+    <item>
+      <title>BlackrockDigital/startbootstrap-resume</title>
+      <link>https://github.com/BlackrockDigital/startbootstrap-resume</link>
+      <description>A Bootstrap 4 resume/CV theme created by Start Bootstrap</description>
+    </item>
+    
+    <item>
+      <title>ACL4SSR/ACL4SSR</title>
+      <link>https://github.com/ACL4SSR/ACL4SSR</link>
+      <description>SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址</description>
+    </item>
+    
+    <item>
+      <title>htr-tech/zphisher</title>
+      <link>https://github.com/htr-tech/zphisher</link>
+      <description>Automated Phishing Tool</description>
+    </item>
+    
+    <item>
+      <title>ctf-wiki/ctf-wiki</title>
+      <link>https://github.com/ctf-wiki/ctf-wiki</link>
+      <description>CTF Wiki Online. Come and join us, we need you!</description>
+    </item>
+    
+    <item>
+      <title>sveltejs/realworld</title>
+      <link>https://github.com/sveltejs/realworld</link>
+      <description>Svelte/Sapper implementation of the RealWorld app</description>
+    </item>
+    
+  </channel>
+</rss>

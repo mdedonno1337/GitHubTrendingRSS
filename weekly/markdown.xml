@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Markdown Weekly Trending</title>
+    <description>Weekly Trending of Markdown in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:25:49 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>apple/swift-evolution</title>
+      <link>https://github.com/apple/swift-evolution</link>
+      <description>This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.</description>
+    </item>
+    
+  </channel>
+</rss>

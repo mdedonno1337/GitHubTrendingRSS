@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Kotlin Daily Trending</title>
+    <description>Daily Trending of Kotlin in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:09:59 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>AU-COVIDSafe/mobile-android</title>
+      <link>https://github.com/AU-COVIDSafe/mobile-android</link>
+      <description>COVIDSafe android app</description>
+    </item>
+    
+    <item>
+      <title>shadowsocks/shadowsocks-android</title>
+      <link>https://github.com/shadowsocks/shadowsocks-android</link>
+      <description>A shadowsocks client for Android</description>
+    </item>
+    
+    <item>
+      <title>nhsx/COVID-19-app-Android-BETA</title>
+      <link>https://github.com/nhsx/COVID-19-app-Android-BETA</link>
+      <description>Source code of the Beta of the NHS COVID-19 Android app</description>
+    </item>
+    
+    <item>
+      <title>austrianredcross/stopp-corona-android</title>
+      <link>https://github.com/austrianredcross/stopp-corona-android</link>
+      <description>Android Source Code</description>
+    </item>
+    
+    <item>
+      <title>google-developer-training/android-kotlin-fundamentals-starter-apps</title>
+      <link>https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps</link>
+      <description>android-kotlin-fundamentals-starter-apps</description>
+    </item>
+    
+    <item>
+      <title>google-developer-training/android-kotlin-fundamentals-apps</title>
+      <link>https://github.com/google-developer-training/android-kotlin-fundamentals-apps</link>
+      <description>android-kotlin-fundamentals-apps</description>
+    </item>
+    
+    <item>
+      <title>android/architecture-components-samples</title>
+      <link>https://github.com/android/architecture-components-samples</link>
+      <description>Samples for Android Architecture Components.</description>
+    </item>
+    
+    <item>
+      <title>mukul500/AnimeXStream</title>
+      <link>https://github.com/mukul500/AnimeXStream</link>
+      <description>An Android app to watch anime on your phone without ads.</description>
+    </item>
+    
+    <item>
+      <title>yairm210/Unciv</title>
+      <link>https://github.com/yairm210/Unciv</link>
+      <description>Open-source Android/Desktop remake of Civ V</description>
+    </item>
+    
+    <item>
+      <title>google/iosched</title>
+      <link>https://github.com/google/iosched</link>
+      <description>The Google I/O 2019 Android App</description>
+    </item>
+    
+    <item>
+      <title>Kotlin/kotlinx.coroutines</title>
+      <link>https://github.com/Kotlin/kotlinx.coroutines</link>
+      <description>Library support for Kotlin coroutines</description>
+    </item>
+    
+    <item>
+      <title>android/camera-samples</title>
+      <link>https://github.com/android/camera-samples</link>
+      <description>Multiple samples showing the best practices in camera APIs on Android.</description>
+    </item>
+    
+    <item>
+      <title>android/sunflower</title>
+      <link>https://github.com/android/sunflower</link>
+      <description>A gardening app illustrating Android development best practices with Android Jetpack.</description>
+    </item>
+    
+    <item>
+      <title>android/plaid</title>
+      <link>https://github.com/android/plaid</link>
+      <description>An Android app which provides design news &amp; inspiration as well as being an example of implementing material design.</description>
+    </item>
+    
+    <item>
+      <title>Tamsiree/RxTool</title>
+      <link>https://github.com/Tamsiree/RxTool</link>
+      <description>Android开发人员不得不收集的工具类集合 | 支付宝支付 | 微信支付（统一下单） | 微信分享 | Zip4j压缩（支持分卷压缩与加密） | 一键集成UCrop选择圆形头像 | 一键集成二维码和条形码的扫描与生成 | 常用Dialog | WebView的封装可播放视频 | 仿斗鱼滑动验证码 | Toast封装 | 震动 | GPS | Location定位 | 图片缩放 | Exif 图片添加地理位置信息（经纬度） | 蛛网等级 | 颜色选择器 | ArcGis | VTPK | 编译运行一下说不定会找到惊喜</description>
+    </item>
+    
+    <item>
+      <title>Kr328/ClashForAndroid</title>
+      <link>https://github.com/Kr328/ClashForAndroid</link>
+      <description>A rule-based tunnel for Android.</description>
+    </item>
+    
+    <item>
+      <title>Szaki/XiaomiADBFastbootTools</title>
+      <link>https://github.com/Szaki/XiaomiADBFastbootTools</link>
+      <description>A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot</description>
+    </item>
+    
+    <item>
+      <title>android/architecture-samples</title>
+      <link>https://github.com/android/architecture-samples</link>
+      <description>A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.</description>
+    </item>
+    
+    <item>
+      <title>guolindev/coolweatherjetpack</title>
+      <link>https://github.com/guolindev/coolweatherjetpack</link>
+      <description>酷欧天气的Jetpack版本实现，采用了MVVM架构。</description>
+    </item>
+    
+    <item>
+      <title>HMBSbige/ShadowsocksR-Android</title>
+      <link>https://github.com/HMBSbige/ShadowsocksR-Android</link>
+      <description>【自用】咕咕咕</description>
+    </item>
+    
+    <item>
+      <title>home-assistant/android</title>
+      <link>https://github.com/home-assistant/android</link>
+      <description>📱 Home Assistant Companion for Android</description>
+    </item>
+    
+    <item>
+      <title>CypherpunkArmory/UserLAnd</title>
+      <link>https://github.com/CypherpunkArmory/UserLAnd</link>
+      <description>Main UserLAnd Repository</description>
+    </item>
+    
+    <item>
+      <title>android/uamp</title>
+      <link>https://github.com/android/uamp</link>
+      <description>A sample audio app for Android</description>
+    </item>
+    
+    <item>
+      <title>mamoe/mirai</title>
+      <link>https://github.com/mamoe/mirai</link>
+      <description>全开源 高效率 QQ机器人/Android QQ协议支持库 for JVM / Android</description>
+    </item>
+    
+    <item>
+      <title>ibrahimsn98/web-dev-tools-android</title>
+      <link>https://github.com/ibrahimsn98/web-dev-tools-android</link>
+      <description>Sample Android Application - MVVM, Clean Architecture, Modularization, Repository Pattern</description>
+    </item>
+    
+  </channel>
+</rss>

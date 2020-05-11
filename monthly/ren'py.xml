@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Ren'Py Monthly Trending</title>
+    <description>Monthly Trending of Ren'Py in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:44:12 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Monika-After-Story/MonikaModDev</title>
+      <link>https://github.com/Monika-After-Story/MonikaModDev</link>
+      <description>DDLC fan mod to extend Monika</description>
+    </item>
+    
+  </channel>
+</rss>

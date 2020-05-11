@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Batchfile Daily Trending</title>
+    <description>Daily Trending of Batchfile in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:04:18 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>MicrosoftDocs/quantum-docs-pr</title>
+      <link>https://github.com/MicrosoftDocs/quantum-docs-pr</link>
+      <description>Sources of the Microsoft Quantum Development Kit documentation</description>
+    </item>
+    
+    <item>
+      <title>enhorse/java-interview</title>
+      <link>https://github.com/enhorse/java-interview</link>
+      <description>Вопросы и ответы к интервью Java разработчика</description>
+    </item>
+    
+    <item>
+      <title>CHEF-KOCH/KMS-activator</title>
+      <link>https://github.com/CHEF-KOCH/KMS-activator</link>
+      <description>Windows activation research project.</description>
+    </item>
+    
+    <item>
+      <title>brett8883/DJI_Super-Patcher</title>
+      <link>https://github.com/brett8883/DJI_Super-Patcher</link>
+      <description>Liberate DJI drones. Height limit, NFZ limit, enable Galileo Satellites + more</description>
+    </item>
+    
+  </channel>
+</rss>

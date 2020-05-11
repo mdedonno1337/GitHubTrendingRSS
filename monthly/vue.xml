@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Vue Monthly Trending</title>
+    <description>Monthly Trending of Vue in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:47:13 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>PanJiaChen/vue-element-admin</title>
+      <link>https://github.com/PanJiaChen/vue-element-admin</link>
+      <description>🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin</description>
+    </item>
+    
+    <item>
+      <title>Code-Pop/real-world-vue</title>
+      <link>https://github.com/Code-Pop/real-world-vue</link>
+      <description>The application that we build in Vue Mastery&#39;s courses starting with Real World Vue</description>
+    </item>
+    
+    <item>
+      <title>liuzhuoling2011/baidupcs-web</title>
+      <link>https://github.com/liuzhuoling2011/baidupcs-web</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elunez/eladmin-web</title>
+      <link>https://github.com/elunez/eladmin-web</link>
+      <description>eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由</description>
+    </item>
+    
+    <item>
+      <title>vueComponent/ant-design-vue-pro</title>
+      <link>https://github.com/vueComponent/ant-design-vue-pro</link>
+      <description>👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!</description>
+    </item>
+    
+    <item>
+      <title>ElemeFE/element</title>
+      <link>https://github.com/ElemeFE/element</link>
+      <description>A Vue.js 2.0 UI Toolkit for Web</description>
+    </item>
+    
+    <item>
+      <title>wenjianzhang/go-admin-ui</title>
+      <link>https://github.com/wenjianzhang/go-admin-ui</link>
+      <description>基于Gin + Vue + Element UI的前后端分离权限管理系统的前端模块</description>
+    </item>
+    
+    <item>
+      <title>vueComponent/ant-design-vue</title>
+      <link>https://github.com/vueComponent/ant-design-vue</link>
+      <description>An enterprise-class UI components based on Ant Design and Vue. 🐜</description>
+    </item>
+    
+    <item>
+      <title>dcloudio/hello-uniapp</title>
+      <link>https://github.com/dcloudio/hello-uniapp</link>
+      <description>uni-app框架演示示例</description>
+    </item>
+    
+    <item>
+      <title>Requarks/wiki</title>
+      <link>https://github.com/Requarks/wiki</link>
+      <description>Wiki.js | A modern, lightweight and powerful wiki app built on Node.js</description>
+    </item>
+    
+    <item>
+      <title>chuzhixin/vue-admin-beautiful</title>
+      <link>https://github.com/chuzhixin/vue-admin-beautiful</link>
+      <description>vue-admin-beautiful是一款绝佳的前端开发框架（同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力</description>
+    </item>
+    
+    <item>
+      <title>hql7/wl-micro-frontends</title>
+      <link>https://github.com/hql7/wl-micro-frontends</link>
+      <description>Micro front end practical project tutorial. 微前端项目实战vue项目。基于vue3.0&amp;qiankun2.0进阶版：https://github.com/wl-ui/wl-mfe</description>
+    </item>
+    
+    <item>
+      <title>Code-Pop/beautify-with-vuetify</title>
+      <link>https://github.com/Code-Pop/beautify-with-vuetify</link>
+      <description>Learn how to create beautiful web applications with Vuetify!</description>
+    </item>
+    
+    <item>
+      <title>Thulinma/ACNLPatternTool</title>
+      <link>https://github.com/Thulinma/ACNLPatternTool</link>
+      <description>Animal Crossing: New Leaf Pattern Tool</description>
+    </item>
+    
+    <item>
+      <title>surmon-china/surmon-china.github.io</title>
+      <link>https://github.com/surmon-china/surmon-china.github.io</link>
+      <description>Repository project pages.</description>
+    </item>
+    
+    <item>
+      <title>lian-yue/vue-upload-component</title>
+      <link>https://github.com/lian-yue/vue-upload-component</link>
+      <description>Vue.js file upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory, Upload multiple files at the same time, html4 (IE 9), `PUT` method, Customize the filter</description>
+    </item>
+    
+    <item>
+      <title>bailicangdu/vue2-elm</title>
+      <link>https://github.com/bailicangdu/vue2-elm</link>
+      <description>基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用</description>
+    </item>
+    
+    <item>
+      <title>sdras/cssgridgenerator</title>
+      <link>https://github.com/sdras/cssgridgenerator</link>
+      <description>🧮Generate basic CSS Grid code to make dynamic layouts!</description>
+    </item>
+    
+    <item>
+      <title>CareyWang/sub-web</title>
+      <link>https://github.com/CareyWang/sub-web</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jsbroks/coco-annotator</title>
+      <link>https://github.com/jsbroks/coco-annotator</link>
+      <description>✏️ Web-based image segmentation tool for object detection, localization and keypoints</description>
+    </item>
+    
+    <item>
+      <title>JakHuang/form-generator</title>
+      <link>https://github.com/JakHuang/form-generator</link>
+      <description>✨Element UI表单设计及代码生成器</description>
+    </item>
+    
+    <item>
+      <title>xyxiao001/vue-cropper</title>
+      <link>https://github.com/xyxiao001/vue-cropper</link>
+      <description>A simple picture clipping plugin for vue</description>
+    </item>
+    
+    <item>
+      <title>jae-jae/Userscript-Plus</title>
+      <link>https://github.com/jae-jae/Userscript-Plus</link>
+      <description>🐒 Show current site all UserJS，The easier way to install UserJs for Tampermonkey. 显示当前网站的所有可用Tampermonkey脚本</description>
+    </item>
+    
+    <item>
+      <title>Armour/vue-typescript-admin-template</title>
+      <link>https://github.com/Armour/vue-typescript-admin-template</link>
+      <description>🖖 A vue-cli 3.0 + typescript minimal admin template</description>
+    </item>
+    
+    <item>
+      <title>ymm-tech/gods-pen</title>
+      <link>https://github.com/ymm-tech/gods-pen</link>
+      <description>基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.</description>
+    </item>
+    
+  </channel>
+</rss>

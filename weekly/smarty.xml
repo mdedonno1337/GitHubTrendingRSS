@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Smarty Weekly Trending</title>
+    <description>Weekly Trending of Smarty in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:30:21 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rubyhan1314/Golang-100-Days</title>
+      <link>https://github.com/rubyhan1314/Golang-100-Days</link>
+      <description>Golang - 100天从新手到大师</description>
+    </item>
+    
+    <item>
+      <title>bitnami/charts</title>
+      <link>https://github.com/bitnami/charts</link>
+      <description>Helm Charts</description>
+    </item>
+    
+    <item>
+      <title>fluxcd/flux-get-started</title>
+      <link>https://github.com/fluxcd/flux-get-started</link>
+      <description>Getting started with Flux and the Helm Operator</description>
+    </item>
+    
+    <item>
+      <title>fluxcd/helm-operator-get-started</title>
+      <link>https://github.com/fluxcd/helm-operator-get-started</link>
+      <description>Managing Helm releases with Flux Helm Operator</description>
+    </item>
+    
+    <item>
+      <title>argoproj/argo-helm</title>
+      <link>https://github.com/argoproj/argo-helm</link>
+      <description>ArgoProj Helm Charts</description>
+    </item>
+    
+  </channel>
+</rss>

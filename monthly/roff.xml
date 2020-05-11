@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Roff Monthly Trending</title>
+    <description>Monthly Trending of Roff in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:44:23 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>GangZhuo/BaiduPCS</title>
+      <link>https://github.com/GangZhuo/BaiduPCS</link>
+      <description>百度网盘命令行工具。The terminal utility for Baidu Network Disk.</description>
+    </item>
+    
+    <item>
+      <title>Creality3DPrinting/Ender-3</title>
+      <link>https://github.com/Creality3DPrinting/Ender-3</link>
+      <description>The Creality3D Ender-3, a fully Open Source 3D printer perfect for new users on a budget.</description>
+    </item>
+    
+    <item>
+      <title>awslabs/amazon-redshift-utils</title>
+      <link>https://github.com/awslabs/amazon-redshift-utils</link>
+      <description>Amazon Redshift Utils contains utilities, scripts and view which are useful in a Redshift environment</description>
+    </item>
+    
+  </channel>
+</rss>

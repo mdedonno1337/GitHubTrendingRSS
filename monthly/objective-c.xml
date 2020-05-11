@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Objective-C Monthly Trending</title>
+    <description>Monthly Trending of Objective-C in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:42:04 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>facebook/facebook-ios-sdk</title>
+      <link>https://github.com/facebook/facebook-ios-sdk</link>
+      <description>Used to integrate the Facebook Platform with your iOS &amp; tvOS apps.</description>
+    </item>
+    
+    <item>
+      <title>londonappbrewery/mi_card_flutter</title>
+      <link>https://github.com/londonappbrewery/mi_card_flutter</link>
+      <description>Starter code for the Mi Card Project from the Complete Flutter Development Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>v002/v002-Camera-Live</title>
+      <link>https://github.com/v002/v002-Camera-Live</link>
+      <description>Live Syphon Camera</description>
+    </item>
+    
+    <item>
+      <title>londonappbrewery/magic-8-ball-flutter</title>
+      <link>https://github.com/londonappbrewery/magic-8-ball-flutter</link>
+      <description>Starter code for the Dicee project in the Complete Flutter Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>londonappbrewery/xylophone-flutter</title>
+      <link>https://github.com/londonappbrewery/xylophone-flutter</link>
+      <description>Starter code for the Xylophone project in the Complete Flutter Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>MustangYM/WeChatExtension-ForMac</title>
+      <link>https://github.com/MustangYM/WeChatExtension-ForMac</link>
+      <description>Mac版微信的功能拓展(A plugin for Mac WeChat)</description>
+    </item>
+    
+    <item>
+      <title>londonappbrewery/dicee-flutter</title>
+      <link>https://github.com/londonappbrewery/dicee-flutter</link>
+      <description>Starter code for the Dicee project in the Complete Flutter Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>jitsi/jitsi-meet-sdk-samples</title>
+      <link>https://github.com/jitsi/jitsi-meet-sdk-samples</link>
+      <description>Jitsi Meet SDK examples (Android and iOS)</description>
+    </item>
+    
+    <item>
+      <title>expo/expo</title>
+      <link>https://github.com/expo/expo</link>
+      <description>An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.</description>
+    </item>
+    
+    <item>
+      <title>londonappbrewery/bmi-calculator-flutter</title>
+      <link>https://github.com/londonappbrewery/bmi-calculator-flutter</link>
+      <description>Learn to Code While Building Apps - The Complete Flutter Development Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>blinksh/blink</title>
+      <link>https://github.com/blinksh/blink</link>
+      <description>Blink Mobile Shell for iOS (Mosh based)</description>
+    </item>
+    
+    <item>
+      <title>ripperhe/Bob</title>
+      <link>https://github.com/ripperhe/Bob</link>
+      <description>Bob 是一款 Mac 端翻译软件，翻译方式支持划词翻译和截图翻译，翻译引擎支持有道翻译、百度翻译和谷歌翻译~</description>
+    </item>
+    
+    <item>
+      <title>CodeTips/BaiduNetdiskPlugin-macOS</title>
+      <link>https://github.com/CodeTips/BaiduNetdiskPlugin-macOS</link>
+      <description>For macOS.百度网盘 破解SVIP、下载速度限制~</description>
+    </item>
+    
+    <item>
+      <title>Flipboard/FLEX</title>
+      <link>https://github.com/Flipboard/FLEX</link>
+      <description>An in-app debugging and exploration tool for iOS</description>
+    </item>
+    
+    <item>
+      <title>AFNetworking/AFNetworking</title>
+      <link>https://github.com/AFNetworking/AFNetworking</link>
+      <description>A delightful networking framework for iOS, macOS, watchOS, and tvOS.</description>
+    </item>
+    
+    <item>
+      <title>hackiftekhar/IQKeyboardManager</title>
+      <link>https://github.com/hackiftekhar/IQKeyboardManager</link>
+      <description>Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.</description>
+    </item>
+    
+    <item>
+      <title>OpenEmu/OpenEmu</title>
+      <link>https://github.com/OpenEmu/OpenEmu</link>
+      <description>🕹 Retro video game emulation for macOS</description>
+    </item>
+    
+    <item>
+      <title>headkaze/Hackintool</title>
+      <link>https://github.com/headkaze/Hackintool</link>
+      <description>The Swiss army knife of vanilla Hackintoshing</description>
+    </item>
+    
+    <item>
+      <title>objective-see/LuLu</title>
+      <link>https://github.com/objective-see/LuLu</link>
+      <description>LuLu is the free macOS firewall</description>
+    </item>
+    
+    <item>
+      <title>react-native-webrtc/react-native-webrtc</title>
+      <link>https://github.com/react-native-webrtc/react-native-webrtc</link>
+      <description>The WebRTC module for React Native</description>
+    </item>
+    
+    <item>
+      <title>Instagram/IGListKit</title>
+      <link>https://github.com/Instagram/IGListKit</link>
+      <description>A data-driven UICollectionView framework for building fast and flexible lists.</description>
+    </item>
+    
+    <item>
+      <title>realm/realm-cocoa</title>
+      <link>https://github.com/realm/realm-cocoa</link>
+      <description>Realm is a mobile database: a replacement for Core Data &amp; SQLite</description>
+    </item>
+    
+    <item>
+      <title>SDWebImage/SDWebImage</title>
+      <link>https://github.com/SDWebImage/SDWebImage</link>
+      <description>Asynchronous image downloader with cache support as a UIImageView category</description>
+    </item>
+    
+    <item>
+      <title>Tencent/QMUI_iOS</title>
+      <link>https://github.com/Tencent/QMUI_iOS</link>
+      <description>QMUI iOS——致力于提高项目 UI 开发效率的解决方案</description>
+    </item>
+    
+    <item>
+      <title>firebase/firebase-ios-sdk</title>
+      <link>https://github.com/firebase/firebase-ios-sdk</link>
+      <description>Firebase iOS SDK</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CoffeeScript Weekly Trending</title>
+    <description>Weekly Trending of CoffeeScript in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:20:35 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>sparanoid/chinese-copywriting-guidelines</title>
+      <link>https://github.com/sparanoid/chinese-copywriting-guidelines</link>
+      <description>Chinese copywriting guidelines for better written communication／中文文案排版指北</description>
+    </item>
+    
+    <item>
+      <title>overleaf/overleaf</title>
+      <link>https://github.com/overleaf/overleaf</link>
+      <description>A web-based collaborative LaTeX editor</description>
+    </item>
+    
+    <item>
+      <title>atom/spell-check</title>
+      <link>https://github.com/atom/spell-check</link>
+      <description>Spell check Atom package</description>
+    </item>
+    
+  </channel>
+</rss>

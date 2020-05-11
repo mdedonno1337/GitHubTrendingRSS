@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Scala Daily Trending</title>
+    <description>Daily Trending of Scala in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:15:01 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>fpinscala/fpinscala</title>
+      <link>https://github.com/fpinscala/fpinscala</link>
+      <description>Code, exercises, answers, and hints to go along with the book &quot;Functional Programming in Scala&quot;</description>
+    </item>
+    
+    <item>
+      <title>xxf098/shadowsocksr-v2ray-android</title>
+      <link>https://github.com/xxf098/shadowsocksr-v2ray-android</link>
+      <description>A ShadowsocksR and V2Ray client for Android</description>
+    </item>
+    
+    <item>
+      <title>ornicar/lila</title>
+      <link>https://github.com/ornicar/lila</link>
+      <description>♞ lichess.org: the forever free, adless and open source chess server ♞</description>
+    </item>
+    
+    <item>
+      <title>zio/zio</title>
+      <link>https://github.com/zio/zio</link>
+      <description>ZIO — A type-safe, composable library for async and concurrent programming in Scala</description>
+    </item>
+    
+    <item>
+      <title>scala/scala</title>
+      <link>https://github.com/scala/scala</link>
+      <description>Scala 2 compiler and standard library. For bugs, see scala/bug</description>
+    </item>
+    
+    <item>
+      <title>akka/akka</title>
+      <link>https://github.com/akka/akka</link>
+      <description>Build highly concurrent, distributed, and resilient message-driven applications on the JVM</description>
+    </item>
+    
+    <item>
+      <title>apache/spark</title>
+      <link>https://github.com/apache/spark</link>
+      <description>Apache Spark - A unified analytics engine for large-scale data processing</description>
+    </item>
+    
+    <item>
+      <title>apache/incubator-livy</title>
+      <link>https://github.com/apache/incubator-livy</link>
+      <description>Mirror of Apache livy (Incubating)</description>
+    </item>
+    
+    <item>
+      <title>freechipsproject/chisel3</title>
+      <link>https://github.com/freechipsproject/chisel3</link>
+      <description>Chisel 3: A Modern Hardware Design Language</description>
+    </item>
+    
+    <item>
+      <title>aditya-grover/node2vec</title>
+      <link>https://github.com/aditya-grover/node2vec</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yahoo/CMAK</title>
+      <link>https://github.com/yahoo/CMAK</link>
+      <description>CMAK is a tool for managing Apache Kafka clusters</description>
+    </item>
+    
+    <item>
+      <title>twitter-archive/snowflake</title>
+      <link>https://github.com/twitter-archive/snowflake</link>
+      <description>Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.</description>
+    </item>
+    
+    <item>
+      <title>lampepfl/dotty</title>
+      <link>https://github.com/lampepfl/dotty</link>
+      <description>Research compiler that will become Scala 3</description>
+    </item>
+    
+    <item>
+      <title>scala-native/scala-native</title>
+      <link>https://github.com/scala-native/scala-native</link>
+      <description>Your favorite language gets closer to bare metal.</description>
+    </item>
+    
+    <item>
+      <title>scalameta/metals</title>
+      <link>https://github.com/scalameta/metals</link>
+      <description>Scala language server with rich IDE features 🚀</description>
+    </item>
+    
+    <item>
+      <title>gitbucket/gitbucket</title>
+      <link>https://github.com/gitbucket/gitbucket</link>
+      <description>A Git platform powered by Scala with easy installation, high extensibility &amp; GitHub API compatibility</description>
+    </item>
+    
+    <item>
+      <title>http4s/http4s</title>
+      <link>https://github.com/http4s/http4s</link>
+      <description>A minimal, idiomatic Scala interface for HTTP</description>
+    </item>
+    
+    <item>
+      <title>UB-CSE/OfficeHours</title>
+      <link>https://github.com/UB-CSE/OfficeHours</link>
+      <description>A web-based system to manage office hours</description>
+    </item>
+    
+    <item>
+      <title>UB-CSE/TODO-Scheduler</title>
+      <link>https://github.com/UB-CSE/TODO-Scheduler</link>
+      <description>Manages tasks to be completed</description>
+    </item>
+    
+  </channel>
+</rss>

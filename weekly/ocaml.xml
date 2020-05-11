@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub OCaml Weekly Trending</title>
+    <description>Weekly Trending of OCaml in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:27:17 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>facebook/infer</title>
+      <link>https://github.com/facebook/infer</link>
+      <description>A static analyzer for Java, C, C++, and Objective-C</description>
+    </item>
+    
+    <item>
+      <title>facebook/flow</title>
+      <link>https://github.com/facebook/flow</link>
+      <description>Adds static typing to JavaScript to improve developer productivity and code quality.</description>
+    </item>
+    
+    <item>
+      <title>returntocorp/semgrep</title>
+      <link>https://github.com/returntocorp/semgrep</link>
+      <description>Fast and syntax-aware semantic code pattern search for many languages: like grep but for code</description>
+    </item>
+    
+  </channel>
+</rss>

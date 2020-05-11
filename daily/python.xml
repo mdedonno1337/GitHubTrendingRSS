@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Python Daily Trending</title>
+    <description>Daily Trending of Python in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:13:50 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>kritiksoman/GIMP-ML</title>
+      <link>https://github.com/kritiksoman/GIMP-ML</link>
+      <description>Set of Machine Learning Python plugins for GIMP</description>
+    </item>
+    
+    <item>
+      <title>lyhue1991/eat_tensorflow2_in_30_days</title>
+      <link>https://github.com/lyhue1991/eat_tensorflow2_in_30_days</link>
+      <description>Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋</description>
+    </item>
+    
+    <item>
+      <title>d2l-ai/d2l-en</title>
+      <link>https://github.com/d2l-ai/d2l-en</link>
+      <description>An interactive deep learning book with code, math, and discussions, based on the NumPy interface.</description>
+    </item>
+    
+    <item>
+      <title>open-mmlab/mmdetection</title>
+      <link>https://github.com/open-mmlab/mmdetection</link>
+      <description>Open MMLab Detection Toolbox and Benchmark</description>
+    </item>
+    
+    <item>
+      <title>0voice/interview_internal_reference</title>
+      <link>https://github.com/0voice/interview_internal_reference</link>
+      <description>2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。</description>
+    </item>
+    
+    <item>
+      <title>donnemartin/system-design-primer</title>
+      <link>https://github.com/donnemartin/system-design-primer</link>
+      <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
+    </item>
+    
+    <item>
+      <title>fighting41love/funNLP</title>
+      <link>https://github.com/fighting41love/funNLP</link>
+      <description>中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&amp;摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…</description>
+    </item>
+    
+    <item>
+      <title>threat9/routersploit</title>
+      <link>https://github.com/threat9/routersploit</link>
+      <description>Exploitation Framework for Embedded Devices</description>
+    </item>
+    
+    <item>
+      <title>apache/incubator-tvm</title>
+      <link>https://github.com/apache/incubator-tvm</link>
+      <description>Open deep learning compiler stack for cpu, gpu and specialized accelerators</description>
+    </item>
+    
+    <item>
+      <title>soimort/you-get</title>
+      <link>https://github.com/soimort/you-get</link>
+      <description>⏬ Dumb downloader that scrapes the web</description>
+    </item>
+    
+    <item>
+      <title>aws/sagemaker-python-sdk</title>
+      <link>https://github.com/aws/sagemaker-python-sdk</link>
+      <description>A library for training and deploying machine learning models on Amazon SageMaker</description>
+    </item>
+    
+    <item>
+      <title>entynetproject/ghost</title>
+      <link>https://github.com/entynetproject/ghost</link>
+      <description>Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration.</description>
+    </item>
+    
+    <item>
+      <title>natewong1313/bird-bot</title>
+      <link>https://github.com/natewong1313/bird-bot</link>
+      <description>A Nintendo Switch checkout bot. Currently supports Walmart and Best buy</description>
+    </item>
+    
+    <item>
+      <title>huaiyukeji/verification_code</title>
+      <link>https://github.com/huaiyukeji/verification_code</link>
+      <description>验证码研究破解心得记录。包含网易易盾，阿里云验证码，极验验证码等主流验证码破解。包含点按验证码、点选验证、语序点选等等。已更新极验验证码、企业公示网采集心得。</description>
+    </item>
+    
+    <item>
+      <title>pytorch/examples</title>
+      <link>https://github.com/pytorch/examples</link>
+      <description>A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.</description>
+    </item>
+    
+    <item>
+      <title>quantopian/zipline</title>
+      <link>https://github.com/quantopian/zipline</link>
+      <description>Zipline, a Pythonic Algorithmic Trading Library</description>
+    </item>
+    
+    <item>
+      <title>chonyy/AI-basketball-analysis</title>
+      <link>https://github.com/chonyy/AI-basketball-analysis</link>
+      <description>🏀🤖🏀 AI web app and API to analyze basketball shots.</description>
+    </item>
+    
+    <item>
+      <title>MingchaoZhu/DeepLearning</title>
+      <link>https://github.com/MingchaoZhu/DeepLearning</link>
+      <description>Python for “Deep Learning”，《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现</description>
+    </item>
+    
+    <item>
+      <title>NathanUA/U-2-Net</title>
+      <link>https://github.com/NathanUA/U-2-Net</link>
+      <description>The code for our newly accepted paper in Pattern Recognition 2020: &quot;U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.&quot;</description>
+    </item>
+    
+    <item>
+      <title>facebookresearch/detectron2</title>
+      <link>https://github.com/facebookresearch/detectron2</link>
+      <description>Detectron2 is FAIR&#39;s next-generation platform for object detection and segmentation.</description>
+    </item>
+    
+    <item>
+      <title>edx/edx-platform</title>
+      <link>https://github.com/edx/edx-platform</link>
+      <description>The Open edX platform, the software that powers edX!</description>
+    </item>
+    
+    <item>
+      <title>r0oth3x49/udemy-dl</title>
+      <link>https://github.com/r0oth3x49/udemy-dl</link>
+      <description>A cross-platform python based utility to download courses from udemy for personal offline use.</description>
+    </item>
+    
+    <item>
+      <title>frappe/frappe</title>
+      <link>https://github.com/frappe/frappe</link>
+      <description>Low Code Open Source Framework in Python and JS</description>
+    </item>
+    
+    <item>
+      <title>521xueweihan/HelloGitHub</title>
+      <link>https://github.com/521xueweihan/HelloGitHub</link>
+      <description>Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目</description>
+    </item>
+    
+    <item>
+      <title>junyanz/pytorch-CycleGAN-and-pix2pix</title>
+      <link>https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix</link>
+      <description>Image-to-Image Translation in PyTorch</description>
+    </item>
+    
+  </channel>
+</rss>

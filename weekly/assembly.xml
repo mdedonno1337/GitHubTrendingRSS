@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Assembly Weekly Trending</title>
+    <description>Weekly Trending of Assembly in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:19:30 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pret/pokered</title>
+      <link>https://github.com/pret/pokered</link>
+      <description>disassembly of Pokémon Red/Blue</description>
+    </item>
+    
+    <item>
+      <title>zeldaret/oot</title>
+      <link>https://github.com/zeldaret/oot</link>
+      <description>A decompilation of Ocarina of Time: Master Quest (debug) brought to you by a bunch of clever folks.</description>
+    </item>
+    
+    <item>
+      <title>Sentdex/NNfSiX</title>
+      <link>https://github.com/Sentdex/NNfSiX</link>
+      <description>Neural Networks from Scratch in various programming languages</description>
+    </item>
+    
+    <item>
+      <title>pret/pokecrystal</title>
+      <link>https://github.com/pret/pokecrystal</link>
+      <description>disassembly of Pokémon Crystal</description>
+    </item>
+    
+    <item>
+      <title>nullsecuritynet/tools</title>
+      <link>https://github.com/nullsecuritynet/tools</link>
+      <description>Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.</description>
+    </item>
+    
+  </channel>
+</rss>

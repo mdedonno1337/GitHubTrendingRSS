@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Kotlin Weekly Trending</title>
+    <description>Weekly Trending of Kotlin in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:25:01 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>alibaba/p3c</title>
+      <link>https://github.com/alibaba/p3c</link>
+      <description>Alibaba Java Coding Guidelines pmd implements and IDE plugin</description>
+    </item>
+    
+    <item>
+      <title>android/architecture-components-samples</title>
+      <link>https://github.com/android/architecture-components-samples</link>
+      <description>Samples for Android Architecture Components.</description>
+    </item>
+    
+    <item>
+      <title>LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android</title>
+      <link>https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android</link>
+      <description>🎓 Learning Kotlin Coroutines for Android by example. 🚀 Sample implementations for real-world Android use cases. 🛠 Unit tests included!</description>
+    </item>
+    
+    <item>
+      <title>inorichi/tachiyomi</title>
+      <link>https://github.com/inorichi/tachiyomi</link>
+      <description>Free and open source manga reader for Android</description>
+    </item>
+    
+    <item>
+      <title>google-developer-training/android-kotlin-fundamentals-apps</title>
+      <link>https://github.com/google-developer-training/android-kotlin-fundamentals-apps</link>
+      <description>android-kotlin-fundamentals-apps</description>
+    </item>
+    
+    <item>
+      <title>mamoe/mirai</title>
+      <link>https://github.com/mamoe/mirai</link>
+      <description>全开源 高效率 QQ机器人/Android QQ协议支持库 for JVM / Android</description>
+    </item>
+    
+    <item>
+      <title>home-assistant/android</title>
+      <link>https://github.com/home-assistant/android</link>
+      <description>📱 Home Assistant Companion for Android</description>
+    </item>
+    
+    <item>
+      <title>AppIntro/AppIntro</title>
+      <link>https://github.com/AppIntro/AppIntro</link>
+      <description>Make a cool intro for your Android app.</description>
+    </item>
+    
+    <item>
+      <title>yairm210/Unciv</title>
+      <link>https://github.com/yairm210/Unciv</link>
+      <description>Open-source Android/Desktop remake of Civ V</description>
+    </item>
+    
+    <item>
+      <title>mozilla-mobile/fenix</title>
+      <link>https://github.com/mozilla-mobile/fenix</link>
+      <description>Firefox Preview</description>
+    </item>
+    
+    <item>
+      <title>vinaygaba/Learn-Jetpack-Compose-By-Example</title>
+      <link>https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example</link>
+      <description>This project contains various examples that show how you would do things the &quot;Jetpack Compose&quot; way</description>
+    </item>
+    
+    <item>
+      <title>igorwojda/android-showcase</title>
+      <link>https://github.com/igorwojda/android-showcase</link>
+      <description>💎 Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...</description>
+    </item>
+    
+    <item>
+      <title>google-developer-training/android-kotlin-fundamentals-starter-apps</title>
+      <link>https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps</link>
+      <description>android-kotlin-fundamentals-starter-apps</description>
+    </item>
+    
+    <item>
+      <title>android/plaid</title>
+      <link>https://github.com/android/plaid</link>
+      <description>An Android app which provides design news &amp; inspiration as well as being an example of implementing material design.</description>
+    </item>
+    
+    <item>
+      <title>Szaki/XiaomiADBFastbootTools</title>
+      <link>https://github.com/Szaki/XiaomiADBFastbootTools</link>
+      <description>A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot</description>
+    </item>
+    
+    <item>
+      <title>android/camera-samples</title>
+      <link>https://github.com/android/camera-samples</link>
+      <description>Multiple samples showing the best practices in camera APIs on Android.</description>
+    </item>
+    
+    <item>
+      <title>Kotlin/kotlinx.serialization</title>
+      <link>https://github.com/Kotlin/kotlinx.serialization</link>
+      <description>Kotlin multiplatform / multi-format serialization</description>
+    </item>
+    
+    <item>
+      <title>android/databinding-samples</title>
+      <link>https://github.com/android/databinding-samples</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kotlin/kotlinx.coroutines</title>
+      <link>https://github.com/Kotlin/kotlinx.coroutines</link>
+      <description>Library support for Kotlin coroutines</description>
+    </item>
+    
+    <item>
+      <title>hegaojian/JetpackMvvm</title>
+      <link>https://github.com/hegaojian/JetpackMvvm</link>
+      <description>🐔🐔🐔一个Jetpack结合MVVM的快速开发框架，基于MVVM模式集成谷歌官方推荐的JetPack组件库：LiveData、ViewModel、Lifecycle、Navigation组件 使用Kotlin语言，添加大量拓展函数，简化代码 加入Retrofit网络请求,协程，帮你简化各种操作，让你快速开发项目</description>
+    </item>
+    
+    <item>
+      <title>edvin/tornadofx</title>
+      <link>https://github.com/edvin/tornadofx</link>
+      <description>Lightweight JavaFX Framework for Kotlin</description>
+    </item>
+    
+    <item>
+      <title>Triple-T/gradle-play-publisher</title>
+      <link>https://github.com/Triple-T/gradle-play-publisher</link>
+      <description>GPP is Android&#39;s unofficial release automation Gradle Plugin. It can do anything from building, uploading, and then promoting your App Bundle or APK to publishing app listings and other metadata.</description>
+    </item>
+    
+    <item>
+      <title>android/play-billing-samples</title>
+      <link>https://github.com/android/play-billing-samples</link>
+      <description>Samples for Google Play In-app Billing</description>
+    </item>
+    
+    <item>
+      <title>android/architecture-samples</title>
+      <link>https://github.com/android/architecture-samples</link>
+      <description>A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.</description>
+    </item>
+    
+    <item>
+      <title>gedoor/legado</title>
+      <link>https://github.com/gedoor/legado</link>
+      <description>阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PLpgSQL Monthly Trending</title>
+    <description>Monthly Trending of PLpgSQL in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:42:57 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>digoal/blog</title>
+      <link>https://github.com/digoal/blog</link>
+      <description>Everything about database,bussiness.(Most for PostgreSQL).</description>
+    </item>
+    
+    <item>
+      <title>mapbox/node-sqlite3</title>
+      <link>https://github.com/mapbox/node-sqlite3</link>
+      <description>Asynchronous, non-blocking SQLite3 bindings for Node.js</description>
+    </item>
+    
+  </channel>
+</rss>

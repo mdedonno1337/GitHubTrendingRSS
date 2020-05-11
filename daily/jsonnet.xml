@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Jsonnet Daily Trending</title>
+    <description>Daily Trending of Jsonnet in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:09:44 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>coreos/kube-prometheus</title>
+      <link>https://github.com/coreos/kube-prometheus</link>
+      <description>Use Prometheus to monitor Kubernetes and applications running on Kubernetes</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub HyPhy Daily Trending</title>
+    <description>Daily Trending of HyPhy in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:08:57 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>MattThorson/Strawberry</title>
+      <link>https://github.com/MattThorson/Strawberry</link>
+      <description>A tiny 2D game engine focused on usability and simplicity.</description>
+    </item>
+    
+  </channel>
+</rss>

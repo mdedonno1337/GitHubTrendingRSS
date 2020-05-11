@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Cuda Monthly Trending</title>
+    <description>Monthly Trending of Cuda in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:36:04 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>leoxiaobin/deep-high-resolution-net.pytorch</title>
+      <link>https://github.com/leoxiaobin/deep-high-resolution-net.pytorch</link>
+      <description>The project is an official implementation of our CVPR2019 paper &quot;Deep High-Resolution Representation Learning for Human Pose Estimation&quot;</description>
+    </item>
+    
+    <item>
+      <title>rapidsai/cudf</title>
+      <link>https://github.com/rapidsai/cudf</link>
+      <description>cuDF - GPU DataFrame Library</description>
+    </item>
+    
+  </channel>
+</rss>

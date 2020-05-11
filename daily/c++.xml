@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub C++ Daily Trending</title>
+    <description>Daily Trending of C++ in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:04:45 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>skypjack/entt</title>
+      <link>https://github.com/skypjack/entt</link>
+      <description>Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more</description>
+    </item>
+    
+    <item>
+      <title>yuzu-emu/yuzu</title>
+      <link>https://github.com/yuzu-emu/yuzu</link>
+      <description>Nintendo Switch Emulator</description>
+    </item>
+    
+    <item>
+      <title>bitcoin/bitcoin</title>
+      <link>https://github.com/bitcoin/bitcoin</link>
+      <description>Bitcoin Core integration/staging tree</description>
+    </item>
+    
+    <item>
+      <title>MarlinFirmware/Marlin</title>
+      <link>https://github.com/MarlinFirmware/Marlin</link>
+      <description>Optimized firmware for RepRap 3D printers based on the Arduino platform.</description>
+    </item>
+    
+    <item>
+      <title>CMU-Perceptual-Computing-Lab/openpose</title>
+      <link>https://github.com/CMU-Perceptual-Computing-Lab/openpose</link>
+      <description>OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation</description>
+    </item>
+    
+    <item>
+      <title>Light-City/CPlusPlusThings</title>
+      <link>https://github.com/Light-City/CPlusPlusThings</link>
+      <description>C++那些事</description>
+    </item>
+    
+    <item>
+      <title>Trojan-Qt5/Trojan-Qt5</title>
+      <link>https://github.com/Trojan-Qt5/Trojan-Qt5</link>
+      <description>A cross-platform trojan GUI client based on Shadowsocks-qt. 有问题请加tg群反馈</description>
+    </item>
+    
+    <item>
+      <title>telegramdesktop/tdesktop</title>
+      <link>https://github.com/telegramdesktop/tdesktop</link>
+      <description>Telegram Desktop messaging app</description>
+    </item>
+    
+    <item>
+      <title>godotengine/godot</title>
+      <link>https://github.com/godotengine/godot</link>
+      <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
+    </item>
+    
+    <item>
+      <title>microsoft/PowerToys</title>
+      <link>https://github.com/microsoft/PowerToys</link>
+      <description>Windows system utilities to maximize productivity</description>
+    </item>
+    
+    <item>
+      <title>ouyanghuiyu/chineseocr_lite</title>
+      <link>https://github.com/ouyanghuiyu/chineseocr_lite</link>
+      <description>超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M</description>
+    </item>
+    
+    <item>
+      <title>OpenTTD/OpenTTD</title>
+      <link>https://github.com/OpenTTD/OpenTTD</link>
+      <description>OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe</description>
+    </item>
+    
+    <item>
+      <title>facebook/rocksdb</title>
+      <link>https://github.com/facebook/rocksdb</link>
+      <description>A library that provides an embeddable, persistent key-value store for fast storage.</description>
+    </item>
+    
+    <item>
+      <title>ossrs/srs</title>
+      <link>https://github.com/ossrs/srs</link>
+      <description>SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.</description>
+    </item>
+    
+    <item>
+      <title>commaai/openpilot</title>
+      <link>https://github.com/commaai/openpilot</link>
+      <description>open source driving agent</description>
+    </item>
+    
+    <item>
+      <title>apple/swift</title>
+      <link>https://github.com/apple/swift</link>
+      <description>The Swift Programming Language</description>
+    </item>
+    
+    <item>
+      <title>JoeyDeVries/LearnOpenGL</title>
+      <link>https://github.com/JoeyDeVries/LearnOpenGL</link>
+      <description>Code repository of all OpenGL tutorials found at https://learnopengl.com</description>
+    </item>
+    
+    <item>
+      <title>fmtlib/fmt</title>
+      <link>https://github.com/fmtlib/fmt</link>
+      <description>A modern formatting library</description>
+    </item>
+    
+    <item>
+      <title>v8/v8</title>
+      <link>https://github.com/v8/v8</link>
+      <description>The official mirror of the V8 Git repository</description>
+    </item>
+    
+    <item>
+      <title>vnpy/vnpy</title>
+      <link>https://github.com/vnpy/vnpy</link>
+      <description>基于Python的开源量化交易平台开发框架</description>
+    </item>
+    
+    <item>
+      <title>tensorflow/tensorflow</title>
+      <link>https://github.com/tensorflow/tensorflow</link>
+      <description>An Open Source Machine Learning Framework for Everyone</description>
+    </item>
+    
+    <item>
+      <title>mindspore-ai/mindspore</title>
+      <link>https://github.com/mindspore-ai/mindspore</link>
+      <description>MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.</description>
+    </item>
+    
+    <item>
+      <title>neutralinojs/neutralinojs</title>
+      <link>https://github.com/neutralinojs/neutralinojs</link>
+      <description>Portable and lightweight cross platform application development framework</description>
+    </item>
+    
+    <item>
+      <title>bkaradzic/bgfx</title>
+      <link>https://github.com/bkaradzic/bgfx</link>
+      <description>Cross-platform, graphics API agnostic, &quot;Bring Your Own Engine/Framework&quot; style rendering library.</description>
+    </item>
+    
+    <item>
+      <title>johnboiles/obs-mac-virtualcam</title>
+      <link>https://github.com/johnboiles/obs-mac-virtualcam</link>
+      <description>Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like obs-virtualcam but for macOS.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TeX Weekly Trending</title>
+    <description>Weekly Trending of TeX in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:31:17 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>deedy/Deedy-Resume</title>
+      <link>https://github.com/deedy/Deedy-Resume</link>
+      <description>A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student</description>
+    </item>
+    
+    <item>
+      <title>sb2nov/resume</title>
+      <link>https://github.com/sb2nov/resume</link>
+      <description>Software developer resume in Latex</description>
+    </item>
+    
+    <item>
+      <title>posquit0/Awesome-CV</title>
+      <link>https://github.com/posquit0/Awesome-CV</link>
+      <description>📄 Awesome CV is LaTeX template for your outstanding job application</description>
+    </item>
+    
+    <item>
+      <title>lib-pku/libpku</title>
+      <link>https://github.com/lib-pku/libpku</link>
+      <description>贵校课程资料民间整理</description>
+    </item>
+    
+    <item>
+      <title>jacobeisenstein/gt-nlp-class</title>
+      <link>https://github.com/jacobeisenstein/gt-nlp-class</link>
+      <description>Course materials for Georgia Tech CS 4650 and 7650, &quot;Natural Language&quot;</description>
+    </item>
+    
+    <item>
+      <title>terryum/awesome-deep-learning-papers</title>
+      <link>https://github.com/terryum/awesome-deep-learning-papers</link>
+      <description>The most cited deep learning papers</description>
+    </item>
+    
+    <item>
+      <title>rstudio/cheatsheets</title>
+      <link>https://github.com/rstudio/cheatsheets</link>
+      <description>RStudio Cheat Sheets</description>
+    </item>
+    
+    <item>
+      <title>dart-lang/language</title>
+      <link>https://github.com/dart-lang/language</link>
+      <description>Design of the Dart language</description>
+    </item>
+    
+    <item>
+      <title>HarisIqbal88/PlotNeuralNet</title>
+      <link>https://github.com/HarisIqbal88/PlotNeuralNet</link>
+      <description>Latex code for making neural networks diagrams</description>
+    </item>
+    
+    <item>
+      <title>sjtug/SJTUThesis</title>
+      <link>https://github.com/sjtug/SJTUThesis</link>
+      <description>上海交通大学 XeLaTeX 学位论文及课程论文模板 Shanghai Jiao Tong University XeLaTeX Thesis Template</description>
+    </item>
+    
+    <item>
+      <title>samirazazy/Data-Science-Cheat-Sheet</title>
+      <link>https://github.com/samirazazy/Data-Science-Cheat-Sheet</link>
+      <description>Data Science Cheat Sheet</description>
+    </item>
+    
+  </channel>
+</rss>

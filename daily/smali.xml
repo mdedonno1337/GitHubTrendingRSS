@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Smali Daily Trending</title>
+    <description>Daily Trending of Smali in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:15:26 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>phhusson/treble_experimentations</title>
+      <link>https://github.com/phhusson/treble_experimentations</link>
+      <description>Notes about tinkering with Android Project Treble</description>
+    </item>
+    
+    <item>
+      <title>AhMyth/AhMyth-Android-RAT</title>
+      <link>https://github.com/AhMyth/AhMyth-Android-RAT</link>
+      <description>Android Remote Administration Tool</description>
+    </item>
+    
+    <item>
+      <title>D3VL/L3MON</title>
+      <link>https://github.com/D3VL/L3MON</link>
+      <description>L3MON - Remote Android Managment Suite</description>
+    </item>
+    
+    <item>
+      <title>XploitWizer/XploitSPY</title>
+      <link>https://github.com/XploitWizer/XploitSPY</link>
+      <description>XploitSPY is an Android Monitoring Tool</description>
+    </item>
+    
+  </channel>
+</rss>

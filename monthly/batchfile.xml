@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Batchfile Monthly Trending</title>
+    <description>Monthly Trending of Batchfile in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:34:37 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>CHEF-KOCH/KMS-activator</title>
+      <link>https://github.com/CHEF-KOCH/KMS-activator</link>
+      <description>Windows activation research project.</description>
+    </item>
+    
+    <item>
+      <title>abbodi1406/KMS_VL_ALL_AIO</title>
+      <link>https://github.com/abbodi1406/KMS_VL_ALL_AIO</link>
+      <description>Smart Activation Script</description>
+    </item>
+    
+    <item>
+      <title>bmrf/tron</title>
+      <link>https://github.com/bmrf/tron</link>
+      <description>Tron</description>
+    </item>
+    
+    <item>
+      <title>kkkgo/LTSC-Add-MicrosoftStore</title>
+      <link>https://github.com/kkkgo/LTSC-Add-MicrosoftStore</link>
+      <description>Add Windows Store for LTSC</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Kotlin Monthly Trending</title>
+    <description>Monthly Trending of Kotlin in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:39:55 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>inorichi/tachiyomi</title>
+      <link>https://github.com/inorichi/tachiyomi</link>
+      <description>Free and open source manga reader for Android</description>
+    </item>
+    
+    <item>
+      <title>alibaba/p3c</title>
+      <link>https://github.com/alibaba/p3c</link>
+      <description>Alibaba Java Coding Guidelines pmd implements and IDE plugin</description>
+    </item>
+    
+    <item>
+      <title>opentrace-community/opentrace-android</title>
+      <link>https://github.com/opentrace-community/opentrace-android</link>
+      <description>OpenTrace Android app. Reference implementation of the BlueTrace protocol.</description>
+    </item>
+    
+    <item>
+      <title>jitsi/jibri</title>
+      <link>https://github.com/jitsi/jibri</link>
+      <description>Jitsi BRoadcasting Infrastructure</description>
+    </item>
+    
+    <item>
+      <title>mamoe/mirai</title>
+      <link>https://github.com/mamoe/mirai</link>
+      <description>全开源 高效率 QQ机器人/Android QQ协议支持库 for JVM / Android</description>
+    </item>
+    
+    <item>
+      <title>android/architecture-samples</title>
+      <link>https://github.com/android/architecture-samples</link>
+      <description>A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.</description>
+    </item>
+    
+    <item>
+      <title>JetBrains/kotlin</title>
+      <link>https://github.com/JetBrains/kotlin</link>
+      <description>The Kotlin Programming Language</description>
+    </item>
+    
+    <item>
+      <title>afollestad/material-dialogs</title>
+      <link>https://github.com/afollestad/material-dialogs</link>
+      <description>😍 A beautiful, fluid, and extensible dialogs API for Kotlin &amp; Android.</description>
+    </item>
+    
+    <item>
+      <title>android/uamp</title>
+      <link>https://github.com/android/uamp</link>
+      <description>A sample audio app for Android</description>
+    </item>
+    
+    <item>
+      <title>android/compose-samples</title>
+      <link>https://github.com/android/compose-samples</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PierfrancescoSoffritti/android-youtube-player</title>
+      <link>https://github.com/PierfrancescoSoffritti/android-youtube-player</link>
+      <description>YouTube Player library for Android and Chromecast, stable and customizable.</description>
+    </item>
+    
+    <item>
+      <title>android/architecture-components-samples</title>
+      <link>https://github.com/android/architecture-components-samples</link>
+      <description>Samples for Android Architecture Components.</description>
+    </item>
+    
+    <item>
+      <title>square/leakcanary</title>
+      <link>https://github.com/square/leakcanary</link>
+      <description>LeakCanary is a memory leak detection library for Android.</description>
+    </item>
+    
+    <item>
+      <title>Kotlin/kotlinx.coroutines</title>
+      <link>https://github.com/Kotlin/kotlinx.coroutines</link>
+      <description>Library support for Kotlin coroutines</description>
+    </item>
+    
+    <item>
+      <title>android/sunflower</title>
+      <link>https://github.com/android/sunflower</link>
+      <description>A gardening app illustrating Android development best practices with Android Jetpack.</description>
+    </item>
+    
+    <item>
+      <title>inorichi/tachiyomi-extensions</title>
+      <link>https://github.com/inorichi/tachiyomi-extensions</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yairm210/Unciv</title>
+      <link>https://github.com/yairm210/Unciv</link>
+      <description>Open-source Android/Desktop remake of Civ V</description>
+    </item>
+    
+    <item>
+      <title>Kr328/ClashForAndroid</title>
+      <link>https://github.com/Kr328/ClashForAndroid</link>
+      <description>A rule-based tunnel for Android.</description>
+    </item>
+    
+    <item>
+      <title>google/flexbox-layout</title>
+      <link>https://github.com/google/flexbox-layout</link>
+      <description>Flexbox for Android</description>
+    </item>
+    
+    <item>
+      <title>vinaygaba/Learn-Jetpack-Compose-By-Example</title>
+      <link>https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example</link>
+      <description>This project contains various examples that show how you would do things the &quot;Jetpack Compose&quot; way</description>
+    </item>
+    
+    <item>
+      <title>android/play-billing-samples</title>
+      <link>https://github.com/android/play-billing-samples</link>
+      <description>Samples for Google Play In-app Billing</description>
+    </item>
+    
+    <item>
+      <title>Szaki/XiaomiADBFastbootTools</title>
+      <link>https://github.com/Szaki/XiaomiADBFastbootTools</link>
+      <description>A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot</description>
+    </item>
+    
+    <item>
+      <title>alibaba/transmittable-thread-local</title>
+      <link>https://github.com/alibaba/transmittable-thread-local</link>
+      <description>📌 The missing Java™ std lib(simple &amp; 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits ThreadLocal values between threads even using thread pooling components.</description>
+    </item>
+    
+    <item>
+      <title>android/plaid</title>
+      <link>https://github.com/android/plaid</link>
+      <description>An Android app which provides design news &amp; inspiration as well as being an example of implementing material design.</description>
+    </item>
+    
+    <item>
+      <title>AppIntro/AppIntro</title>
+      <link>https://github.com/AppIntro/AppIntro</link>
+      <description>Make a cool intro for your Android app.</description>
+    </item>
+    
+  </channel>
+</rss>

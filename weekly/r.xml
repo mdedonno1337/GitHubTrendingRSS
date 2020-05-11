@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub R Weekly Trending</title>
+    <description>Weekly Trending of R in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:28:53 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>hadley/r4ds</title>
+      <link>https://github.com/hadley/r4ds</link>
+      <description>R for data science: a book</description>
+    </item>
+    
+    <item>
+      <title>rdpeng/ProgrammingAssignment2</title>
+      <link>https://github.com/rdpeng/ProgrammingAssignment2</link>
+      <description>Repository for Programming Assignment 2 for R Programming on Coursera</description>
+    </item>
+    
+    <item>
+      <title>beoutbreakprepared/nCoV2019</title>
+      <link>https://github.com/beoutbreakprepared/nCoV2019</link>
+      <description>Location for summaries and analysis of data related to n-CoV 2019, first reported in Wuhan, China</description>
+    </item>
+    
+    <item>
+      <title>renanxcortes/springerQuarantineBooksR</title>
+      <link>https://github.com/renanxcortes/springerQuarantineBooksR</link>
+      <description>Download all books made available by Springer during the COVID-19 quarantine!</description>
+    </item>
+    
+    <item>
+      <title>thomasp85/patchwork</title>
+      <link>https://github.com/thomasp85/patchwork</link>
+      <description>The Composer of ggplots</description>
+    </item>
+    
+    <item>
+      <title>swirldev/swirl_courses</title>
+      <link>https://github.com/swirldev/swirl_courses</link>
+      <description>🎓 A collection of interactive courses for the swirl R package.</description>
+    </item>
+    
+    <item>
+      <title>satijalab/seurat</title>
+      <link>https://github.com/satijalab/seurat</link>
+      <description>R toolkit for single cell genomics</description>
+    </item>
+    
+  </channel>
+</rss>

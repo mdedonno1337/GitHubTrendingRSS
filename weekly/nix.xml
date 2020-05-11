@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Nix Weekly Trending</title>
+    <description>Weekly Trending of Nix in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:26:56 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rycee/home-manager</title>
+      <link>https://github.com/rycee/home-manager</link>
+      <description>Manage a user environment using Nix</description>
+    </item>
+    
+  </channel>
+</rss>

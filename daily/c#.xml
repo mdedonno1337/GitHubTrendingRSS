@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub C# Daily Trending</title>
+    <description>Daily Trending of C# in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:04:37 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>jellyfin/jellyfin</title>
+      <link>https://github.com/jellyfin/jellyfin</link>
+      <description>The Free Software Media System</description>
+    </item>
+    
+    <item>
+      <title>2dust/v2rayN</title>
+      <link>https://github.com/2dust/v2rayN</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonarr/Sonarr</title>
+      <link>https://github.com/Sonarr/Sonarr</link>
+      <description>Smart PVR for newsgroup and bittorrent users.</description>
+    </item>
+    
+    <item>
+      <title>OpenRA/OpenRA</title>
+      <link>https://github.com/OpenRA/OpenRA</link>
+      <description>Open Source real-time strategy game engine for early Westwood games such as Command &amp; Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.</description>
+    </item>
+    
+    <item>
+      <title>udacity/self-driving-car-sim</title>
+      <link>https://github.com/udacity/self-driving-car-sim</link>
+      <description>A self-driving car simulator built with Unity</description>
+    </item>
+    
+    <item>
+      <title>jasontaylordev/NorthwindTraders</title>
+      <link>https://github.com/jasontaylordev/NorthwindTraders</link>
+      <description>Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.</description>
+    </item>
+    
+    <item>
+      <title>jasontaylordev/CleanArchitecture</title>
+      <link>https://github.com/jasontaylordev/CleanArchitecture</link>
+      <description>Clean Architecture Solution Template for Angular 9 and .NET Core 3.1</description>
+    </item>
+    
+    <item>
+      <title>abpframework/abp</title>
+      <link>https://github.com/abpframework/abp</link>
+      <description>Open Source Web Application Framework for ASP.NET Core</description>
+    </item>
+    
+    <item>
+      <title>dotnet/tye</title>
+      <link>https://github.com/dotnet/tye</link>
+      <description>Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.</description>
+    </item>
+    
+    <item>
+      <title>kerryjiang/SuperSocket</title>
+      <link>https://github.com/kerryjiang/SuperSocket</link>
+      <description>SuperSocket is a light weight, cross platform and extensible socket server application framework.</description>
+    </item>
+    
+    <item>
+      <title>ardalis/CleanArchitecture</title>
+      <link>https://github.com/ardalis/CleanArchitecture</link>
+      <description>A starting point for Clean Architecture with ASP.NET Core</description>
+    </item>
+    
+    <item>
+      <title>dotnet/samples</title>
+      <link>https://github.com/dotnet/samples</link>
+      <description>Sample code and snippets used in the .NET documentation</description>
+    </item>
+    
+    <item>
+      <title>Jonno12345/TileIconifier</title>
+      <link>https://github.com/Jonno12345/TileIconifier</link>
+      <description>Creates tiles for most Windows 8.1 and 10 start menu icons</description>
+    </item>
+    
+    <item>
+      <title>Azure-Samples/cognitive-services-speech-sdk</title>
+      <link>https://github.com/Azure-Samples/cognitive-services-speech-sdk</link>
+      <description>Sample code for the Microsoft Cognitive Services Speech SDK</description>
+    </item>
+    
+    <item>
+      <title>nilaoda/N_m3u8DL-CLI</title>
+      <link>https://github.com/nilaoda/N_m3u8DL-CLI</link>
+      <description>[.NET] m3u8 downloader 开源的命令行m3u8/HLS下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等.</description>
+    </item>
+    
+    <item>
+      <title>Viralmaniar/HiveJack</title>
+      <link>https://github.com/Viralmaniar/HiveJack</link>
+      <description>This tool can be used during internal penetration testing to dump Windows credentials from an already-compromised host. It allows one to dump SYSTEM, SECURITY and SAM hives and once copied to the attacker machines provides option to delete these files to clear the trace.</description>
+    </item>
+    
+    <item>
+      <title>kichiro1337/vrchat_useful_mod</title>
+      <link>https://github.com/kichiro1337/vrchat_useful_mod</link>
+      <description>This mod is made to be used with MelonLoader, adds important stuff to VRChat.</description>
+    </item>
+    
+    <item>
+      <title>JasonStein/Notepads</title>
+      <link>https://github.com/JasonStein/Notepads</link>
+      <description>A modern, lightweight text editor with a minimalist design.</description>
+    </item>
+    
+    <item>
+      <title>7AM7/PUBGM-ESP-AIMBOT</title>
+      <link>https://github.com/7AM7/PUBGM-ESP-AIMBOT</link>
+      <description>Pubg Mobile 0.17.0 ESP &amp; AIMBOT Hack</description>
+    </item>
+    
+    <item>
+      <title>dotnet/runtime</title>
+      <link>https://github.com/dotnet/runtime</link>
+      <description>.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.</description>
+    </item>
+    
+    <item>
+      <title>koush/UniversalAdbDriver</title>
+      <link>https://github.com/koush/UniversalAdbDriver</link>
+      <description>One size fits all Windows Drivers for Android Debug Bridge.</description>
+    </item>
+    
+    <item>
+      <title>LibreHardwareMonitor/LibreHardwareMonitor</title>
+      <link>https://github.com/LibreHardwareMonitor/LibreHardwareMonitor</link>
+      <description>Libre Hardware Monitor, home of the fork of Open Hardware Monitor</description>
+    </item>
+    
+    <item>
+      <title>NetchX/Netch</title>
+      <link>https://github.com/NetchX/Netch</link>
+      <description>Game accelerator. Support Socks5, Shadowsocks, ShadowsocksR, V2Ray, Trojan proxies. UDP NAT FullCone</description>
+    </item>
+    
+    <item>
+      <title>shadowsocks/shadowsocks-windows</title>
+      <link>https://github.com/shadowsocks/shadowsocks-windows</link>
+      <description>If you want to keep a secret, you must also hide it from yourself.</description>
+    </item>
+    
+    <item>
+      <title>aelassas/Wexflow</title>
+      <link>https://github.com/aelassas/Wexflow</link>
+      <description>An easy and fast way to build automation and workflows on Windows, Linux, macOS, and on the cloud.</description>
+    </item>
+    
+  </channel>
+</rss>

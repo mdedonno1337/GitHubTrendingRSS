@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Dart Monthly Trending</title>
+    <description>Monthly Trending of Dart in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:36:17 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>2d-inc/HistoryOfEverything</title>
+      <link>https://github.com/2d-inc/HistoryOfEverything</link>
+      <description>Flutter Launch Timeline Demo</description>
+    </item>
+    
+    <item>
+      <title>flutter/plugins</title>
+      <link>https://github.com/flutter/plugins</link>
+      <description>Plugins for Flutter maintained by the Flutter team</description>
+    </item>
+    
+    <item>
+      <title>flutter/gallery</title>
+      <link>https://github.com/flutter/gallery</link>
+      <description>Flutter Gallery</description>
+    </item>
+    
+    <item>
+      <title>Solido/awesome-flutter</title>
+      <link>https://github.com/Solido/awesome-flutter</link>
+      <description>An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.</description>
+    </item>
+    
+    <item>
+      <title>mitesh77/Best-Flutter-UI-Templates</title>
+      <link>https://github.com/mitesh77/Best-Flutter-UI-Templates</link>
+      <description>completely free for everyone. Its build-in Flutter Dart.</description>
+    </item>
+    
+    <item>
+      <title>flutter/flutter</title>
+      <link>https://github.com/flutter/flutter</link>
+      <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond.</description>
+    </item>
+    
+    <item>
+      <title>londonappbrewery/quizzler-flutter</title>
+      <link>https://github.com/londonappbrewery/quizzler-flutter</link>
+      <description>Learn to Code While Building Apps - The Complete Flutter Development Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>felangel/bloc</title>
+      <link>https://github.com/felangel/bloc</link>
+      <description>A predictable state management library that helps implement the BLoC design pattern</description>
+    </item>
+    
+    <item>
+      <title>alibaba/flutter-go</title>
+      <link>https://github.com/alibaba/flutter-go</link>
+      <description>flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档</description>
+    </item>
+    
+    <item>
+      <title>londonappbrewery/Clima-Flutter</title>
+      <link>https://github.com/londonappbrewery/Clima-Flutter</link>
+      <description>Starter code for the Clima Project from the Complete Flutter Development Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>londonappbrewery/flash-chat-flutter</title>
+      <link>https://github.com/londonappbrewery/flash-chat-flutter</link>
+      <description>Learn to Code While Building Apps - The Complete Flutter Development Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>flutter/samples</title>
+      <link>https://github.com/flutter/samples</link>
+      <description>A collection of Flutter examples and demos.</description>
+    </item>
+    
+    <item>
+      <title>londonappbrewery/destini-challenge-starting</title>
+      <link>https://github.com/londonappbrewery/destini-challenge-starting</link>
+      <description>Starter code for the Destini Project from the Complete Flutter Development Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>brianegan/flutter_architecture_samples</title>
+      <link>https://github.com/brianegan/flutter_architecture_samples</link>
+      <description>TodoMVC for Flutter</description>
+    </item>
+    
+    <item>
+      <title>X-Wei/flutter_catalog</title>
+      <link>https://github.com/X-Wei/flutter_catalog</link>
+      <description>An app showcasing Flutter components, with side-by-side source code view.</description>
+    </item>
+    
+    <item>
+      <title>flutterchina/dio</title>
+      <link>https://github.com/flutterchina/dio</link>
+      <description>A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.</description>
+    </item>
+    
+    <item>
+      <title>FilledStacks/flutter-tutorials</title>
+      <link>https://github.com/FilledStacks/flutter-tutorials</link>
+      <description>The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.</description>
+    </item>
+    
+    <item>
+      <title>samarthagarwal/FlutterScreens</title>
+      <link>https://github.com/samarthagarwal/FlutterScreens</link>
+      <description>A collection of Screens and attractive UIs built with Flutter ready to be used in your applications. No external libraries are used. Just download, add to your project and use.</description>
+    </item>
+    
+    <item>
+      <title>tortuvshin/open-source-flutter-apps</title>
+      <link>https://github.com/tortuvshin/open-source-flutter-apps</link>
+      <description>📱 List of open source Flutter applications</description>
+    </item>
+    
+    <item>
+      <title>rrousselGit/provider</title>
+      <link>https://github.com/rrousselGit/provider</link>
+      <description>InheritedWidgets, but simple</description>
+    </item>
+    
+    <item>
+      <title>flame-engine/flame</title>
+      <link>https://github.com/flame-engine/flame</link>
+      <description>A minimalist Flutter game engine</description>
+    </item>
+    
+    <item>
+      <title>memspace/zefyr</title>
+      <link>https://github.com/memspace/zefyr</link>
+      <description>Soft and gentle rich text editing for Flutter applications.</description>
+    </item>
+    
+    <item>
+      <title>cloudwebrtc/flutter-webrtc-demo</title>
+      <link>https://github.com/cloudwebrtc/flutter-webrtc-demo</link>
+      <description>Demo for flutter-webrtc</description>
+    </item>
+    
+    <item>
+      <title>dart-lang/dart-pad</title>
+      <link>https://github.com/dart-lang/dart-pad</link>
+      <description>An online Dart editor with support for console, web, and Flutter apps</description>
+    </item>
+    
+    <item>
+      <title>Widle-Studio/Grocery-App</title>
+      <link>https://github.com/Widle-Studio/Grocery-App</link>
+      <description>Flutter Grocery Shopping App (Mobile App, Web App) - Connect with us - info@widle.studio</description>
+    </item>
+    
+  </channel>
+</rss>

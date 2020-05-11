@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Fortran Daily Trending</title>
+    <description>Daily Trending of Fortran in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:07:09 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>VulcanClimateModeling/fv3gfs-fortran</title>
+      <link>https://github.com/VulcanClimateModeling/fv3gfs-fortran</link>
+      <description>FV3GFS Fortran for internal development at Vulcan</description>
+    </item>
+    
+  </channel>
+</rss>

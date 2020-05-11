@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Fortran Weekly Trending</title>
+    <description>Weekly Trending of Fortran in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:22:27 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>xianyi/OpenBLAS</title>
+      <link>https://github.com/xianyi/OpenBLAS</link>
+      <description>OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.</description>
+    </item>
+    
+  </channel>
+</rss>

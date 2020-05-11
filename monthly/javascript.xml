@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub JavaScript Monthly Trending</title>
+    <description>Monthly Trending of JavaScript in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:39:18 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>jhu-ep-coursera/fullstack-course4</title>
+      <link>https://github.com/jhu-ep-coursera/fullstack-course4</link>
+      <description>Example code for HTML, CSS, and Javascript for Web Developers Coursera Course</description>
+    </item>
+    
+    <item>
+      <title>covid19india/covid19india-react</title>
+      <link>https://github.com/covid19india/covid19india-react</link>
+      <description>Tracking the impact of COVID-19 in India</description>
+    </item>
+    
+    <item>
+      <title>pcottle/learnGitBranching</title>
+      <link>https://github.com/pcottle/learnGitBranching</link>
+      <description>An interactive git visualization to challenge and educate!</description>
+    </item>
+    
+    <item>
+      <title>jitsi/jitsi-meet</title>
+      <link>https://github.com/jitsi/jitsi-meet</link>
+      <description>Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.</description>
+    </item>
+    
+    <item>
+      <title>zeit/next.js</title>
+      <link>https://github.com/zeit/next.js</link>
+      <description>The React Framework</description>
+    </item>
+    
+    <item>
+      <title>webrtc/samples</title>
+      <link>https://github.com/webrtc/samples</link>
+      <description>WebRTC Web demos and samples</description>
+    </item>
+    
+    <item>
+      <title>facebook/react</title>
+      <link>https://github.com/facebook/react</link>
+      <description>A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+    </item>
+    
+    <item>
+      <title>mui-org/material-ui</title>
+      <link>https://github.com/mui-org/material-ui</link>
+      <description>React components for faster and easier web development. Build your own design system, or start with Material Design.</description>
+    </item>
+    
+    <item>
+      <title>facebook/create-react-app</title>
+      <link>https://github.com/facebook/create-react-app</link>
+      <description>Set up a modern web app by running one command.</description>
+    </item>
+    
+    <item>
+      <title>axios/axios</title>
+      <link>https://github.com/axios/axios</link>
+      <description>Promise based HTTP client for the browser and node.js</description>
+    </item>
+    
+    <item>
+      <title>ricklamers/gridstudio</title>
+      <link>https://github.com/ricklamers/gridstudio</link>
+      <description>Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.</description>
+    </item>
+    
+    <item>
+      <title>mikebryant/ac-nh-turnip-prices</title>
+      <link>https://github.com/mikebryant/ac-nh-turnip-prices</link>
+      <description>Price calculator/predictor for Turnip prices</description>
+    </item>
+    
+    <item>
+      <title>jitsi/lib-jitsi-meet</title>
+      <link>https://github.com/jitsi/lib-jitsi-meet</link>
+      <description>A low-level JS video API that allows adding a completely custom video experience to web apps.</description>
+    </item>
+    
+    <item>
+      <title>zhaoolee/ChromeAppHeroes</title>
+      <link>https://github.com/zhaoolee/ChromeAppHeroes</link>
+      <description>🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新</description>
+    </item>
+    
+    <item>
+      <title>freeCodeCamp/freeCodeCamp</title>
+      <link>https://github.com/freeCodeCamp/freeCodeCamp</link>
+      <description>freeCodeCamp.org&#39;s open source codebase and curriculum. Learn to code at home.</description>
+    </item>
+    
+    <item>
+      <title>nodejs/node</title>
+      <link>https://github.com/nodejs/node</link>
+      <description>Node.js JavaScript runtime ✨🐢🚀✨</description>
+    </item>
+    
+    <item>
+      <title>strapi/strapi</title>
+      <link>https://github.com/strapi/strapi</link>
+      <description>🚀 Open source Node.js Headless CMS to easily build customisable APIs</description>
+    </item>
+    
+    <item>
+      <title>chinese-poetry/chinese-poetry</title>
+      <link>https://github.com/chinese-poetry/chinese-poetry</link>
+      <description>The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。</description>
+    </item>
+    
+    <item>
+      <title>azl397985856/leetcode</title>
+      <link>https://github.com/azl397985856/leetcode</link>
+      <description>LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)</description>
+    </item>
+    
+    <item>
+      <title>wekan/wekan</title>
+      <link>https://github.com/wekan/wekan</link>
+      <description>The open-source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.</description>
+    </item>
+    
+    <item>
+      <title>TryGhost/Ghost</title>
+      <link>https://github.com/TryGhost/Ghost</link>
+      <description>👻 The #1 headless Node.js CMS for professional publishing</description>
+    </item>
+    
+    <item>
+      <title>adrianhajdin/project_chat_application</title>
+      <link>https://github.com/adrianhajdin/project_chat_application</link>
+      <description>This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, Node.js, Express.js, and Socket.io.</description>
+    </item>
+    
+    <item>
+      <title>dcloudio/uni-app</title>
+      <link>https://github.com/dcloudio/uni-app</link>
+      <description>uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架</description>
+    </item>
+    
+    <item>
+      <title>moment/moment</title>
+      <link>https://github.com/moment/moment</link>
+      <description>Parse, validate, manipulate, and display dates in javascript.</description>
+    </item>
+    
+    <item>
+      <title>sudheerj/reactjs-interview-questions</title>
+      <link>https://github.com/sudheerj/reactjs-interview-questions</link>
+      <description>List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!!</description>
+    </item>
+    
+  </channel>
+</rss>

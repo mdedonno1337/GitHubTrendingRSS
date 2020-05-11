@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub R Daily Trending</title>
+    <description>Daily Trending of R in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:14:04 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>mlr3learners/mlr3learners.drat</title>
+      <link>https://github.com/mlr3learners/mlr3learners.drat</link>
+      <description>drat repository for mlr3learners</description>
+    </item>
+    
+    <item>
+      <title>swirldev/swirl_courses</title>
+      <link>https://github.com/swirldev/swirl_courses</link>
+      <description>🎓 A collection of interactive courses for the swirl R package.</description>
+    </item>
+    
+    <item>
+      <title>tidyverse/ggplot2</title>
+      <link>https://github.com/tidyverse/ggplot2</link>
+      <description>An implementation of the Grammar of Graphics in R</description>
+    </item>
+    
+    <item>
+      <title>rdpeng/ProgrammingAssignment2</title>
+      <link>https://github.com/rdpeng/ProgrammingAssignment2</link>
+      <description>Repository for Programming Assignment 2 for R Programming on Coursera</description>
+    </item>
+    
+  </channel>
+</rss>

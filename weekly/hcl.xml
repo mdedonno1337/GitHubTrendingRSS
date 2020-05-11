@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub HCL Weekly Trending</title>
+    <description>Weekly Trending of HCL in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:23:32 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>lyft/flyte</title>
+      <link>https://github.com/lyft/flyte</link>
+      <description>develop, execute, and monitor distributed workflows reliably at scale.</description>
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-eks</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
+      <description>Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS</description>
+    </item>
+    
+    <item>
+      <title>pablokbs/peladonerd</title>
+      <link>https://github.com/pablokbs/peladonerd</link>
+      <description>Repo con los archivos que uso para mi videos en youtube</description>
+    </item>
+    
+    <item>
+      <title>openshift/okd</title>
+      <link>https://github.com/openshift/okd</link>
+      <description>The self-managing, auto-upgrading, Kubernetes distribution for everyone</description>
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-vpc</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
+      <description>Terraform module which creates VPC resources on AWS</description>
+    </item>
+    
+    <item>
+      <title>terraform-google-modules/terraform-google-kubernetes-engine</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
+      <description>A Terraform module for configuring GKE clusters.</description>
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-rds</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-rds</link>
+      <description>Terraform module which creates RDS resources on AWS</description>
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-s3-bucket</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
+      <description>Terraform module which creates S3 bucket resources on AWS</description>
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-security-group</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-security-group</link>
+      <description>Terraform module which creates EC2-VPC security groups on AWS</description>
+    </item>
+    
+    <item>
+      <title>RhinoSecurityLabs/cloudgoat</title>
+      <link>https://github.com/RhinoSecurityLabs/cloudgoat</link>
+      <description>CloudGoat is Rhino Security Labs&#39; &quot;Vulnerable by Design&quot; AWS deployment tool</description>
+    </item>
+    
+    <item>
+      <title>gruntwork-io/package-terraform-utilities</title>
+      <link>https://github.com/gruntwork-io/package-terraform-utilities</link>
+      <description>A collection of useful Terraform utilities</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Dockerfile Monthly Trending</title>
+    <description>Monthly Trending of Dockerfile in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:36:29 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nginxinc/docker-nginx</title>
+      <link>https://github.com/nginxinc/docker-nginx</link>
+      <description>Official NGINX Dockerfiles</description>
+    </item>
+    
+    <item>
+      <title>TrafeX/docker-php-nginx</title>
+      <link>https://github.com/TrafeX/docker-php-nginx</link>
+      <description>Docker image with Nginx 1.16 &amp; PHP-FPM 7.3 on Alpine Linux</description>
+    </item>
+    
+    <item>
+      <title>linuxserver/docker-letsencrypt</title>
+      <link>https://github.com/linuxserver/docker-letsencrypt</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SeleniumHQ/docker-selenium</title>
+      <link>https://github.com/SeleniumHQ/docker-selenium</link>
+      <description>Docker images for Selenium Grid Server (Standalone, Hub, and Nodes).</description>
+    </item>
+    
+    <item>
+      <title>microsoft/vscode-dev-containers</title>
+      <link>https://github.com/microsoft/vscode-dev-containers</link>
+      <description>A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Online</description>
+    </item>
+    
+    <item>
+      <title>sprintcube/docker-compose-lamp</title>
+      <link>https://github.com/sprintcube/docker-compose-lamp</link>
+      <description>A basic LAMP stack environment built using Docker Compose.</description>
+    </item>
+    
+    <item>
+      <title>nicolaka/netshoot</title>
+      <link>https://github.com/nicolaka/netshoot</link>
+      <description>a Docker + Kubernetes network trouble-shooting swiss-army container</description>
+    </item>
+    
+  </channel>
+</rss>

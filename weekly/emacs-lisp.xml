@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Emacs Lisp Weekly Trending</title>
+    <description>Weekly Trending of Emacs Lisp in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:22:04 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>hlissner/doom-emacs</title>
+      <link>https://github.com/hlissner/doom-emacs</link>
+      <description>An Emacs framework for the stubborn martian hacker</description>
+    </item>
+    
+    <item>
+      <title>syl20bnr/spacemacs</title>
+      <link>https://github.com/syl20bnr/spacemacs</link>
+      <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#39;s Emacs *and* Vim!</description>
+    </item>
+    
+    <item>
+      <title>org-roam/org-roam</title>
+      <link>https://github.com/org-roam/org-roam</link>
+      <description>Rudimentary Roam replica with Org-mode</description>
+    </item>
+    
+    <item>
+      <title>practicalli/spacemacs.d</title>
+      <link>https://github.com/practicalli/spacemacs.d</link>
+      <description>My configuration for spacemacs</description>
+    </item>
+    
+    <item>
+      <title>abo-abo/swiper</title>
+      <link>https://github.com/abo-abo/swiper</link>
+      <description>Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!</description>
+    </item>
+    
+    <item>
+      <title>emacs-lsp/lsp-mode</title>
+      <link>https://github.com/emacs-lsp/lsp-mode</link>
+      <description>Emacs client/library for the Language Server Protocol</description>
+    </item>
+    
+    <item>
+      <title>bbatsov/prelude</title>
+      <link>https://github.com/bbatsov/prelude</link>
+      <description>Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.</description>
+    </item>
+    
+    <item>
+      <title>bbatsov/projectile</title>
+      <link>https://github.com/bbatsov/projectile</link>
+      <description>Project Interaction Library for Emacs</description>
+    </item>
+    
+    <item>
+      <title>hlissner/emacs-doom-themes</title>
+      <link>https://github.com/hlissner/emacs-doom-themes</link>
+      <description>An opinionated pack of modern color-themes</description>
+    </item>
+    
+    <item>
+      <title>emacs-mirror/emacs</title>
+      <link>https://github.com/emacs-mirror/emacs</link>
+      <description>Mirror of GNU Emacs</description>
+    </item>
+    
+    <item>
+      <title>remacs/remacs</title>
+      <link>https://github.com/remacs/remacs</link>
+      <description>Rust ❤️ Emacs</description>
+    </item>
+    
+    <item>
+      <title>leahneukirchen/nb</title>
+      <link>https://github.com/leahneukirchen/nb</link>
+      <description>Nota Bene, a quick note-taking tool for Emacs</description>
+    </item>
+    
+  </channel>
+</rss>

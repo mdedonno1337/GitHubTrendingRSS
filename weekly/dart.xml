@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Dart Weekly Trending</title>
+    <description>Weekly Trending of Dart in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:21:22 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>flutter/flutter</title>
+      <link>https://github.com/flutter/flutter</link>
+      <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond.</description>
+    </item>
+    
+    <item>
+      <title>mdanics/fluttergram</title>
+      <link>https://github.com/mdanics/fluttergram</link>
+      <description>A fully functional Instagram clone written in Flutter using Firebase / Firestore</description>
+    </item>
+    
+    <item>
+      <title>flutter/packages</title>
+      <link>https://github.com/flutter/packages</link>
+      <description>A collection of useful packages maintained by the Flutter team</description>
+    </item>
+    
+    <item>
+      <title>dart-lang/sdk</title>
+      <link>https://github.com/dart-lang/sdk</link>
+      <description>The Dart SDK, including the VM, dart2js, core libraries, and more.</description>
+    </item>
+    
+    <item>
+      <title>flutter/gallery</title>
+      <link>https://github.com/flutter/gallery</link>
+      <description>Flutter Gallery</description>
+    </item>
+    
+    <item>
+      <title>erluxman/awesomefluttertips</title>
+      <link>https://github.com/erluxman/awesomefluttertips</link>
+      <description>❤️Awesome Flutter ❤️ tips and tricks ❤️</description>
+    </item>
+    
+    <item>
+      <title>iampawan/FlutterExampleApps</title>
+      <link>https://github.com/iampawan/FlutterExampleApps</link>
+      <description>[Example APPS] Basic Flutter apps, for flutter devs.</description>
+    </item>
+    
+    <item>
+      <title>FilledStacks/flutter-tutorials</title>
+      <link>https://github.com/FilledStacks/flutter-tutorials</link>
+      <description>The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.</description>
+    </item>
+    
+    <item>
+      <title>flutter/plugins</title>
+      <link>https://github.com/flutter/plugins</link>
+      <description>Plugins for Flutter maintained by the Flutter team</description>
+    </item>
+    
+    <item>
+      <title>flutter/samples</title>
+      <link>https://github.com/flutter/samples</link>
+      <description>A collection of Flutter examples and demos.</description>
+    </item>
+    
+    <item>
+      <title>memspace/zefyr</title>
+      <link>https://github.com/memspace/zefyr</link>
+      <description>Soft and gentle rich text editing for Flutter applications.</description>
+    </item>
+    
+    <item>
+      <title>londonappbrewery/bitcoin-ticker-flutter</title>
+      <link>https://github.com/londonappbrewery/bitcoin-ticker-flutter</link>
+      <description>Starter code for the Bitcoin-Ticker challenge from the Complete Flutter Development Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>Idean/Flutter-Neumorphic</title>
+      <link>https://github.com/Idean/Flutter-Neumorphic</link>
+      <description>A complete, ready to use, Neumorphic ui kit for Flutter, 🕶️ dark mode compatible</description>
+    </item>
+    
+    <item>
+      <title>FirebaseExtended/flutterfire</title>
+      <link>https://github.com/FirebaseExtended/flutterfire</link>
+      <description>🔥 Firebase plugins for Flutter apps</description>
+    </item>
+    
+    <item>
+      <title>zino-app/graphql-flutter</title>
+      <link>https://github.com/zino-app/graphql-flutter</link>
+      <description>A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package.</description>
+    </item>
+    
+    <item>
+      <title>felangel/bloc</title>
+      <link>https://github.com/felangel/bloc</link>
+      <description>A predictable state management library that helps implement the BLoC design pattern</description>
+    </item>
+    
+    <item>
+      <title>flame-engine/flame</title>
+      <link>https://github.com/flame-engine/flame</link>
+      <description>A minimalist Flutter game engine</description>
+    </item>
+    
+    <item>
+      <title>rrousselGit/provider</title>
+      <link>https://github.com/rrousselGit/provider</link>
+      <description>InheritedWidgets, but simple</description>
+    </item>
+    
+    <item>
+      <title>mitesh77/Best-Flutter-UI-Templates</title>
+      <link>https://github.com/mitesh77/Best-Flutter-UI-Templates</link>
+      <description>completely free for everyone. Its build-in Flutter Dart.</description>
+    </item>
+    
+    <item>
+      <title>iampawan/FlutterWhatsAppClone</title>
+      <link>https://github.com/iampawan/FlutterWhatsAppClone</link>
+      <description>Building a WhatsApp Clone in Flutter.</description>
+    </item>
+    
+    <item>
+      <title>londonappbrewery/Navigation-Flutter-Demo</title>
+      <link>https://github.com/londonappbrewery/Navigation-Flutter-Demo</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MaikuB/flutter_local_notifications</title>
+      <link>https://github.com/MaikuB/flutter_local_notifications</link>
+      <description>A Flutter plugin for displaying local notifications on Android and iOS</description>
+    </item>
+    
+    <item>
+      <title>TheAlphamerc/flutter_ecommerce_app</title>
+      <link>https://github.com/TheAlphamerc/flutter_ecommerce_app</link>
+      <description>E-Commerce App built in flutter</description>
+    </item>
+    
+    <item>
+      <title>abuanwar072/eBook_app_Flutter</title>
+      <link>https://github.com/abuanwar072/eBook_app_Flutter</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>luanpotter/audioplayers</title>
+      <link>https://github.com/luanpotter/audioplayers</link>
+      <description>A Flutter plugin to play multiple audio files simultaneously (Android/iOS)</description>
+    </item>
+    
+  </channel>
+</rss>

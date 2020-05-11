@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Elixir Daily Trending</title>
+    <description>Daily Trending of Elixir in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:06:30 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>adriankumpf/teslamate</title>
+      <link>https://github.com/adriankumpf/teslamate</link>
+      <description>A self-hosted data logger for your Tesla 🚘</description>
+    </item>
+    
+    <item>
+      <title>phoenixframework/phoenix</title>
+      <link>https://github.com/phoenixframework/phoenix</link>
+      <description>Peace-of-mind from prototype to production</description>
+    </item>
+    
+    <item>
+      <title>thoughtbot/ex_machina</title>
+      <link>https://github.com/thoughtbot/ex_machina</link>
+      <description>Create test data for Elixir applications</description>
+    </item>
+    
+    <item>
+      <title>dashbitco/nimble_options</title>
+      <link>https://github.com/dashbitco/nimble_options</link>
+      <description>A tiny library for validating and documenting high-level options</description>
+    </item>
+    
+  </channel>
+</rss>

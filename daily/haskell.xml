@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Haskell Daily Trending</title>
+    <description>Daily Trending of Haskell in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:08:28 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pkamenarsky/knit</title>
+      <link>https://github.com/pkamenarsky/knit</link>
+      <description>Ties the knot on data structures that reference each other by unique keys</description>
+    </item>
+    
+    <item>
+      <title>SimulaVR/Simula</title>
+      <link>https://github.com/SimulaVR/Simula</link>
+      <description>Linux VR Desktop</description>
+    </item>
+    
+    <item>
+      <title>diku-dk/futhark</title>
+      <link>https://github.com/diku-dk/futhark</link>
+      <description>💥💻💥 A data-parallel functional programming language</description>
+    </item>
+    
+    <item>
+      <title>tweag/asterius</title>
+      <link>https://github.com/tweag/asterius</link>
+      <description>A Haskell to WebAssembly compiler</description>
+    </item>
+    
+    <item>
+      <title>jgm/pandoc</title>
+      <link>https://github.com/jgm/pandoc</link>
+      <description>Universal markup converter</description>
+    </item>
+    
+    <item>
+      <title>haskell/haskell-ide-engine</title>
+      <link>https://github.com/haskell/haskell-ide-engine</link>
+      <description>The engine for haskell ide-integration. Not an IDE</description>
+    </item>
+    
+    <item>
+      <title>ndmitchell/shake</title>
+      <link>https://github.com/ndmitchell/shake</link>
+      <description>Shake build system</description>
+    </item>
+    
+    <item>
+      <title>DanielG/cabal-helper</title>
+      <link>https://github.com/DanielG/cabal-helper</link>
+      <description>Give Haskell development tools access to Cabal project environment.</description>
+    </item>
+    
+  </channel>
+</rss>

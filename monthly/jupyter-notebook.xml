@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Jupyter Notebook Monthly Trending</title>
+    <description>Monthly Trending of Jupyter Notebook in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:39:47 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Pierian-Data/Complete-Python-3-Bootcamp</title>
+      <link>https://github.com/Pierian-Data/Complete-Python-3-Bootcamp</link>
+      <description>Course Files for Complete Python 3 Bootcamp Course on Udemy</description>
+    </item>
+    
+    <item>
+      <title>CoreyMSchafer/code_snippets</title>
+      <link>https://github.com/CoreyMSchafer/code_snippets</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ageron/handson-ml2</title>
+      <link>https://github.com/ageron/handson-ml2</link>
+      <description>A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.</description>
+    </item>
+    
+    <item>
+      <title>UCSD-AI4H/COVID-CT</title>
+      <link>https://github.com/UCSD-AI4H/COVID-CT</link>
+      <description>COVID-CT-Dataset: A CT Scan Dataset about COVID-19</description>
+    </item>
+    
+    <item>
+      <title>jackfrued/Python-100-Days</title>
+      <link>https://github.com/jackfrued/Python-100-Days</link>
+      <description>Python - 100天从新手到大师</description>
+    </item>
+    
+    <item>
+      <title>microsoft/c9-python-getting-started</title>
+      <link>https://github.com/microsoft/c9-python-getting-started</link>
+      <description>Sample code for Channel 9 Python for Beginners course</description>
+    </item>
+    
+    <item>
+      <title>graykode/nlp-tutorial</title>
+      <link>https://github.com/graykode/nlp-tutorial</link>
+      <description>Natural Language Processing Tutorial for Deep Learning Researchers</description>
+    </item>
+    
+    <item>
+      <title>jakevdp/PythonDataScienceHandbook</title>
+      <link>https://github.com/jakevdp/PythonDataScienceHandbook</link>
+      <description>Python Data Science Handbook: full text in Jupyter Notebooks</description>
+    </item>
+    
+    <item>
+      <title>Kulbear/deep-learning-coursera</title>
+      <link>https://github.com/Kulbear/deep-learning-coursera</link>
+      <description>Deep Learning Specialization by Andrew Ng on Coursera.</description>
+    </item>
+    
+    <item>
+      <title>lmoroney/dlaicourse</title>
+      <link>https://github.com/lmoroney/dlaicourse</link>
+      <description>Notebooks for learning deep learning</description>
+    </item>
+    
+    <item>
+      <title>ultralytics/yolov3</title>
+      <link>https://github.com/ultralytics/yolov3</link>
+      <description>YOLOv3 in PyTorch &gt; ONNX &gt; CoreML &gt; iOS</description>
+    </item>
+    
+    <item>
+      <title>GoogleCloudPlatform/training-data-analyst</title>
+      <link>https://github.com/GoogleCloudPlatform/training-data-analyst</link>
+      <description>Labs and demos for courses for GCP Training (http://cloud.google.com/training).</description>
+    </item>
+    
+    <item>
+      <title>WillKoehrsen/Data-Analysis</title>
+      <link>https://github.com/WillKoehrsen/Data-Analysis</link>
+      <description>Data Science Using Python</description>
+    </item>
+    
+    <item>
+      <title>udacity/deep-reinforcement-learning</title>
+      <link>https://github.com/udacity/deep-reinforcement-learning</link>
+      <description>Repo for the Deep Reinforcement Learning Nanodegree program</description>
+    </item>
+    
+    <item>
+      <title>jeffheaton/t81_558_deep_learning</title>
+      <link>https://github.com/jeffheaton/t81_558_deep_learning</link>
+      <description>Washington University (in St. Louis) Course T81-558: Applications of Deep Neural Networks</description>
+    </item>
+    
+    <item>
+      <title>MinCiencia/Datos-COVID19</title>
+      <link>https://github.com/MinCiencia/Datos-COVID19</link>
+      <description>En formato estándar</description>
+    </item>
+    
+    <item>
+      <title>AtsushiSakai/PythonRobotics</title>
+      <link>https://github.com/AtsushiSakai/PythonRobotics</link>
+      <description>Python sample codes for robotics algorithms.</description>
+    </item>
+    
+    <item>
+      <title>justmarkham/scikit-learn-tips</title>
+      <link>https://github.com/justmarkham/scikit-learn-tips</link>
+      <description>🤖⚡ Daily scikit-learn tips</description>
+    </item>
+    
+    <item>
+      <title>adashofdata/nlp-in-python-tutorial</title>
+      <link>https://github.com/adashofdata/nlp-in-python-tutorial</link>
+      <description>comparing stand up comedians using natural language processing</description>
+    </item>
+    
+    <item>
+      <title>selfteaching/the-craft-of-selfteaching</title>
+      <link>https://github.com/selfteaching/the-craft-of-selfteaching</link>
+      <description>One has no future if one couldn&#39;t teach themself.</description>
+    </item>
+    
+    <item>
+      <title>fchollet/deep-learning-with-python-notebooks</title>
+      <link>https://github.com/fchollet/deep-learning-with-python-notebooks</link>
+      <description>Jupyter notebooks for the code samples of the book &quot;Deep Learning with Python&quot;</description>
+    </item>
+    
+    <item>
+      <title>dibgerge/ml-coursera-python-assignments</title>
+      <link>https://github.com/dibgerge/ml-coursera-python-assignments</link>
+      <description>Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions.</description>
+    </item>
+    
+    <item>
+      <title>codingforentrepreneurs/30-Days-of-Python</title>
+      <link>https://github.com/codingforentrepreneurs/30-Days-of-Python</link>
+      <description>A New Version of 30 Days of Python is nearly here. Get started today.</description>
+    </item>
+    
+    <item>
+      <title>IBM/skillsnetwork</title>
+      <link>https://github.com/IBM/skillsnetwork</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>codebasics/py</title>
+      <link>https://github.com/codebasics/py</link>
+      <description>Repository to store sample python programs for python learning</description>
+    </item>
+    
+  </channel>
+</rss>

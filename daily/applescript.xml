@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub AppleScript Daily Trending</title>
+    <description>Daily Trending of AppleScript in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:03:56 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>vitorgalvao/custom-alfred-iterm-scripts</title>
+      <link>https://github.com/vitorgalvao/custom-alfred-iterm-scripts</link>
+      <description>AppleScript for iTerm2 Alfred integration.</description>
+    </item>
+    
+  </channel>
+</rss>

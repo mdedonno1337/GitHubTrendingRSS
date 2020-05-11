@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub HCL Monthly Trending</title>
+    <description>Monthly Trending of HCL in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:38:28 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-eks</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
+      <description>Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS</description>
+    </item>
+    
+    <item>
+      <title>pablokbs/peladonerd</title>
+      <link>https://github.com/pablokbs/peladonerd</link>
+      <description>Repo con los archivos que uso para mi videos en youtube</description>
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-vpc</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
+      <description>Terraform module which creates VPC resources on AWS</description>
+    </item>
+    
+    <item>
+      <title>terraform-google-modules/terraform-google-network</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-network</link>
+      <description>A Terraform module that makes it easy to set up a new VPC Network in GCP.</description>
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-rds</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-rds</link>
+      <description>Terraform module which creates RDS resources on AWS</description>
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-s3-bucket</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
+      <description>Terraform module which creates S3 bucket resources on AWS</description>
+    </item>
+    
+    <item>
+      <title>openshift/okd</title>
+      <link>https://github.com/openshift/okd</link>
+      <description>The self-managing, auto-upgrading, Kubernetes distribution for everyone</description>
+    </item>
+    
+    <item>
+      <title>hashicorp/terraform-guides</title>
+      <link>https://github.com/hashicorp/terraform-guides</link>
+      <description>Example usage of HashiCorp Terraform</description>
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-security-group</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-security-group</link>
+      <description>Terraform module which creates EC2-VPC security groups on AWS</description>
+    </item>
+    
+    <item>
+      <title>ned1313/Getting-Started-Terraform</title>
+      <link>https://github.com/ned1313/Getting-Started-Terraform</link>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

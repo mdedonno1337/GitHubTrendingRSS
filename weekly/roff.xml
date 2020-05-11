@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Roff Weekly Trending</title>
+    <description>Weekly Trending of Roff in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:29:27 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>awslabs/amazon-redshift-utils</title>
+      <link>https://github.com/awslabs/amazon-redshift-utils</link>
+      <description>Amazon Redshift Utils contains utilities, scripts and view which are useful in a Redshift environment</description>
+    </item>
+    
+    <item>
+      <title>lydrainbowcat/tedukuri</title>
+      <link>https://github.com/lydrainbowcat/tedukuri</link>
+      <description>《算法竞赛进阶指南》资源社区</description>
+    </item>
+    
+  </channel>
+</rss>

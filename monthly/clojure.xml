@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Clojure Monthly Trending</title>
+    <description>Monthly Trending of Clojure in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:35:23 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>borkdude/babashka</title>
+      <link>https://github.com/borkdude/babashka</link>
+      <description>A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)</description>
+    </item>
+    
+    <item>
+      <title>overtone/overtone</title>
+      <link>https://github.com/overtone/overtone</link>
+      <description>Collaborative Programmable Music</description>
+    </item>
+    
+    <item>
+      <title>day8/re-frame</title>
+      <link>https://github.com/day8/re-frame</link>
+      <description>A Reagent Framework For Writing SPAs, in Clojurescript.</description>
+    </item>
+    
+    <item>
+      <title>clojure/clojurescript</title>
+      <link>https://github.com/clojure/clojurescript</link>
+      <description>Clojure to JS compiler</description>
+    </item>
+    
+    <item>
+      <title>reagent-project/reagent</title>
+      <link>https://github.com/reagent-project/reagent</link>
+      <description>A minimalistic ClojureScript interface to React.js</description>
+    </item>
+    
+    <item>
+      <title>tonsky/FiraCode</title>
+      <link>https://github.com/tonsky/FiraCode</link>
+      <description>Free monospaced font with programming ligatures</description>
+    </item>
+    
+  </channel>
+</rss>

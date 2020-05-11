@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub All Languages Daily Trending</title>
+    <description>Daily Trending of All Languages in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:03:06 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>CMU-Perceptual-Computing-Lab/openpose</title>
+      <link>https://github.com/CMU-Perceptual-Computing-Lab/openpose</link>
+      <description>OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation</description>
+    </item>
+    
+    <item>
+      <title>Light-City/CPlusPlusThings</title>
+      <link>https://github.com/Light-City/CPlusPlusThings</link>
+      <description>C++那些事</description>
+    </item>
+    
+    <item>
+      <title>yuzu-emu/yuzu</title>
+      <link>https://github.com/yuzu-emu/yuzu</link>
+      <description>Nintendo Switch Emulator</description>
+    </item>
+    
+    <item>
+      <title>AU-COVIDSafe/mobile-ios</title>
+      <link>https://github.com/AU-COVIDSafe/mobile-ios</link>
+      <description>COVIDSafe IOS app</description>
+    </item>
+    
+    <item>
+      <title>AU-COVIDSafe/mobile-android</title>
+      <link>https://github.com/AU-COVIDSafe/mobile-android</link>
+      <description>COVIDSafe android app</description>
+    </item>
+    
+    <item>
+      <title>sm64pc/sm64pc</title>
+      <link>https://github.com/sm64pc/sm64pc</link>
+      <description>OpenGL adaptation of n64decomp/sm64.</description>
+    </item>
+    
+    <item>
+      <title>denoland/deno</title>
+      <link>https://github.com/denoland/deno</link>
+      <description>A secure JavaScript and TypeScript runtime</description>
+    </item>
+    
+    <item>
+      <title>xkcoding/spring-boot-demo</title>
+      <link>https://github.com/xkcoding/spring-boot-demo</link>
+      <description>spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…</description>
+    </item>
+    
+    <item>
+      <title>donnemartin/system-design-primer</title>
+      <link>https://github.com/donnemartin/system-design-primer</link>
+      <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
+    </item>
+    
+    <item>
+      <title>Pierian-Data/Complete-Python-3-Bootcamp</title>
+      <link>https://github.com/Pierian-Data/Complete-Python-3-Bootcamp</link>
+      <description>Course Files for Complete Python 3 Bootcamp Course on Udemy</description>
+    </item>
+    
+    <item>
+      <title>stjepang/smol</title>
+      <link>https://github.com/stjepang/smol</link>
+      <description>A small and fast async runtime for Rust</description>
+    </item>
+    
+    <item>
+      <title>xuxueli/xxl-job</title>
+      <link>https://github.com/xuxueli/xxl-job</link>
+      <description>A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）</description>
+    </item>
+    
+    <item>
+      <title>async-graphql/async-graphql</title>
+      <link>https://github.com/async-graphql/async-graphql</link>
+      <description>The GraphQL server library implemented by rust</description>
+    </item>
+    
+    <item>
+      <title>luruke/browser-2020</title>
+      <link>https://github.com/luruke/browser-2020</link>
+      <description>Things you can do with a browser in 2020 ☕️</description>
+    </item>
+    
+    <item>
+      <title>tjnull/TJ-JPT</title>
+      <link>https://github.com/tjnull/TJ-JPT</link>
+      <description>This repo contains my pentesting template that I have used in PWK and for current assessments. The template has been formatted to be used in Joplin</description>
+    </item>
+    
+    <item>
+      <title>tannerlinsley/react-virtual</title>
+      <link>https://github.com/tannerlinsley/react-virtual</link>
+      <description>⚛️ Hooks for virtualizing scrollable elements in React</description>
+    </item>
+    
+    <item>
+      <title>d2l-ai/d2l-en</title>
+      <link>https://github.com/d2l-ai/d2l-en</link>
+      <description>An interactive deep learning book with code, math, and discussions, based on the NumPy interface.</description>
+    </item>
+    
+    <item>
+      <title>nhsx/COVID-19-app-iOS-BETA</title>
+      <link>https://github.com/nhsx/COVID-19-app-iOS-BETA</link>
+      <description>Source code of the Beta of the NHS COVID-19 iOS app</description>
+    </item>
+    
+    <item>
+      <title>chuzhixin/vue-admin-beautiful</title>
+      <link>https://github.com/chuzhixin/vue-admin-beautiful</link>
+      <description>vue-admin-beautiful是一款绝佳的前端开发框架（同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力</description>
+    </item>
+    
+    <item>
+      <title>nhsx/COVID-19-app-Android-BETA</title>
+      <link>https://github.com/nhsx/COVID-19-app-Android-BETA</link>
+      <description>Source code of the Beta of the NHS COVID-19 Android app</description>
+    </item>
+    
+    <item>
+      <title>google/eng-practices</title>
+      <link>https://github.com/google/eng-practices</link>
+      <description>Google&#39;s Engineering Practices documentation</description>
+    </item>
+    
+    <item>
+      <title>pycaret/pycaret</title>
+      <link>https://github.com/pycaret/pycaret</link>
+      <description>An open source, low-code machine learning library in Python</description>
+    </item>
+    
+    <item>
+      <title>coolsnowwolf/lede</title>
+      <link>https://github.com/coolsnowwolf/lede</link>
+      <description>Lean&#39;s OpenWrt source</description>
+    </item>
+    
+    <item>
+      <title>vueComponent/ant-design-vue-pro</title>
+      <link>https://github.com/vueComponent/ant-design-vue-pro</link>
+      <description>👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CMake Monthly Trending</title>
+    <description>Monthly Trending of CMake in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:35:29 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft/vcpkg</title>
+      <link>https://github.com/microsoft/vcpkg</link>
+      <description>C++ Library Manager for Windows, Linux, and MacOS</description>
+    </item>
+    
+    <item>
+      <title>wzpan/cmake-demo</title>
+      <link>https://github.com/wzpan/cmake-demo</link>
+      <description>《CMake入门实战》源码</description>
+    </item>
+    
+    <item>
+      <title>mavlink/mavlink</title>
+      <link>https://github.com/mavlink/mavlink</link>
+      <description>Marshalling / communication library for drones.</description>
+    </item>
+    
+  </channel>
+</rss>

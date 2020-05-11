@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub AutoHotkey Daily Trending</title>
+    <description>Daily Trending of AutoHotkey in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:04:12 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>TaranVH/2nd-keyboard</title>
+      <link>https://github.com/TaranVH/2nd-keyboard</link>
+      <description>ALL of Taran&#39;s scripts - not just for the 2nd keyboard.</description>
+    </item>
+    
+  </channel>
+</rss>

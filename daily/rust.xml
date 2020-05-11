@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rust Daily Trending</title>
+    <description>Daily Trending of Rust in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:14:54 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>async-graphql/async-graphql</title>
+      <link>https://github.com/async-graphql/async-graphql</link>
+      <description>The GraphQL server library implemented by rust</description>
+    </item>
+    
+    <item>
+      <title>stjepang/smol</title>
+      <link>https://github.com/stjepang/smol</link>
+      <description>A small and fast async runtime for Rust</description>
+    </item>
+    
+    <item>
+      <title>libra/libra</title>
+      <link>https://github.com/libra/libra</link>
+      <description>Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/rust</title>
+      <link>https://github.com/rust-lang/rust</link>
+      <description>Empowering everyone to build reliable and efficient software.</description>
+    </item>
+    
+    <item>
+      <title>imazen/imageflow</title>
+      <link>https://github.com/imazen/imageflow</link>
+      <description>High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow</description>
+    </item>
+    
+    <item>
+      <title>gleam-lang/gleam</title>
+      <link>https://github.com/gleam-lang/gleam</link>
+      <description>⭐️ A statically typed language for the Erlang VM</description>
+    </item>
+    
+    <item>
+      <title>yewstack/yew</title>
+      <link>https://github.com/yewstack/yew</link>
+      <description>Rust / Wasm framework for building client web apps</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/rustlings</title>
+      <link>https://github.com/rust-lang/rustlings</link>
+      <description>🦀 Small exercises to get you used to reading and writing Rust code!</description>
+    </item>
+    
+    <item>
+      <title>cloudflare/quiche</title>
+      <link>https://github.com/cloudflare/quiche</link>
+      <description>🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</description>
+    </item>
+    
+    <item>
+      <title>matheuslessarodrigues/verco</title>
+      <link>https://github.com/matheuslessarodrigues/verco</link>
+      <description>A simple Git/Hg tui client focused on keyboard shortcuts</description>
+    </item>
+    
+    <item>
+      <title>tokio-rs/tokio</title>
+      <link>https://github.com/tokio-rs/tokio</link>
+      <description>A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</description>
+    </item>
+    
+    <item>
+      <title>shadowsocks/shadowsocks-rust</title>
+      <link>https://github.com/shadowsocks/shadowsocks-rust</link>
+      <description>A Rust port of shadowsocks</description>
+    </item>
+    
+    <item>
+      <title>graphql-rust/juniper</title>
+      <link>https://github.com/graphql-rust/juniper</link>
+      <description>GraphQL server library for Rust</description>
+    </item>
+    
+    <item>
+      <title>meilisearch/MeiliSearch</title>
+      <link>https://github.com/meilisearch/MeiliSearch</link>
+      <description>Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine</description>
+    </item>
+    
+    <item>
+      <title>http-rs/tide</title>
+      <link>https://github.com/http-rs/tide</link>
+      <description>Fast and friendly HTTP server framework for async Rust</description>
+    </item>
+    
+    <item>
+      <title>nushell/nushell</title>
+      <link>https://github.com/nushell/nushell</link>
+      <description>A new type of shell</description>
+    </item>
+    
+    <item>
+      <title>dani-garcia/bitwarden_rs</title>
+      <link>https://github.com/dani-garcia/bitwarden_rs</link>
+      <description>Unofficial Bitwarden compatible server written in Rust</description>
+    </item>
+    
+    <item>
+      <title>async-rs/async-std</title>
+      <link>https://github.com/async-rs/async-std</link>
+      <description>Async version of the Rust standard library</description>
+    </item>
+    
+    <item>
+      <title>bytecodealliance/wasmtime</title>
+      <link>https://github.com/bytecodealliance/wasmtime</link>
+      <description>Standalone JIT-style runtime for WebAssembly, using Cranelift</description>
+    </item>
+    
+    <item>
+      <title>launchbadge/sqlx</title>
+      <link>https://github.com/launchbadge/sqlx</link>
+      <description>🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.</description>
+    </item>
+    
+    <item>
+      <title>denoland/rusty_v8</title>
+      <link>https://github.com/denoland/rusty_v8</link>
+      <description>V8 javascript bindings for Rust</description>
+    </item>
+    
+    <item>
+      <title>996icu/996.ICU</title>
+      <link>https://github.com/996icu/996.ICU</link>
+      <description>Repo for counting stars and contributing. Press F to pay respect to glorious developers.</description>
+    </item>
+    
+    <item>
+      <title>pingcap/talent-plan</title>
+      <link>https://github.com/pingcap/talent-plan</link>
+      <description>open source training courses about distributed systems and distributed systemes</description>
+    </item>
+    
+    <item>
+      <title>timberio/vector</title>
+      <link>https://github.com/timberio/vector</link>
+      <description>A lightweight and ultra-fast tool for building observability pipelines</description>
+    </item>
+    
+    <item>
+      <title>serde-rs/json</title>
+      <link>https://github.com/serde-rs/json</link>
+      <description>Strongly typed JSON library for Rust</description>
+    </item>
+    
+  </channel>
+</rss>

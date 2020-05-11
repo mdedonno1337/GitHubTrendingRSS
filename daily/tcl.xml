@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Tcl Daily Trending</title>
+    <description>Daily Trending of Tcl in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:16:16 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>antirez/tclircd</title>
+      <link>https://github.com/antirez/tclircd</link>
+      <description>An IRC server I wrote in 2004 for fun, using the Tcl language.</description>
+    </item>
+    
+  </channel>
+</rss>

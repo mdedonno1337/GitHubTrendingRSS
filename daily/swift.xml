@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Swift Daily Trending</title>
+    <description>Daily Trending of Swift in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:16:02 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>AU-COVIDSafe/mobile-ios</title>
+      <link>https://github.com/AU-COVIDSafe/mobile-ios</link>
+      <description>COVIDSafe IOS app</description>
+    </item>
+    
+    <item>
+      <title>appbrewery/Dicee-iOS13</title>
+      <link>https://github.com/appbrewery/Dicee-iOS13</link>
+      <description>Learn to Code While Building Apps - The Complete iOS Development Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>TelegramMessenger/Telegram-iOS</title>
+      <link>https://github.com/TelegramMessenger/Telegram-iOS</link>
+      <description>Telegram-iOS</description>
+    </item>
+    
+    <item>
+      <title>yichengchen/clashX</title>
+      <link>https://github.com/yichengchen/clashX</link>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stephencelis/SQLite.swift</title>
+      <link>https://github.com/stephencelis/SQLite.swift</link>
+      <description>A type-safe, Swift-language layer over SQLite3.</description>
+    </item>
+    
+    <item>
+      <title>airbnb/lottie-ios</title>
+      <link>https://github.com/airbnb/lottie-ios</link>
+      <description>An iOS library to natively render After Effects vector animations</description>
+    </item>
+    
+    <item>
+      <title>rileytestut/AltStore</title>
+      <link>https://github.com/rileytestut/AltStore</link>
+      <description>AltStore is an alternative app store for non-jailbroken iOS devices.</description>
+    </item>
+    
+    <item>
+      <title>BohdanOrlov/iOS-Developer-Roadmap</title>
+      <link>https://github.com/BohdanOrlov/iOS-Developer-Roadmap</link>
+      <description>Roadmap to becoming an iOS developer in 2018.</description>
+    </item>
+    
+    <item>
+      <title>Moya/Moya</title>
+      <link>https://github.com/Moya/Moya</link>
+      <description>Network abstraction layer written in Swift.</description>
+    </item>
+    
+    <item>
+      <title>SwiftOldDriver/iOS-Weekly</title>
+      <link>https://github.com/SwiftOldDriver/iOS-Weekly</link>
+      <description>🇨🇳 老司机 iOS 周报</description>
+    </item>
+    
+    <item>
+      <title>Alamofire/Alamofire</title>
+      <link>https://github.com/Alamofire/Alamofire</link>
+      <description>Elegant HTTP Networking in Swift</description>
+    </item>
+    
+    <item>
+      <title>apple/swift-format</title>
+      <link>https://github.com/apple/swift-format</link>
+      <description>Formatting technology for Swift source code</description>
+    </item>
+    
+    <item>
+      <title>huri000/SwiftEntryKit</title>
+      <link>https://github.com/huri000/SwiftEntryKit</link>
+      <description>SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.</description>
+    </item>
+    
+    <item>
+      <title>LeoMobileDeveloper/ios-developer-tools</title>
+      <link>https://github.com/LeoMobileDeveloper/ios-developer-tools</link>
+      <description>Tools that every iOS developer should know.</description>
+    </item>
+    
+    <item>
+      <title>coteditor/CotEditor</title>
+      <link>https://github.com/coteditor/CotEditor</link>
+      <description>Lightweight Plain-Text Editor for macOS</description>
+    </item>
+    
+    <item>
+      <title>vapor/vapor</title>
+      <link>https://github.com/vapor/vapor</link>
+      <description>💧 A server-side Swift web framework.</description>
+    </item>
+    
+    <item>
+      <title>HeroTransitions/Hero</title>
+      <link>https://github.com/HeroTransitions/Hero</link>
+      <description>Elegant transition library for iOS &amp; tvOS</description>
+    </item>
+    
+    <item>
+      <title>appbrewery/Xylophone-iOS13</title>
+      <link>https://github.com/appbrewery/Xylophone-iOS13</link>
+      <description>Learn to Code While Building Apps - The Complete iOS Development Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>SCENEE/FloatingPanel</title>
+      <link>https://github.com/SCENEE/FloatingPanel</link>
+      <description>A clean and easy-to-use floating panel UI component for iOS</description>
+    </item>
+    
+    <item>
+      <title>fullstackio/FlappySwift</title>
+      <link>https://github.com/fullstackio/FlappySwift</link>
+      <description>swift implementation of flappy bird. More at fullstackedu.com</description>
+    </item>
+    
+    <item>
+      <title>dkhamsing/open-source-ios-apps</title>
+      <link>https://github.com/dkhamsing/open-source-ios-apps</link>
+      <description>📱 Collaborative List of Open-Source iOS Apps</description>
+    </item>
+    
+    <item>
+      <title>cormiertyshawn895/Retroactive</title>
+      <link>https://github.com/cormiertyshawn895/Retroactive</link>
+      <description>Run Aperture, iPhoto, and iTunes on macOS Catalina. Xcode 11.4.1 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS High Sierra.</description>
+    </item>
+    
+    <item>
+      <title>appbrewery/AutoLayout-iOS13</title>
+      <link>https://github.com/appbrewery/AutoLayout-iOS13</link>
+      <description>Learn to Code While Building Apps - The Complete iOS Development Bootcamp</description>
+    </item>
+    
+    <item>
+      <title>PopcornTimeTV/PopcornTimeTV</title>
+      <link>https://github.com/PopcornTimeTV/PopcornTimeTV</link>
+      <description>Popcorn Time for Apple TV 4, iPhone and iPad</description>
+    </item>
+    
+    <item>
+      <title>apple/sourcekit-lsp</title>
+      <link>https://github.com/apple/sourcekit-lsp</link>
+      <description>Language Server Protocol implementation for Swift and C-based languages</description>
+    </item>
+    
+  </channel>
+</rss>

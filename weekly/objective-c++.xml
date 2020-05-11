@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Objective-C++ Weekly Trending</title>
+    <description>Weekly Trending of Objective-C++ in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:27:07 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>KhronosGroup/MoltenVK</title>
+      <link>https://github.com/KhronosGroup/MoltenVK</link>
+      <description>MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple&#39;s Metal graphics framework, enabling Vulkan applications to run on iOS and macOS.</description>
+    </item>
+    
+    <item>
+      <title>phonegap/phonegap-plugin-barcodescanner</title>
+      <link>https://github.com/phonegap/phonegap-plugin-barcodescanner</link>
+      <description>cross-platform BarcodeScanner for Cordova / PhoneGap</description>
+    </item>
+    
+    <item>
+      <title>cedarbdd/cedar</title>
+      <link>https://github.com/cedarbdd/cedar</link>
+      <description>BDD-style testing using Objective-C</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Python Monthly Trending</title>
+    <description>Monthly Trending of Python in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:43:34 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>CorentinJ/Real-Time-Voice-Cloning</title>
+      <link>https://github.com/CorentinJ/Real-Time-Voice-Cloning</link>
+      <description>Clone a voice in 5 seconds to generate arbitrary speech in real-time</description>
+    </item>
+    
+    <item>
+      <title>alexgand/springer_free_books</title>
+      <link>https://github.com/alexgand/springer_free_books</link>
+      <description>Python script to download all Springer books released for free during the 2020 COVID-19 quarantine</description>
+    </item>
+    
+    <item>
+      <title>vt-vl-lab/3d-photo-inpainting</title>
+      <link>https://github.com/vt-vl-lab/3d-photo-inpainting</link>
+      <description>[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting</description>
+    </item>
+    
+    <item>
+      <title>lazyprogrammer/machine_learning_examples</title>
+      <link>https://github.com/lazyprogrammer/machine_learning_examples</link>
+      <description>A collection of machine learning examples and tutorials.</description>
+    </item>
+    
+    <item>
+      <title>alievk/avatarify</title>
+      <link>https://github.com/alievk/avatarify</link>
+      <description>Avatars for Zoom, Skype and other video-conferencing apps.</description>
+    </item>
+    
+    <item>
+      <title>ytdl-org/youtube-dl</title>
+      <link>https://github.com/ytdl-org/youtube-dl</link>
+      <description>Command-line program to download videos from YouTube.com and other video sites</description>
+    </item>
+    
+    <item>
+      <title>owid/covid-19-data</title>
+      <link>https://github.com/owid/covid-19-data</link>
+      <description>Data on COVID-19 (coronavirus) confirmed cases, deaths, and tests • All countries • Updated daily by Our World in Data</description>
+    </item>
+    
+    <item>
+      <title>timgrossmann/InstaPy</title>
+      <link>https://github.com/timgrossmann/InstaPy</link>
+      <description>📷 Instagram Bot - Tool for automated Instagram interactions</description>
+    </item>
+    
+    <item>
+      <title>twintproject/twint</title>
+      <link>https://github.com/twintproject/twint</link>
+      <description>An advanced Twitter scraping &amp; OSINT tool written in Python that doesn&#39;t use Twitter&#39;s API, allowing you to scrape a user&#39;s followers, following, Tweets and more while evading most API limitations.</description>
+    </item>
+    
+    <item>
+      <title>facebookresearch/ParlAI</title>
+      <link>https://github.com/facebookresearch/ParlAI</link>
+      <description>A framework for training and evaluating AI models on a variety of openly available dialogue datasets.</description>
+    </item>
+    
+    <item>
+      <title>shengqiangzhang/examples-of-web-crawlers</title>
+      <link>https://github.com/shengqiangzhang/examples-of-web-crawlers</link>
+      <description>一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )</description>
+    </item>
+    
+    <item>
+      <title>donnemartin/system-design-primer</title>
+      <link>https://github.com/donnemartin/system-design-primer</link>
+      <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
+    </item>
+    
+    <item>
+      <title>ifzhang/FairMOT</title>
+      <link>https://github.com/ifzhang/FairMOT</link>
+      <description>A simple baseline for one-shot multi-object tracking</description>
+    </item>
+    
+    <item>
+      <title>senguptaumd/Background-Matting</title>
+      <link>https://github.com/senguptaumd/Background-Matting</link>
+      <description>Background Matting: The World is Your Green Screen</description>
+    </item>
+    
+    <item>
+      <title>saltstack/salt</title>
+      <link>https://github.com/saltstack/salt</link>
+      <description>Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:</description>
+    </item>
+    
+    <item>
+      <title>Pure-L0G1C/Instagram</title>
+      <link>https://github.com/Pure-L0G1C/Instagram</link>
+      <description>Bruteforce attack for Instagram</description>
+    </item>
+    
+    <item>
+      <title>public-apis/public-apis</title>
+      <link>https://github.com/public-apis/public-apis</link>
+      <description>A collective list of free APIs for use in software and web development.</description>
+    </item>
+    
+    <item>
+      <title>mirumee/saleor</title>
+      <link>https://github.com/mirumee/saleor</link>
+      <description>A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.</description>
+    </item>
+    
+    <item>
+      <title>corpnewt/gibMacOS</title>
+      <link>https://github.com/corpnewt/gibMacOS</link>
+      <description>Py2/py3 script that can download macOS components direct from Apple</description>
+    </item>
+    
+    <item>
+      <title>mnielsen/neural-networks-and-deep-learning</title>
+      <link>https://github.com/mnielsen/neural-networks-and-deep-learning</link>
+      <description>Code samples for my book &quot;Neural Networks and Deep Learning&quot;</description>
+    </item>
+    
+    <item>
+      <title>TheAlgorithms/Python</title>
+      <link>https://github.com/TheAlgorithms/Python</link>
+      <description>All Algorithms implemented in Python</description>
+    </item>
+    
+    <item>
+      <title>TheSpeedX/TBomb</title>
+      <link>https://github.com/TheSpeedX/TBomb</link>
+      <description>This is a SMS And Call Bomber For Linux And Termux</description>
+    </item>
+    
+    <item>
+      <title>swisskyrepo/PayloadsAllTheThings</title>
+      <link>https://github.com/swisskyrepo/PayloadsAllTheThings</link>
+      <description>A list of useful payloads and bypass for Web Application Security and Pentest/CTF</description>
+    </item>
+    
+    <item>
+      <title>vinta/awesome-python</title>
+      <link>https://github.com/vinta/awesome-python</link>
+      <description>A curated list of awesome Python frameworks, libraries, software and resources</description>
+    </item>
+    
+    <item>
+      <title>PyTorchLightning/pytorch-lightning</title>
+      <link>https://github.com/PyTorchLightning/pytorch-lightning</link>
+      <description>The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate</description>
+    </item>
+    
+  </channel>
+</rss>

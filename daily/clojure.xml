@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Clojure Daily Trending</title>
+    <description>Daily Trending of Clojure in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:05:04 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>athensresearch/athens</title>
+      <link>https://github.com/athensresearch/athens</link>
+      <description>Open-Source Roam</description>
+    </item>
+    
+    <item>
+      <title>borkdude/clj-kondo</title>
+      <link>https://github.com/borkdude/clj-kondo</link>
+      <description>A linter for Clojure code that sparks joy.</description>
+    </item>
+    
+    <item>
+      <title>borkdude/babashka</title>
+      <link>https://github.com/borkdude/babashka</link>
+      <description>A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)</description>
+    </item>
+    
+    <item>
+      <title>tonsky/FiraCode</title>
+      <link>https://github.com/tonsky/FiraCode</link>
+      <description>Free monospaced font with programming ligatures</description>
+    </item>
+    
+    <item>
+      <title>thheller/shadow-cljs</title>
+      <link>https://github.com/thheller/shadow-cljs</link>
+      <description>ClojureScript compilation made easy</description>
+    </item>
+    
+    <item>
+      <title>metabase/metabase</title>
+      <link>https://github.com/metabase/metabase</link>
+      <description>The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋</description>
+    </item>
+    
+  </channel>
+</rss>

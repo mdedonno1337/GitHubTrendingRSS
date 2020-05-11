@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PLpgSQL Weekly Trending</title>
+    <description>Weekly Trending of PLpgSQL in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:28:02 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>datacharmer/test_db</title>
+      <link>https://github.com/datacharmer/test_db</link>
+      <description>A sample MySQL database with an integrated test suite, used to test your applications and database servers</description>
+    </item>
+    
+    <item>
+      <title>digoal/blog</title>
+      <link>https://github.com/digoal/blog</link>
+      <description>Everything about database,bussiness.(Most for PostgreSQL).</description>
+    </item>
+    
+  </channel>
+</rss>

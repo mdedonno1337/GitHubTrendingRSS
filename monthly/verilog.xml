@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Verilog Monthly Trending</title>
+    <description>Monthly Trending of Verilog in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:47:02 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>cliffordwolf/picorv32</title>
+      <link>https://github.com/cliffordwolf/picorv32</link>
+      <description>PicoRV32 - A Size-Optimized RISC-V CPU</description>
+    </item>
+    
+  </channel>
+</rss>

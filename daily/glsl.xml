@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub GLSL Daily Trending</title>
+    <description>Daily Trending of GLSL in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:07:40 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>patriciogonzalezvivo/thebookofshaders</title>
+      <link>https://github.com/patriciogonzalezvivo/thebookofshaders</link>
+      <description>Step-by-step guide through the abstract and complex universe of Fragment Shaders.</description>
+    </item>
+    
+  </channel>
+</rss>

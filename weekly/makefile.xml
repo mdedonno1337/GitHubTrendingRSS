@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Makefile Weekly Trending</title>
+    <description>Weekly Trending of Makefile in GitHub</description>
+    <pubDate>Mon, 11 May 2020 01:25:44 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ramitsurana/awesome-kubernetes</title>
+      <link>https://github.com/ramitsurana/awesome-kubernetes</link>
+      <description>A curated list for awesome kubernetes sources 🚢🎉</description>
+    </item>
+    
+    <item>
+      <title>NVIDIA/nvidia-docker</title>
+      <link>https://github.com/NVIDIA/nvidia-docker</link>
+      <description>Build and run Docker containers leveraging NVIDIA GPUs</description>
+    </item>
+    
+    <item>
+      <title>frida/frida</title>
+      <link>https://github.com/frida/frida</link>
+      <description>Clone this repo to build Frida</description>
+    </item>
+    
+    <item>
+      <title>unifi-poller/unifi-poller</title>
+      <link>https://github.com/unifi-poller/unifi-poller</link>
+      <description>Application: Collect ALL UniFi Controller, Site, Device &amp; Client Data - Export to InfluxDB or Prometheus</description>
+    </item>
+    
+    <item>
+      <title>Naereen/badges</title>
+      <link>https://github.com/Naereen/badges</link>
+      <description>📝 Markdown code for lots of small badges 🎀 📌 (shields.io, forthebadge.com etc) 😎. Contributions are welcome! Please add yourse!</description>
+    </item>
+    
+    <item>
+      <title>open-telemetry/opentelemetry-specification</title>
+      <link>https://github.com/open-telemetry/opentelemetry-specification</link>
+      <description>Specifications for OpenTelemetry</description>
+    </item>
+    
+    <item>
+      <title>redox-os/redox</title>
+      <link>https://github.com/redox-os/redox</link>
+      <description>Mirror of https://gitlab.redox-os.org/redox-os/redox</description>
+    </item>
+    
+    <item>
+      <title>tomwhite/hadoop-book</title>
+      <link>https://github.com/tomwhite/hadoop-book</link>
+      <description>Example source code accompanying O&#39;Reilly&#39;s &quot;Hadoop: The Definitive Guide&quot; by Tom White</description>
+    </item>
+    
+    <item>
+      <title>PegasusWang/python_data_structures_and_algorithms</title>
+      <link>https://github.com/PegasusWang/python_data_structures_and_algorithms</link>
+      <description>Python 中文数据结构和算法教程</description>
+    </item>
+    
+    <item>
+      <title>golang-standards/project-layout</title>
+      <link>https://github.com/golang-standards/project-layout</link>
+      <description>Standard Go Project Layout</description>
+    </item>
+    
+  </channel>
+</rss>
